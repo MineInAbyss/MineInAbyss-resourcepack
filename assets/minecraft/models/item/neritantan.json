@@ -561,7 +561,8 @@
 	],
 	"display": {
 		"head": {
-			"translation":  [ 0, 2.7, 0 ]
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ 0, -25, 0 ]
 		}
 	}
 }
