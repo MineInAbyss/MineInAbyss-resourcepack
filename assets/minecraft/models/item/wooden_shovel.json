@@ -6,8 +6,8 @@
 	"overrides": [
 		{ "predicate": {"damaged": 0, "damage": 0}, "model": "item/wooden_shovel"},
 		{ "predicate": {"damaged": 0, "damage": 0.016666666666666666}, "model": "item/wooden_shovel0"},
-		{ "predicate": {"damaged": 0, "damage": 0.03333333333333333}, "model": "item/campfire"},
-		{ "predicate": {"damaged": 0, "damage": 0.05}, "model": "item/campfire_off"},
+		{ "predicate": {"damaged": 0, "damage": 0.03333333333333333}, "model": "item/other/campfire/campfire"},
+		{ "predicate": {"damaged": 0, "damage": 0.05}, "model": "item/other/campfire/campfire_off"},
 		{ "predicate": {"damaged": 0, "damage": 0.06666666666666667}, "model": "item/wooden_shovel3"},
 		{ "predicate": {"damaged": 0, "damage": 0.08333333333333333}, "model": "item/wooden_shovel4"},
 		{ "predicate": {"damaged": 0, "damage": 0.1}, "model": "item/wooden_shovel5"},
