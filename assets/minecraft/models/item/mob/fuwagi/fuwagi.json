@@ -173,7 +173,7 @@
 	],
 	"display": {
 		"head": {
-			"translation":  [ 0, -35, 0 ],
+			"translation":  [ 0, -28, 0 ],
 			"scale":  [ 2, 2, 2 ]
 		}
 	}

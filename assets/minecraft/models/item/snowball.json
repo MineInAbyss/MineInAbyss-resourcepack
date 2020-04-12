@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":  1}, "model": "item/equipment/grappling/hook"},
+		{"predicate": {"custom_model_data":  2}, "model": "item/equipment/grappling/incinerator"},
+		{"predicate": {"custom_model_data":  3}, "model": "item/other/coal_pebble"}
+	]
+}
