@@ -3,5 +3,10 @@
 		"sounds": [
 			"entity/corpseweeper/snarl2"
 		]
+	},
+	"music.custom.noteblock.deepinabyss": {
+		"sounds": [
+			"music/noteblock/deep-in-abyss"
+		]
 	}
 }
