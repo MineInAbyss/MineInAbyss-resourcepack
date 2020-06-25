@@ -1,0 +1,99 @@
+name: Publish Release
+
+on:
+  pull_request:
+    branches:
+      - master
+    types:
+      - closed
+
+jobs:
+  # Determine what version this release is and upload as an artifact
+  determine-release-version:
+    runs-on: ubuntu-latest
+    if: >-
+      (contains(github.event.pull_request.labels.*.name, 'major') ||
+      contains(github.event.pull_request.labels.*.name, 'minor') ||
+      contains(github.event.pull_request.labels.*.name, 'patch'))
+      && github.event.pull_request.merged == true
+    steps:
+      - name: Find change type
+        id: bump
+        uses: zwaldowski/match-label-action@v1
+        with:
+          allowed: major,minor,patch
+      - name: Get next version
+        uses: zwaldowski/semver-release-action@v2
+        id: next_version
+        with:
+          bump: ${{ steps.bump.outputs.match }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prefix: v
+          dry_run: true
+      - name: Create release version artifact
+        shell: bash
+        run: |
+          echo "${{ steps.next_version.outputs.version }}" > version.txt
+      - name: Upload release version artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: version
+          path: version.txt
+  generatepack:
+    runs-on: ubuntu-latest
+    needs: [determine-release-version]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download release version artifact
+        uses: actions/download-artifact@v1
+        with:
+          name: version
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          # Currently nothing to install!
+          #      - name: Cache pip
+          #        uses: actions/cache@v2
+          #        with:
+          #          # This path is specific to Ubuntu
+          #          path: ~/.cache/pip
+          #          # Look to see if there is a cache hit for the corresponding requirements file
+          #          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
+          #          restore-keys: |
+          #            ${{ runner.os }}-pip-
+          #            ${{ runner.os }}-
+          #      - name: Install dependencies
+          #        run: pip install -r scripts/requirements.txt
+      - name: Generate hit textures and package
+        run: python scripts/hit_texture_generator.py
+      - name: Upload zip
+      uses: actions/upload-artifact@v2
+      with:
+        name: resourcepack
+        path: out/Mine in Abyss - Models.zip
+  create-release:
+    runs-on: ubuntu-latest
+    needs: [determine-release-version, generatepack]
+    steps:
+      - name: Download release version artifact
+        uses: actions/download-artifact@v1
+        with:
+          name: version
+      - shell: bash
+        id: extract_version
+        run: |
+          version=`cat version/version.txt`
+          echo "::set-output name=version::$version"
+      - name: Download Resourcepack
+        uses: actions/download-artifact@v1
+        with:
+          name: resourcepack
+      - name: Create GitHub Release
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          automatic_release_tag: v${{ steps.extract_version.outputs.version }}
+          files: |
+            resourcepack/*
