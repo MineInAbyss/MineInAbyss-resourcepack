@@ -70,7 +70,7 @@
   "container.chestDouble": "Large Chest",
   "container.enderchest": "Ender Chest",
   "container.beacon": "Beacon",
-  "container.shulkerBox": "§cShulker Box",
+  "container.shulkerBox": "Shulker Box",
   "container.shulkerBox.more": "and %s more...",
   "container.barrel": "Barrel",
   "container.spectatorCantOpen": "Unable to open. Loot not generated yet.",
