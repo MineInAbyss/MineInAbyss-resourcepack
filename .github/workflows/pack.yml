@@ -66,7 +66,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
       - name: Generate hit textures and package
-        run: python scripts/hit_texture_generator.py
+        run: python scripts/publisher.py
       - name: Upload zip
         uses: actions/upload-artifact@v2
         with:
