@@ -29,7 +29,7 @@ else:
 print("Got version: " + version)
 
 print("Create zip file and add minified json into it")
-zipf = zipfile.ZipFile(output_dir / "Mine in Abyss - Models.zip", 'w', zipfile.ZIP_DEFLATED)
+zipf = zipfile.ZipFile(output_dir / "MineInAbyss-Models.zip", 'w', zipfile.ZIP_DEFLATED)
 for root, dirs, files in os.walk(root_dir / "assets/"):
     for file in files:
         if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
