@@ -6,7 +6,13 @@ import os
 import zipfile
 from pathlib import Path
 
-from scripts.hit_texture_generator import hit_gen_dir, root_dir, output_dir
+# set working dir to this file
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname)
+
+
+from hit_texture_generator import hit_gen_dir, root_dir, output_dir
 
 
 def minify(file_name: str):
