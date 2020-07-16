@@ -52,19 +52,19 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-          # Currently nothing to install!
-          #      - name: Cache pip
-          #        uses: actions/cache@v2
-          #        with:
-          #          # This path is specific to Ubuntu
-          #          path: ~/.cache/pip
-          #          # Look to see if there is a cache hit for the corresponding requirements file
-          #          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
-          #          restore-keys: |
-          #            ${{ runner.os }}-pip-
-          #            ${{ runner.os }}-
-          #      - name: Install dependencies
-          #        run: pip install -r scripts/requirements.txt
+          # Nothing too big to make caching worth it for now.
+#      - name: Cache pip
+#        uses: actions/cache@v2
+#        with:
+#          # This path is specific to Ubuntu
+#          path: ~/.cache/pip
+#          # Look to see if there is a cache hit for the corresponding requirements file
+#          key: ${{ runner.os }}-pip-${{ hashFiles('scripts/requirements.txt') }}
+#          restore-keys: |
+#            ${{ runner.os }}-pip-
+#            ${{ runner.os }}-
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
       - name: Generate hit textures and package
         run: python scripts/hit_texture_generator.py
       - name: Upload zip
