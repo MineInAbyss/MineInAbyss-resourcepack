@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/BK.png",
+      "file": "minecraft:emotes/bk.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/Regg.png",
+      "file": "minecraft:emotes/regg.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/YeEkO.png",
+      "file": "minecraft:emotes/yeekoscuffed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -560,7 +560,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/osuHOW.png",
+      "file": "minecraft:emotes/osuhow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -587,7 +587,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/AYAYA.png",
+      "file": "minecraft:emotes/ayaya.png",
       "ascent": 9,
       "height": 11,
       "chars": [
