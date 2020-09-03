@@ -18,6 +18,7 @@
 		{ "predicate": {"custom_model_data": 13}, "model": "item/characters/shiggy"},
 		{ "predicate": {"custom_model_data": 14}, "model": "item/characters/torka"},
 		{ "predicate": {"custom_model_data": 15}, "model": "item/characters/lyza"},
-		{ "predicate": {"custom_model_data": 16}, "model": "item/characters/prushka"}
+		{ "predicate": {"custom_model_data": 16}, "model": "item/characters/prushka"},
+		{ "predicate": {"custom_model_data": 17}, "model": "item/characters/faputa"}
 	]
 }

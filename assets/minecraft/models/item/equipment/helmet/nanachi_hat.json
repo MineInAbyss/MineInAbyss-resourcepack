@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/characters/nanachi/nanachihat_hair",
+		"3": "item/characters/nanachi/nanachi_hair",
 		"5": "item/characters/nanachi/nanachihat_base",
 		"6": "item/characters/nanachi/nanachihat_beginning",
 		"7": "item/characters/nanachi/nanachihat_fur"

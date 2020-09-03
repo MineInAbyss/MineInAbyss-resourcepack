@@ -1,15 +1,15 @@
 {
 	"__comment": "No UV-bleed, OK coordinate, OK texture, OK cullface",
 	"textures": {
-		"block": "items/diamond_pickaxe",
-		"particle": "items/diamond_pickaxe",
-		"Wood": "relics/wood",
-		"handle_paper": "relics/handle_paper",
-		"handle_bottom": "relics/handle_bottom",
-		"head_bright": "relics/head_bright",
-		"head_dark": "relics/head_dark",
-		"handle_dark": "relics/handle_dark",
-		"handle_top": "relics/handle_top"
+		"block": "items/blaze_reap/head_bright",
+		"particle": "items/blaze_reap/head_bright",
+		"Wood": "relics/blaze_reap/wood",
+		"handle_paper": "relics/blaze_reap/handle_paper",
+		"handle_bottom": "relics/blaze_reap/handle_bottom",
+		"head_bright": "relics/blaze_reap/head_bright",
+		"head_dark": "relics/blaze_reap/head_dark",
+		"handle_dark": "relics/blaze_reap/handle_dark",
+		"handle_top": "relics/blaze_reap/handle_top"
 	},
 	"elements": [ 	 
 		{
