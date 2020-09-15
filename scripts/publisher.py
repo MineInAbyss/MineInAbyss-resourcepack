@@ -4,6 +4,7 @@
 import json
 import os
 import zipfile
+from json.decoder import JSONDecodeError
 from pathlib import Path
 
 # set working dir to this file
@@ -43,8 +44,8 @@ for root, dirs, files in os.walk(root_dir / "assets/"):
                 minified = minify(read_path)
                 zipf.writestr(str(write_path), str(minified))
                 continue
-            except UnicodeDecodeError:
-                pass
+            except (UnicodeDecodeError, JSONDecodeError):
+                print(f'Could not minify {write_path}, using original instead. Is it valid JSON?')
         zipf.write(read_path, write_path)
 
 print("Add hit models & textures to the zip")
