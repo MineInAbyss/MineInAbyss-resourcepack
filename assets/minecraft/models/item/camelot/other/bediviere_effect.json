@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "event/camelot/effect",
+		"particle": "event/camelot/effect"
+	},
+	"elements": [
+		{
+			"from": [5.7, 1.7, 5.7],
+			"to": [10.3, 14.3, 10.3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 2.5, 9.5]},
+			"faces": {
+				"north": {"uv": [0, 4, 3.8, 15.8], "texture": "#0"},
+				"east": {"uv": [12, 4, 15.8, 15.8], "texture": "#0"},
+				"south": {"uv": [4, 4, 7.8, 15.8], "texture": "#0"},
+				"west": {"uv": [8, 4, 11.8, 15.8], "texture": "#0"},
+				"up": {"uv": [4, 0, 7.8, 3.8], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [8, 0, 11.8, 3.8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2, 6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 0],
+			"translation": [0, -2, 6]
+		},
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"scale": [1, 0.4, 1]
+		},
+		"gui": {
+			"scale": [3.49, 1.28, 1]
+		},
+		"head": {
+			"scale": [3.25, 1.25, 3.25]
+		},
+		"fixed": {
+			"translation": [0, 0, 1.25],
+			"scale": [4, 1.45, 1]
+		}
+	}
+}
