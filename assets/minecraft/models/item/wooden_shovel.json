@@ -1,10 +1,11 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/wooden_shovel"
-	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/other/campfire/campfire"},
-		{ "predicate": {"custom_model_data": 2}, "model": "item/other/campfire/campfire_off"},
-	]
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/wooden_shovel"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":  1}, "model": "item/other/campfire/campfire"},
+    {"predicate": {"custom_model_data":  2}, "model": "item/other/campfire/campfire_off"}
+  ]
 }

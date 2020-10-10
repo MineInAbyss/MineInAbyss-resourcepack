@@ -3,8 +3,8 @@
 	"textures": {
 		"0": "event/camelot/excalibur",
 		"1": "event/camelot/gate",
-		"particle": "event/camelot/nito staff",
-		"3_0": "event/camelot/nito staff"
+		"particle": "event/camelot/nito_staff",
+		"3_0": "event/camelot/nito_staff"
 	},
 	"elements": [
 		{
