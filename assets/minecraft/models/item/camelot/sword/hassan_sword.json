@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "event/camelot/hassan sword",
-		"particle": "event/camelot/hassan sword"
+		"0": "event/camelot/hassan_sword",
+		"particle": "event/camelot/hassan_sword"
 	},
 	"elements": [
 		{
