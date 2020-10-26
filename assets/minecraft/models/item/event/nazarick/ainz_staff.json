@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "event/camelot/staff_ainz",
-		"1": "event/camelot/ainz_gems",
-		"2": "event/camelot/ainz_satff_shadow",
-		"particle": "event/camelot/staff_ainz"
+		"0": "event/nazarick/ainz_staff",
+		"1": "event/nazarick/ainz_gems",
+		"2": "event/nazarick/ainz_satff_shadow",
+		"particle": "event/nazarick/ainz_staff"
 	},
 	"elements": [
 		{
