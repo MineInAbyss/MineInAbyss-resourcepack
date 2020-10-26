@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "event/camelot/nito staff",
-		"particle": "event/camelot/nito staff"
+		"0": "event/camelot/nito_staff",
+		"particle": "event/camelot/nito_staff"
 	},
 	"elements": [
 		{
