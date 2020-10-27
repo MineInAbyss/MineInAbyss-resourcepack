@@ -1,13 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-<<<<<<< HEAD
 		"0": "event/other/duel_disk_1",
 		"particle": "event/other/duel_disk_1"
-=======
-		"0": "event/camelot/duel_disk_1",
-		"particle": "event/camelot/duel_disk_1"
->>>>>>> upstream/master
 	},
 	"elements": [
 		{
