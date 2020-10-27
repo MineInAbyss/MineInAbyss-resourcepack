@@ -1,0 +1,30 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/netherite_sword"
+ },
+ "overrides": [
+	{ "predicate": {"custom_model_data": 1}, "model": "item/event/camelot/sword/arondight"},
+	{ "predicate": {"custom_model_data": 2}, "model": "item/event/camelot/sword/clarent"},
+	{ "predicate": {"custom_model_data": 3}, "model": "item/event/camelot/sword/excalibur"},
+	{ "predicate": {"custom_model_data": 4}, "model": "item/event/camelot/sword/galatine"},
+	{ "predicate": {"custom_model_data": 5}, "model": "item/event/camelot/sword/hassan_sword"},
+	{ "predicate": {"custom_model_data": 6}, "model": "item/event/camelot/sword/steel_sword"},
+	{ "predicate": {"custom_model_data": 10}, "model": "item/event/camelot/weapon/brynhildr_spear"},
+	{ "predicate": {"custom_model_data": 11}, "model": "item/event/camelot/weapon/bunyan_axe"},
+	{ "predicate": {"custom_model_data": 12}, "model": "item/event/camelot/weapon/marthas_cross"},
+	{ "predicate": {"custom_model_data": 13}, "model": "item/event/camelot/weapon/nitocris_staff"},
+	{ "predicate": {"custom_model_data": 14}, "model": "item/event/camelot/weapon/ozy_staff"},
+	{ "predicate": {"custom_model_data": 15}, "model": "item/event/camelot/weapon/photon_ray"},
+	{ "predicate": {"custom_model_data": 16}, "model": "item/event/camelot/weapon/rhongomyniad"},
+	{ "predicate": {"custom_model_data": 20}, "model": "item/event/camelot/other/bediviere_effect"},
+	{ "predicate": {"custom_model_data": 21}, "model": "item/event/camelot/other/holy_grail"},
+	{ "predicate": {"custom_model_data": 22}, "model": "item/event/camelot/other/not_so_holy_grail"},
+	{ "predicate": {"custom_model_data": 23}, "model": "item/event/camelot/other/nursery_rhyme"},
+	{ "predicate": {"custom_model_data": 24}, "model": "item/event/camelot/other/shuten_bowl"},
+	{ "predicate": {"custom_model_data": 25}, "model": "item/event/camelot/other/shuten_sakazuki"},
+	{ "predicate": {"custom_model_data": 100}, "model": "item/event/nazarick/ainz_staff"},
+	{ "predicate": {"custom_model_data": 101},"model":"item/event/nazarick/3f"},
+	{ "predicate": {"custom_model_data": 102},"model":"item/event/nazarick/god_slaying_emperor_blade"}
+ ]
+}
