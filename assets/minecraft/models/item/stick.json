@@ -24,8 +24,7 @@
 	{ "predicate": {"custom_model_data": 24}, "model": "item/event/camelot/other/shuten_bowl"},
 	{ "predicate": {"custom_model_data": 25}, "model": "item/event/camelot/other/shuten_sakazuki"},
 	{ "predicate": {"custom_model_data": 100}, "model": "item/event/nazarick/ainz_staff"},
-	{ "predicate": {"custom_model_data": 101},"model":"item/event/nazarick/3F"},
-	{ "predicate": {"custom_model_data": 102},"model":"item/event/nazarick/4F"},
-	{ "predicate": {"custom_model_data": 103},"model":"item/event/nazarick/god_slaying_emperor_blade"}
+	{ "predicate": {"custom_model_data": 101},"model":"item/event/nazarick/3f"},
+	{ "predicate": {"custom_model_data": 102},"model":"item/event/nazarick/god_slaying_emperor_blade"}
  ]
 }
