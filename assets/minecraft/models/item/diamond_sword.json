@@ -88,6 +88,9 @@
 		{ "predicate": {"custom_model_data": 82}, "model": "item/mob/shroombear/shroombear_hit"},
 		{ "predicate": {"custom_model_data": 83}, "model": "item/mob/titanjaw/titanjaw"},
 		{ "predicate": {"custom_model_data": 84}, "model": "item/mob/titanjaw/titanjaw_move"},
-		{ "predicate": {"custom_model_data": 85}, "model": "item/mob/titanjaw/titanjaw_hit"}
+		{ "predicate": {"custom_model_data": 85}, "model": "item/mob/titanjaw/titanjaw_hit"},
+		{ "predicate": {"custom_model_data": 86}, "model": "item/mob/stingerhead/stingerhead"},
+		{ "predicate": {"custom_model_data": 87}, "model": "item/mob/stingerhead/stingerhead"},
+		{ "predicate": {"custom_model_data": 88}, "model": "item/mob/stingerhead/stingerhead"}
 	]
 }
