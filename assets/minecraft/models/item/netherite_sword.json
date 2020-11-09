@@ -1,7 +1,7 @@
 {
  "parent": "item/handheld",
  "textures": {
-  "layer0": "item/stick"
+  "layer0": "item/netherite_sword"
  },
  "overrides": [
 	{ "predicate": {"custom_model_data": 1}, "model": "item/event/camelot/sword/arondight"},
