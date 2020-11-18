@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "food/creatures/ashimite_meat_cooked"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"food/creatures/ashimite_meat_cooked"}}

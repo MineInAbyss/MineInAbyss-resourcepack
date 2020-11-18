@@ -1,12 +1,10 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/cooked_salmon"
+		"layer0": "item/salmon"
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/demonfish_cooked"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/food/creatures/billabonk_leg_cooked"},
-		{"predicate": {"custom_model_data": 3}, "model": "item/food/creatures/hammerbeak_wing_cooked"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/demonfish_cooked"}
 	]
 }

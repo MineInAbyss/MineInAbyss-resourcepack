@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cod"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/billabonk_leg"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/food/creatures/hammerbeak_wing"}
+	]
+}

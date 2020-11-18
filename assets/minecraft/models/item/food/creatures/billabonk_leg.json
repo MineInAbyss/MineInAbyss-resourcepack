@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "food/creatures/billabonk_leg"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"food/creatures/billabonk_leg"}}

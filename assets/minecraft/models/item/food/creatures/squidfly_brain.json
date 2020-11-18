@@ -1,6 +1,1 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "food/creatures/squidfly_brain"
-	}
-}
+{"parent":"item/generated","textures":{"layer0":"food/creatures/squidfly_brain"}}
