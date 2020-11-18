@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "creatures/steve/head-animated",
+		"0": "creatures/steve/head_animated",
 		"1": "creatures/steve/body",
 		"2": "creatures/steve/legs",
-		"particle": "creatures/steve/head-animated"
+		"particle": "creatures/steve/head_animated"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "creatures/titanjaw/legs",
-		"1": "creatures/titanjaw/body",
-		"2": "creatures/titanjaw/head",
-		"particle": "creatures/titanjaw/legs"
+		"0": "creatures/titanjaw/hit/legs",
+		"1": "creatures/titanjaw/hit/body",
+		"2": "creatures/titanjaw/hit/head",
+		"particle": "creatures/titanjaw/hit/legs"
 	},
 	"elements": [
 		{

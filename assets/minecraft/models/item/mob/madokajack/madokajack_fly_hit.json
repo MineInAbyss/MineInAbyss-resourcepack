@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "creatures/madokajack/mouth",
-		"3": "creatures/madokajack/body",
-		"main": "creatures/madokajack/wing_fly"
+		"1": "creatures/madokajack/hit/mouth",
+		"3": "creatures/madokajack/hit/body",
+		"main": "creatures/madokajack/hit/wing_fly"
 	},
 	"elements": [
 		{
