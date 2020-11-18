@@ -1206,10 +1206,6 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"translation": [-6.25, -9.5, 16.25],
-			"scale": [2, 2, 2]
-		},
 		"head": {
 			"translation": [0, -23, 0],
 			"scale": [3, 3, 3]
