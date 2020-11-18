@@ -3,8 +3,7 @@
 	"textures": {
 		"0": "creatures/steve/head_animated",
 		"1": "creatures/steve/body",
-		"2": "creatures/steve/legs",
-		"particle": "creatures/steve/head_animated"
+		"2": "creatures/steve/legs"
 	},
 	"elements": [
 		{
@@ -615,8 +614,8 @@
 			}
 		},
 		{
-			"from": [5.75151, 24.76282, 4.87944],
-			"to": [6.20151, 27.01282, 6.67944],
+			"from": [5.74151, 24.75282, 4.86944],
+			"to": [6.21151, 27.02282, 6.68944],
 			"faces": {
 				"north": {"uv": [9.75, 10.5, 10, 11], "texture": "#0"},
 				"east": {"uv": [9.25, 10.5, 9.75, 11], "texture": "#0"},
@@ -980,8 +979,8 @@
 			}
 		},
 		{
-			"from": [9.99849, 24.76282, 4.87944],
-			"to": [10.44849, 27.01282, 6.67944],
+			"from": [9.98849, 24.75282, 4.86944],
+			"to": [10.45849, 27.02282, 6.68944],
 			"faces": {
 				"north": {"uv": [10.5, 8, 10.75, 8.5], "texture": "#0"},
 				"east": {"uv": [10, 8, 10.5, 8.5], "texture": "#0"},
