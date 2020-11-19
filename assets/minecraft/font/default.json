@@ -845,6 +845,78 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/habohotel.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/walterbruh.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/wakunaw.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/srajow.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/pepebusiness.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/gura.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/rikothumb.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/monke.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
     }
   ]
 }

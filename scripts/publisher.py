@@ -12,7 +12,6 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-
 from hit_texture_generator import hit_gen_dir, root_dir, output_dir
 
 
@@ -35,7 +34,7 @@ for root, dirs, files in os.walk(root_dir / "assets/"):
     for file in files:
         if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
             continue
-        if root.__contains__("mob") and root.__contains__("frames"):
+        if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
             continue
         read_path = Path(root) / file
         write_path = read_path.relative_to(root_dir)
