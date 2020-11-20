@@ -75,7 +75,7 @@
 		{ "predicate": {"custom_model_data": 69}, "model": "item/mob/chimokami/chimokami_run"},
 		{ "predicate": {"custom_model_data": 70}, "model": "item/mob/chimokami/chimokami_hit"},
 		{ "predicate": {"custom_model_data": 71}, "model": "item/mob/demonfish/demonfish"},
-		{ "predicate": {"custom_model_data": 72}, "model": "item/mob/demonfish/demonfish"},
+		{ "predicate": {"custom_model_data": 72}, "model": "item/mob/demonfish/demonfish_move"},
 		{ "predicate": {"custom_model_data": 73}, "model": "item/mob/demonfish/demonfish_hit"},
 		{ "predicate": {"custom_model_data": 74}, "model": "item/mob/sakuranbo/sakuranbo"},
 		{ "predicate": {"custom_model_data": 75}, "model": "item/mob/sakuranbo/sakuranbo_move"},
@@ -91,6 +91,8 @@
 		{ "predicate": {"custom_model_data": 85}, "model": "item/mob/titanjaw/titanjaw_hit"},
 		{ "predicate": {"custom_model_data": 86}, "model": "item/mob/stingerhead/stingerhead"},
 		{ "predicate": {"custom_model_data": 87}, "model": "item/mob/stingerhead/stingerhead"},
-		{ "predicate": {"custom_model_data": 88}, "model": "item/mob/stingerhead/stingerhead"}
+		{ "predicate": {"custom_model_data": 88}, "model": "item/mob/stingerhead/stingerhead"},
+		{ "predicate": {"custom_model_data": 89}, "model": "item/mob/hisomukuro/hisomukuro"},
+		{ "predicate": {"custom_model_data": 90}, "model": "item/mob/hisomukuro/hisomukuro_hit"}
 	]
 }
