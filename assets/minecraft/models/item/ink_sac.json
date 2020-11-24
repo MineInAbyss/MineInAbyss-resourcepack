@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/ink_sac"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/kazura_sac"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/makihige_sac"}
+  ]
+}
