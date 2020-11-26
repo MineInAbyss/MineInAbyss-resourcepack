@@ -31,6 +31,7 @@
 	{ "predicate": {"custom_model_data": 105}, "model": "item/event/nazarick/decapitation_fang"},
 	{ "predicate": {"custom_model_data": 106}, "model": "item/event/nazarick/demi_claw"},
 	{ "predicate": {"custom_model_data": 107},"model":"item/event/nazarick/god_slaying_emperor_blade"},
-	{ "predicate": {"custom_model_data": 108},"model":"item/event/nazarick/shalltear_lance"}
+	{ "predicate": {"custom_model_data": 108},"model":"item/event/nazarick/ring"},
+	{ "predicate": {"custom_model_data": 109},"model":"item/event/nazarick/shalltear_lance"}
  ]
 }
