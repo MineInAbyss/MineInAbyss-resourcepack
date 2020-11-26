@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "event/nazarick/mare staff",
-		"particle": "event/nazarick/mare staff"
+		"0": "event/nazarick/mare_staff",
+		"particle": "event/nazarick/mare_staff"
 	},
 	"elements": [
 		{
