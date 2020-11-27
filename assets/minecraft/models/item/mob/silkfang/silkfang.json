@@ -3641,8 +3641,8 @@
     ], 
     "display": {
         "head": {
-            "translation": [0, -25, 0],
-            "scale": [1.2, 1.2, 1.2]
+            "translation": [0, -15, 0],
+            "scale": [2, 2, 2]
         },
         "thirdperson_righthand": {
             "rotation": [ 67, 0, 0 ], 
