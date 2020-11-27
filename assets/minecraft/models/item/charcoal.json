@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/charcoal"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/hammerbeak_feather"}
+	]
+}
