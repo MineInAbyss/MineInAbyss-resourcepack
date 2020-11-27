@@ -1,6 +1,6 @@
 {
-  "parent":"item/generated",
-  "textures":{
-    "layer0":"food/creatures/cyatoria_drumstick"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "food/creatures/cyatoria_drumstick"
   }
 }
