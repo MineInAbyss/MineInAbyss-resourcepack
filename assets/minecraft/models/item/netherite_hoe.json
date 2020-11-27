@@ -5,8 +5,8 @@
   "layer0": "item/netherite_hoe"
  },
  "overrides": [
-	{ "predicate": {"custom_model_data": 1}, "model": "item/event/nazarick/deathknight"},
-	{ "predicate": {"custom_model_data": 2}, "model": "item/event/nazarick/deathknight"},
-	{ "predicate": {"custom_model_data": 3}, "model": "item/event/nazarick/deathknight_hit"}
+	{ "predicate": {"custom_model_data": 1}, "model": "item/mob/nazarick_deathknight/deathknight"},
+	{ "predicate": {"custom_model_data": 2}, "model": "item/mob/nazarick_deathknight/deathknight"},
+	{ "predicate": {"custom_model_data": 3}, "model": "item/mob/nazarick_deathknight/deathknight_hit"}
  ]
 }
