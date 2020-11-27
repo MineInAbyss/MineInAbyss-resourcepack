@@ -91,6 +91,27 @@
 		{ "predicate": {"custom_model_data": 85}, "model": "item/mob/titanjaw/titanjaw_hit"},
 		{ "predicate": {"custom_model_data": 86}, "model": "item/mob/stingerhead/stingerhead"},
 		{ "predicate": {"custom_model_data": 87}, "model": "item/mob/stingerhead/stingerhead"},
-		{ "predicate": {"custom_model_data": 88}, "model": "item/mob/stingerhead/stingerhead"}
+		{ "predicate": {"custom_model_data": 88}, "model": "item/mob/stingerhead/stingerhead_hit"},
+		{ "predicate": {"custom_model_data": 89}, "model": "item/mob/uibuta/uibuta"},
+		{ "predicate": {"custom_model_data": 90}, "model": "item/mob/uibuta/uibuta"},
+		{ "predicate": {"custom_model_data": 91}, "model": "item/mob/uibuta/uibuta_hit"},
+		{ "predicate": {"custom_model_data": 92}, "model": "item/mob/hisomukuro/hisomukuro"},
+		{ "predicate": {"custom_model_data": 93}, "model": "item/mob/hisomukuro/hisomukuro"},
+		{ "predicate": {"custom_model_data": 94}, "model": "item/mob/hisomukuro/hisomukuro"},
+		{ "predicate": {"custom_model_data": 95}, "model": "item/mob/hashofu/hashofu"},
+		{ "predicate": {"custom_model_data": 96}, "model": "item/mob/hashofu/hashofu_fly"},
+		{ "predicate": {"custom_model_data": 97}, "model": "item/mob/hashofu/hashofu_hit"},
+		{ "predicate": {"custom_model_data": 98}, "model": "item/mob/abyssal_snail/abyssal_snail"},
+		{ "predicate": {"custom_model_data": 99}, "model": "item/mob/abyssal_snail/abyssal_snail"},
+		{ "predicate": {"custom_model_data": 100}, "model": "item/mob/abyssal_snail/abyssal_snail_hit"},
+		{ "predicate": {"custom_model_data": 101}, "model": "item/mob/beniguma/beniguma"},
+		{ "predicate": {"custom_model_data": 102}, "model": "item/mob/beniguma/beniguma"},
+		{ "predicate": {"custom_model_data": 103}, "model": "item/mob/beniguma/beniguma_hit"},
+		{ "predicate": {"custom_model_data": 104}, "model": "item/mob/squidfly/squidfly"},
+		{ "predicate": {"custom_model_data": 105}, "model": "item/mob/squidfly/squidfly"},
+		{ "predicate": {"custom_model_data": 106}, "model": "item/mob/squidfly/squidfly_hit"},
+		{ "predicate": {"custom_model_data": 107}, "model": "item/event/nazarick/deathknight"},
+		{ "predicate": {"custom_model_data": 108}, "model": "item/event/nazarick/deathknight_walk"},
+		{ "predicate": {"custom_model_data": 109}, "model": "item/event/nazarick/deathknight_hit"}
 	]
 }
