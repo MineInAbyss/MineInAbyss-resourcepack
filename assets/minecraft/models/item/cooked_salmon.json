@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/salmon"
+		"layer0": "item/cooked_salmon"
 	},
 
 	"overrides": [

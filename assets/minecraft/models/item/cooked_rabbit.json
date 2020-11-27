@@ -1,1 +1,10 @@
-{"parent":"item/generated","textures":{"layer0":"item/rabbit"},"overrides":[{"predicate":{"custom_model_data":1},"model":"item/food/creatures/fuwagi_meat_cooked"}]}
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/rabbit"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/fuwagi_meat_cooked"}
+	]
+}
