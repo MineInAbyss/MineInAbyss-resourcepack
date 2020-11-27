@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "event/camelot/tristan_bow",
 		"1": "block/spruce_log",
-		"2": "block/soul_fire_0",
+		"2": "event/camelot/tristanfire",
 		"particle": "event/camelot/tristan_bow"
 	},
 	"elements": [

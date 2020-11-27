@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "event/camelot/tomoe_bow",
-		"1": "block/fire_0",
+		"1": "event/camelot/tomoefire",
 		"2": "event/camelot/tomoe_arrow",
 		"particle": "event/camelot/tomoe_bow"
 	},
