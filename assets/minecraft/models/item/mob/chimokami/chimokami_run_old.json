@@ -1202,212 +1202,47 @@
 		{
 			"name": "Chimokami",
 			"origin": [8, 8, 8],
-			"children": [
+			"children": [0, 1, 2, 3, 4, 5, 6,
 				{
-					"name": "Chimokami",
+					"name": "Tail",
 					"origin": [8, 8, 8],
-					"children": [0, 1, 2, 3, 4, 5, 6,
+					"children": [7,
 						{
-							"name": "Tail",
+							"name": "Tail1",
 							"origin": [8, 8, 8],
-							"children": [7,
+							"children": [8,
 								{
-									"name": "Tail1",
+									"name": "Tail2",
 									"origin": [8, 8, 8],
-									"children": [8,
+									"children": [9,
 										{
-											"name": "Tail2",
+											"name": "Tail3",
 											"origin": [8, 8, 8],
-											"children": [9,
+											"children": [10,
 												{
-													"name": "Tail3",
+													"name": "Tail4",
 													"origin": [8, 8, 8],
-													"children": [10,
+													"children": [11,
 														{
-															"name": "Tail4",
+															"name": "Tail5",
 															"origin": [8, 8, 8],
-															"children": [11,
+															"children": [12,
 																{
-																	"name": "Tail5",
+																	"name": "Tail6",
 																	"origin": [8, 8, 8],
-																	"children": [12,
+																	"children": [13,
 																		{
-																			"name": "Tail6",
+																			"name": "Tail7",
 																			"origin": [8, 8, 8],
-																			"children": [13,
+																			"children": [14,
 																				{
-																					"name": "Tail7",
+																					"name": "Tail8",
 																					"origin": [8, 8, 8],
-																					"children": [14,
+																					"children": [15,
 																						{
-																							"name": "Tail8",
+																							"name": "Tail9",
 																							"origin": [8, 8, 8],
-																							"children": [15,
-																								{
-																									"name": "Tail9",
-																									"origin": [8, 8, 8],
-																									"children": [16]
-																								}
-																							]
-																						}
-																					]
-																				}
-																			]
-																		}
-																	]
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"name": "Tail10",
-									"origin": [8, 8, 8],
-									"children": [17,
-										{
-											"name": "Tail2",
-											"origin": [8, 8, 8],
-											"children": [18,
-												{
-													"name": "Tail3",
-													"origin": [8, 8, 8],
-													"children": [19,
-														{
-															"name": "Tail4",
-															"origin": [8, 8, 8],
-															"children": [20,
-																{
-																	"name": "Tail5",
-																	"origin": [8, 8, 8],
-																	"children": [21,
-																		{
-																			"name": "Tail6",
-																			"origin": [8, 8, 8],
-																			"children": [22,
-																				{
-																					"name": "Tail7",
-																					"origin": [8, 8, 8],
-																					"children": [23,
-																						{
-																							"name": "Tail8",
-																							"origin": [8, 8, 8],
-																							"children": [24,
-																								{
-																									"name": "Tail9",
-																									"origin": [8, 8, 8],
-																									"children": [25]
-																								}
-																							]
-																						}
-																					]
-																				}
-																			]
-																		}
-																	]
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"name": "Tail10",
-									"origin": [8, 8, 8],
-									"children": [26,
-										{
-											"name": "Tail2",
-											"origin": [8, 8, 8],
-											"children": [27,
-												{
-													"name": "Tail3",
-													"origin": [8, 8, 8],
-													"children": [28,
-														{
-															"name": "Tail4",
-															"origin": [8, 8, 8],
-															"children": [29,
-																{
-																	"name": "Tail5",
-																	"origin": [8, 8, 8],
-																	"children": [30,
-																		{
-																			"name": "Tail6",
-																			"origin": [8, 8, 8],
-																			"children": [31,
-																				{
-																					"name": "Tail7",
-																					"origin": [8, 8, 8],
-																					"children": [32,
-																						{
-																							"name": "Tail8",
-																							"origin": [8, 8, 8],
-																							"children": [33,
-																								{
-																									"name": "Tail9",
-																									"origin": [8, 8, 8],
-																									"children": [34]
-																								}
-																							]
-																						}
-																					]
-																				}
-																			]
-																		}
-																	]
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"name": "Tail11",
-									"origin": [8, 8, 8],
-									"children": [
-										{
-											"name": "Tail2",
-											"origin": [8, 8, 8],
-											"children": [
-												{
-													"name": "Tail3",
-													"origin": [8, 8, 8],
-													"children": [
-														{
-															"name": "Tail4",
-															"origin": [8, 8, 8],
-															"children": [
-																{
-																	"name": "Tail5",
-																	"origin": [8, 8, 8],
-																	"children": [
-																		{
-																			"name": "Tail6",
-																			"origin": [8, 8, 8],
-																			"children": [
-																				{
-																					"name": "Tail7",
-																					"origin": [8, 8, 8],
-																					"children": [
-																						{
-																							"name": "Tail8",
-																							"origin": [8, 8, 8],
-																							"children": [
-																								{
-																									"name": "Tail9",
-																									"origin": [8, 8, 8],
-																									"children": []
-																								}
-																							]
+																							"children": [16]
 																						}
 																					]
 																				}
@@ -1426,34 +1261,47 @@
 							]
 						},
 						{
-							"name": "Leg",
+							"name": "Tail10",
 							"origin": [8, 8, 8],
-							"children": [35,
+							"children": [17,
 								{
-									"name": "Leg1",
+									"name": "Tail2",
 									"origin": [8, 8, 8],
-									"children": [36,
+									"children": [18,
 										{
-											"name": "Leg2",
+											"name": "Tail3",
 											"origin": [8, 8, 8],
-											"children": [37,
+											"children": [19,
 												{
-													"name": "Leg3",
+													"name": "Tail4",
 													"origin": [8, 8, 8],
-													"children": [38,
+													"children": [20,
 														{
-															"name": "Foot",
+															"name": "Tail5",
 															"origin": [8, 8, 8],
-															"children": [39,
+															"children": [21,
 																{
-																	"name": "Rear_toe",
+																	"name": "Tail6",
 																	"origin": [8, 8, 8],
-																	"children": [40, 41]
-																},
-																{
-																	"name": "Front_toes",
-																	"origin": [8, 8, 8],
-																	"children": [42, 43, 44, 45, 46, 47]
+																	"children": [22,
+																		{
+																			"name": "Tail7",
+																			"origin": [8, 8, 8],
+																			"children": [23,
+																				{
+																					"name": "Tail8",
+																					"origin": [8, 8, 8],
+																					"children": [24,
+																						{
+																							"name": "Tail9",
+																							"origin": [8, 8, 8],
+																							"children": [25]
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
 																}
 															]
 														}
@@ -1466,34 +1314,47 @@
 							]
 						},
 						{
-							"name": "Leg",
+							"name": "Tail10",
 							"origin": [8, 8, 8],
-							"children": [48,
+							"children": [26,
 								{
-									"name": "Leg1",
+									"name": "Tail2",
 									"origin": [8, 8, 8],
-									"children": [49,
+									"children": [27,
 										{
-											"name": "Leg2",
+											"name": "Tail3",
 											"origin": [8, 8, 8],
-											"children": [50,
+											"children": [28,
 												{
-													"name": "Leg3",
+													"name": "Tail4",
 													"origin": [8, 8, 8],
-													"children": [51,
+													"children": [29,
 														{
-															"name": "Foot",
+															"name": "Tail5",
 															"origin": [8, 8, 8],
-															"children": [52,
+															"children": [30,
 																{
-																	"name": "Rear_toe",
+																	"name": "Tail6",
 																	"origin": [8, 8, 8],
-																	"children": [53, 54]
-																},
-																{
-																	"name": "Front_toes",
-																	"origin": [8, 8, 8],
-																	"children": [55, 56, 57, 58, 59, 60]
+																	"children": [31,
+																		{
+																			"name": "Tail7",
+																			"origin": [8, 8, 8],
+																			"children": [32,
+																				{
+																					"name": "Tail8",
+																					"origin": [8, 8, 8],
+																					"children": [33,
+																						{
+																							"name": "Tail9",
+																							"origin": [8, 8, 8],
+																							"children": [34]
+																						}
+																					]
+																				}
+																			]
+																		}
+																	]
 																}
 															]
 														}
@@ -1504,183 +1365,183 @@
 									]
 								}
 							]
-						},
-						{
-							"name": "Leg",
-							"origin": [8, 8, 8],
-							"children": [
-								{
-									"name": "Leg1",
-									"origin": [8, 8, 8],
-									"children": [
-										{
-											"name": "Leg2",
-											"origin": [8, 8, 8],
-											"children": [
-												{
-													"name": "Leg3",
-													"origin": [8, 8, 8],
-													"children": [
-														{
-															"name": "Foot",
-															"origin": [8, 8, 8],
-															"children": [
-																{
-																	"name": "Rear_toe",
-																	"origin": [8, 8, 8],
-																	"children": []
-																},
-																{
-																	"name": "Front_toes",
-																	"origin": [8, 8, 8],
-																	"children": []
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"name": "Leg5",
-							"origin": [8, 8, 8],
-							"children": [61,
-								{
-									"name": "Leg1",
-									"origin": [8, 8, 8],
-									"children": [62,
-										{
-											"name": "Leg2",
-											"origin": [8, 8, 8],
-											"children": [63,
-												{
-													"name": "Leg3",
-													"origin": [8, 8, 8],
-													"children": [64,
-														{
-															"name": "Foot",
-															"origin": [8, 8, 8],
-															"children": [65,
-																{
-																	"name": "Rear_toe",
-																	"origin": [8, 8, 8],
-																	"children": [66, 67]
-																},
-																{
-																	"name": "Front_toes",
-																	"origin": [8, 8, 8],
-																	"children": [68, 69, 70, 71, 72, 73]
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"name": "Leg5",
-							"origin": [8, 8, 8],
-							"children": [74,
-								{
-									"name": "Leg1",
-									"origin": [8, 8, 8],
-									"children": [75,
-										{
-											"name": "Leg2",
-											"origin": [8, 8, 8],
-											"children": [76,
-												{
-													"name": "Leg3",
-													"origin": [8, 8, 8],
-													"children": [77,
-														{
-															"name": "Foot",
-															"origin": [8, 8, 8],
-															"children": [78,
-																{
-																	"name": "Rear_toe",
-																	"origin": [8, 8, 8],
-																	"children": [79, 80]
-																},
-																{
-																	"name": "Front_toes",
-																	"origin": [8, 8, 8],
-																	"children": [81, 82, 83, 84, 85, 86]
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"name": "Leg5",
-							"origin": [8, 8, 8],
-							"children": [
-								{
-									"name": "Leg1",
-									"origin": [8, 8, 8],
-									"children": [
-										{
-											"name": "Leg2",
-											"origin": [8, 8, 8],
-											"children": [
-												{
-													"name": "Leg3",
-													"origin": [8, 8, 8],
-													"children": [
-														{
-															"name": "Foot",
-															"origin": [8, 8, 8],
-															"children": [
-																{
-																	"name": "Rear_toe",
-																	"origin": [8, 8, 8],
-																	"children": []
-																},
-																{
-																	"name": "Front_toes",
-																	"origin": [8, 8, 8],
-																	"children": []
-																}
-															]
-														}
-													]
-												}
-											]
-										}
-									]
-								}
-							]
-						},
-						{
-							"name": "Head",
-							"origin": [8, 8, 8],
-							"children": [87, 88, 89,
-								{
-									"name": "Upper Jaw",
-									"origin": [8, 8, 8],
-									"children": [90, 91, 92, 93]
-								},
-								{
-									"name": "Lower Jaw",
-									"origin": [8, 8, 8],
-									"children": [94]
-								}, 95]
 						}
 					]
+				},
+				{
+					"name": "Leg",
+					"origin": [8, 8, 8],
+					"children": [35,
+						{
+							"name": "Leg1",
+							"origin": [8, 8, 8],
+							"children": [36,
+								{
+									"name": "Leg2",
+									"origin": [8, 8, 8],
+									"children": [37,
+										{
+											"name": "Leg3",
+											"origin": [8, 8, 8],
+											"children": [38,
+												{
+													"name": "Foot",
+													"origin": [8, 8, 8],
+													"children": [39,
+														{
+															"name": "Rear_toe",
+															"origin": [8, 8, 8],
+															"children": [40, 41]
+														},
+														{
+															"name": "Front_toes",
+															"origin": [8, 8, 8],
+															"children": [42, 43, 44, 45, 46, 47]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Leg",
+					"origin": [8, 8, 8],
+					"children": [48,
+						{
+							"name": "Leg1",
+							"origin": [8, 8, 8],
+							"children": [49,
+								{
+									"name": "Leg2",
+									"origin": [8, 8, 8],
+									"children": [50,
+										{
+											"name": "Leg3",
+											"origin": [8, 8, 8],
+											"children": [51,
+												{
+													"name": "Foot",
+													"origin": [8, 8, 8],
+													"children": [52,
+														{
+															"name": "Rear_toe",
+															"origin": [8, 8, 8],
+															"children": [53, 54]
+														},
+														{
+															"name": "Front_toes",
+															"origin": [8, 8, 8],
+															"children": [55, 56, 57, 58, 59, 60]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Leg5",
+					"origin": [8, 8, 8],
+					"children": [61,
+						{
+							"name": "Leg1",
+							"origin": [8, 8, 8],
+							"children": [62,
+								{
+									"name": "Leg2",
+									"origin": [8, 8, 8],
+									"children": [63,
+										{
+											"name": "Leg3",
+											"origin": [8, 8, 8],
+											"children": [64,
+												{
+													"name": "Foot",
+													"origin": [8, 8, 8],
+													"children": [65,
+														{
+															"name": "Rear_toe",
+															"origin": [8, 8, 8],
+															"children": [66, 67]
+														},
+														{
+															"name": "Front_toes",
+															"origin": [8, 8, 8],
+															"children": [68, 69, 70, 71, 72, 73]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Leg5",
+					"origin": [8, 8, 8],
+					"children": [74,
+						{
+							"name": "Leg1",
+							"origin": [8, 8, 8],
+							"children": [75,
+								{
+									"name": "Leg2",
+									"origin": [8, 8, 8],
+									"children": [76,
+										{
+											"name": "Leg3",
+											"origin": [8, 8, 8],
+											"children": [77,
+												{
+													"name": "Foot",
+													"origin": [8, 8, 8],
+													"children": [78,
+														{
+															"name": "Rear_toe",
+															"origin": [8, 8, 8],
+															"children": [79, 80]
+														},
+														{
+															"name": "Front_toes",
+															"origin": [8, 8, 8],
+															"children": [81, 82, 83, 84, 85, 86]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Head",
+					"origin": [8, 8, 8],
+					"children": [87, 88, 89,
+						{
+							"name": "Upper Jaw",
+							"origin": [8, 8, 8],
+							"children": [90, 91, 92, 93]
+						},
+						{
+							"name": "Lower Jaw",
+							"origin": [8, 8, 8],
+							"children": [94]
+						}, 95]
 				}
 			]
 		}
