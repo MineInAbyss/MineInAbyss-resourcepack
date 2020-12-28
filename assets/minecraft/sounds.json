@@ -1,7 +1,272 @@
 {
-	"entity.corpseweeper.snarl2": {
+	"entity.amakagame.ambient": {
 		"sounds": [
-			"entity/corpseweeper/snarl2"
+			"entity/amakagame/ambient"
+		]
+	},
+	"entity.amakagame.death": {
+		"sounds": [
+			"entity/amakagame/death"
+		]
+	},
+	"entity.amakagame.hurt": {
+		"sounds": [
+			"entity/amakagame/hurt"
+		]
+	},
+	"entity.corpseweeper.ambient": {
+		"sounds": [
+			"entity/corpseweeper/ambient"
+		]
+	},
+	"entity.corpseweeper.death": {
+		"sounds": [
+			"entity/corpseweeper/death"
+		]
+	},
+	"entity.corpseweeper.hurt": {
+		"sounds": [
+			"entity/corpseweeper/hurt"
+		]
+	},
+	"entity.ottobas.ambient": {
+		"sounds": [
+			"entity/ottobas/ambient"
+		]
+	},
+	"entity.ottobas.death": {
+		"sounds": [
+			"entity/ottobas/death"
+		]
+	},
+	"entity.ottobas.hurt": {
+		"sounds": [
+			"entity/ottobas/hurt"
+		]
+	},
+	"entity.orbpiercer.ambient": {
+		"sounds": [
+			"entity/orbpiercer/ambient"
+		]
+	},
+	"entity.orbpiercer.death": {
+		"sounds": [
+			"entity/orbpiercer/death"
+		]
+	},
+	"entity.orbpiercer.hurt": {
+		"sounds": [
+			"entity/orbpiercer/hurt"
+		]
+	},
+	"entity.dosetori.ambient": {
+		"sounds": [
+			"entity/dosetori/ambient"
+		]
+	},
+	"entity.dosetori.death": {
+		"sounds": [
+			"entity/dosetori/death"
+		]
+	},
+	"entity.dosetori.hurt": {
+		"sounds": [
+			"entity/dosetori/hurt"
+		]
+	},
+	"entity.inbyo.ambient": {
+		"sounds": [
+			"entity/inbyo/ambient"
+		]
+	},
+	"entity.inbyo.death": {
+		"sounds": [
+			"entity/inbyo/death"
+		]
+	},
+	"entity.inbyo.hurt": {
+		"sounds": [
+			"entity/inbyo/hurt"
+		]
+	},
+	"entity.madokajack.ambient": {
+		"sounds": [
+			"entity/madokajack/ambient"
+		]
+	},
+	"entity.madokajack.death": {
+		"sounds": [
+			"entity/madokajack/death"
+		]
+	},
+	"entity.madokajack.hurt": {
+		"sounds": [
+			"entity/madokajack/hurt"
+		]
+	},
+	"entity.benikuchinawa.ambient": {
+		"sounds": [
+			"entity/benikuchinawa/ambient"
+		]
+	},
+	"entity.benikuchinawa.death": {
+		"sounds": [
+			"entity/benikuchinawa/death"
+		]
+	},
+	"entity.benikuchinawa.hurt": {
+		"sounds": [
+			"entity/benikuchinawa/hurt"
+		]
+	},
+	"entity.stingerhead.ambient": {
+		"sounds": [
+			"entity/stingerhead/ambient"
+		]
+	},
+	"entity.stingerhead.death": {
+		"sounds": [
+			"entity/stingerhead/death"
+		]
+	},
+	"entity.stingerhead.hurt": {
+		"sounds": [
+			"entity/stingerhead/hurt"
+		]
+	},
+	"entity.shroombear.ambient": {
+		"sounds": [
+			"entity/shroombear/ambient"
+		]
+	},
+	"entity.shroombear.death": {
+		"sounds": [
+			"entity/shroombear/death"
+		]
+	},
+	"entity.shroombear.hurt": {
+		"sounds": [
+			"entity/shroombear/hurt"
+		]
+	},
+	"entity.neritantan.ambient": {
+		"sounds": [
+			"entity/neritantan/ambient"
+		]
+	},
+	"entity.neritantan.death": {
+		"sounds": [
+			"entity/neritantan/death"
+		]
+	},
+	"entity.neritantan.hurt": {
+		"sounds": [
+			"entity/neritantan/hurt"
+		]
+	},
+	"entity.steve.ambient": {
+		"sounds": [
+			"entity/steve/ambient"
+		]
+	},
+	"entity.steve.death": {
+		"sounds": [
+			"entity/steve/death"
+		]
+	},
+	"entity.steve.hurt": {
+		"sounds": [
+			"entity/steve/hurt"
+		]
+	},
+	"entity.hammerbeak.ambient": {
+		"sounds": [
+			"entity/hammerbeak/ambient"
+		]
+	},
+	"entity.hammerbeak.death": {
+		"sounds": [
+			"entity/hammerbeak/death"
+		]
+	},
+	"entity.hammerbeak.hurt": {
+		"sounds": [
+			"entity/hammerbeak/hurt"
+		]
+	},
+	"entity.onitsuchi.ambient": {
+		"sounds": [
+			"entity/onitsuchi/ambient"
+		]
+	},
+	"entity.onitsuchi.death": {
+		"sounds": [
+			"entity/onitsuchi/death"
+		]
+	},
+	"entity.onitsuchi.hurt": {
+		"sounds": [
+			"entity/onitsuchi/hurt"
+		]
+	},
+	"entity.okibo.ambient": {
+		"sounds": [
+			"entity/okibo/ambient"
+		]
+	},
+	"entity.okibo.death": {
+		"sounds": [
+			"entity/okibo/death"
+		]
+	},
+	"entity.okibo.hurt": {
+		"sounds": [
+			"entity/okibo/hurt"
+		]
+	},
+	"entity.hamashirama.ambient": {
+		"sounds": [
+			"entity/hamashirama/ambient"
+		]
+	},
+	"entity.hamashirama.death": {
+		"sounds": [
+			"entity/hamashirama/death"
+		]
+	},
+	"entity.hamashirama.hurt": {
+		"sounds": [
+			"entity/hamashirama/hurt"
+		]
+	},
+	"entity.hisomukuro.ambient": {
+		"sounds": [
+			"entity/hisomukuro/ambient"
+		]
+	},
+	"entity.hisomukuro.death": {
+		"sounds": [
+			"entity/hisomukuro/death"
+		]
+	},
+	"entity.hisomukuro.hurt": {
+		"sounds": [
+			"entity/hisomukuro/hurt"
+		]
+	},
+	"entity.billabonk.ambient": {
+		"sounds": [
+			"entity/billabonk/ambient"
+		]
+	},
+	"entity.billabonk.death": {
+		"sounds": [
+			"entity/billabonk/death"
+		]
+	},
+	"entity.billabonk.hurt": {
+		"sounds": [
+			"entity/billabonk/hurt"
 		]
 	},
 	"music.custom.noteblock.deepinabyss": {
