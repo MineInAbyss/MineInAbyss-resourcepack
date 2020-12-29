@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"3": "Abyss models/tamaaaa"
+		"3": "characters/tama/tama"
 	},
 	"elements": [
 		{
