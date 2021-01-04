@@ -758,7 +758,7 @@
   "subtitles.entity.wither.shoot": "§cWither attacks",
   "subtitles.entity.wither.spawn": "§cWither released",
   "subtitles.entity.wither_skeleton.ambient": "§cWither §cSkeleton rattles",
-  "subtitles.entity._skeleton.death": "§cWither §cSkeleton dies",
+  "subtitles.entity.wither_skeleton.death": "§cWither §cSkeleton dies",
   "subtitles.entity.wither_skeleton.hurt": "§cWither §cSkeleton hurts",
   "subtitles.entity.wolf.ambient": "§aWolf pants",
   "subtitles.entity.wolf.death": "§aWolf dies",
