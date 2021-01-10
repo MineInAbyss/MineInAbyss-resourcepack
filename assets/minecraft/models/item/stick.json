@@ -33,6 +33,7 @@
     { "predicate": {"custom_model_data": 107}, "model":"item/event/nazarick/god_slaying_emperor_blade"},
     { "predicate": {"custom_model_data": 108}, "model":"item/event/nazarick/mare_staff"},
     { "predicate": {"custom_model_data": 109}, "model":"item/event/nazarick/ring"},
-    { "predicate": {"custom_model_data": 110}, "model":"item/event/nazarick/shalltear_lance"}
+    { "predicate": {"custom_model_data": 110}, "model":"item/event/nazarick/shalltear_lance"},
+    { "predicate": {"custom_model_data": 200},"model":"item/event/other/menacing"}
   ]
 }
