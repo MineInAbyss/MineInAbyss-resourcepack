@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/bell.png",
+      "file": "minecraft:whistles/bell.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/redw.png",
+      "file": "minecraft:whistles/redw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/bluew.png",
+      "file": "minecraft:whistles/bluew.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/moonw.png",
+      "file": "minecraft:whistles/moonw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/blackw.png",
+      "file": "minecraft:whistles/blackw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/whitew.png",
+      "file": "minecraft:whistles/whitew.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -650,7 +650,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/bondrewdw.png",
+      "file": "minecraft:whistles/bondrewdw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -659,7 +659,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/lyzaw.png",
+      "file": "minecraft:whistles/lyzaw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -668,7 +668,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/rikow.png",
+      "file": "minecraft:whistles/rikow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -677,7 +677,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/ozenw.png",
+      "file": "minecraft:whistles/ozenw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -686,7 +686,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/lifereverbw.png",
+      "file": "minecraft:whistles/lifereverbw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -866,7 +866,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/wakunaw.png",
+      "file": "minecraft:whistles/wakunaw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -875,7 +875,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/srajow.png",
+      "file": "minecraft:whistles/srajow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -979,6 +979,51 @@
       "height": 11,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/pogjaw.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:whistles/owlw.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:whistles/painw.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:whistles/boyw.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/gurashark.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
       ]
     }
   ]

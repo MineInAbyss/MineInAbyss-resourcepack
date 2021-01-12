@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/dead_horn_coral"
+		"layer0": "block/dead_horn_coral"
 	},
 
 	"overrides": [
