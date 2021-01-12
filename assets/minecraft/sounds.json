@@ -269,6 +269,21 @@
 			"entity/billabonk/hurt"
 		]
 	},
+	"entity.fuwagi.ambient": {
+		"sounds": [
+			"entity/fuwagi/ambient"
+		]
+	},
+	"entity.fuwagi.death": {
+		"sounds": [
+			"entity/fuwagi/death"
+		]
+	},
+	"entity.fuwagi.hurt": {
+		"sounds": [
+			"entity/fuwagi/hurt"
+		]
+	},
 	"music.custom.noteblock.deepinabyss": {
 		"sounds": [
 			"music/noteblock/deep-in-abyss"

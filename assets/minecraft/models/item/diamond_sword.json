@@ -48,7 +48,7 @@
 		{ "predicate": {"custom_model_data": 42}, "model": "item/mob/tesuchi/tesuchi"},
 		{ "predicate": {"custom_model_data": 43}, "model": "item/mob/tesuchi/tesuchi_hit"},
 		{ "predicate": {"custom_model_data": 44}, "model": "item/mob/ottobas/ottobas"},
-		{ "predicate": {"custom_model_data": 45}, "model": "item/mob/ottobas/ottobas"},
+		{ "predicate": {"custom_model_data": 45}, "model": "item/mob/ottobas/ottobas_move"},
 		{ "predicate": {"custom_model_data": 46}, "model": "item/mob/ottobas/ottobas_hit"},
 		{ "predicate": {"custom_model_data": 47}, "model": "item/mob/dosetori/dosetori"},
 		{ "predicate": {"custom_model_data": 48}, "model": "item/mob/dosetori/dosetori"},
