@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "event/nazarick/3f",
-		"1": "block/lava_flow",
+		"1": "event/nazarick/4f_lava",
 		"particle": "event/nazarick/3f"
 	},
 	"elements": [
