@@ -16,7 +16,7 @@ from hit_texture_generator import hit_gen_dir, root_dir, output_dir
 
 
 def minify(file_name: str):
-    file_data = open(file_name, "r", 1).read()  # store file info in variable
+    file_data = open(file_name, "r", 1, encoding = "utf8").read()  # store file info in variable
     json_data = json.loads(file_data)  # store in json structure
     return json.dumps(json_data, separators=(',', ":"))  # Compact JSON structure
 
@@ -27,6 +27,31 @@ if os.path.isfile(version_file):
 else:
     version = "DEV"
 print("Got version: " + version)
+
+print("Building font files")
+for file in os.scandir(root_dir / "assets/minecraft/font/"):
+    if file.is_dir():
+        data = {"providers":[]}
+        # Scan all the subfiles in this directory
+        for root, dirs, files in os.walk(file):
+            for subfile in files:
+                if subfile.endswith(".json"):
+                    file_data = open(os.path.join(root,subfile), "r", 1, encoding = "utf8").read()
+                    json_data = json.loads(file_data)
+                    provider_list = json_data["providers"]
+                    data["providers"] = data["providers"] + provider_list
+                    print(f"Added {root}/{subfile} to {file.name}")
+
+        # Save the combined data in a new file
+        if len(data["providers"]):
+            minified = json.dumps(data, separators=(',', ":"))
+            name = file.name + ".json"
+            write_path = Path(root_dir / "assets/minecraft/font" / name ).absolute()
+            print(f"Saving font {file.name} to {write_path.as_uri()}")
+            with open( write_path, "w", encoding = "utf8" ) as font_file:
+                print(minified, file = font_file)
+        else:
+            print(f"Nothing detected for font {file.name}" )
 
 print("Create zip file and add minified json into it")
 zipf = zipfile.ZipFile(output_dir / "MineInAbyss-Models.zip", 'w', zipfile.ZIP_DEFLATED)
