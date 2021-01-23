@@ -46,7 +46,7 @@ for file in os.scandir(root_dir / "assets/minecraft/font/"):
         if len(data["providers"]):
             minified = json.dumps(data, separators=(',', ":"))
             name = file.name + ".json"
-            write_path = Path(root_dir / "assets/minecraft/font" / name ).absolute()
+            write_path = Path(root_dir / "assets/minecraft/font" / name ).absolute().resolve()
             print(f"Saving font {file.name} to {write_path.as_uri()}")
             with open( write_path, "w", encoding = "utf8" ) as font_file:
                 print(minified, file = font_file)
