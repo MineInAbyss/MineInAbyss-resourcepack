@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/characters/nanachi/nanachi_hair",
-		"5": "item/characters/nanachi/nanachihat_base",
-		"6": "item/characters/nanachi/nanachihat_beginning",
-		"7": "item/characters/nanachi/nanachihat_fur"
+		"3": "characters/nanachi/nanachi_hair",
+		"5": "characters/nanachi/nanachihat_base",
+		"6": "characters/nanachi/nanachihat_beginning",
+		"7": "characters/nanachi/nanachihat_fur"
 	},
 	"elements": [
 		{
@@ -352,21 +352,26 @@
 	"groups": [
 		{
 			"name": "hat",
+			"origin": [8, 8, 8],
 			"children": [
 				{
 					"name": "hatbeginning",
+					"origin": [8, 8, 8],
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 				},
 				{
 					"name": "hatbase",
+					"origin": [8, 8, 8],
 					"children": [13, 14, 15, 16, 17]
 				},
 				{
 					"name": "fur0",
+					"origin": [8, 8, 8],
 					"children": [18, 19, 20]
 				},
 				{
 					"name": "fur1",
+					"origin": [8, 8, 8],
 					"children": [21, 22, 23]
 				}
 			]
