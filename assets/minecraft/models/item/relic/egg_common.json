@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "relics:item/egg_common",
-		"particle": "relics:item/egg_common"
+		"0": "relics/egg_common",
+		"particle": "relics/egg_common"
 	},
 	"elements": [
 		{
@@ -62,18 +62,22 @@
 			"translation": [0, 8.5, 0],
 			"scale": [1.5, 1.5, 1.5]
 		},
-		"fixed": {
-			"translation": [0, 7, 0],
-			"scale": [1.5, 1.5, 1.5]
-		},
 		"gui": {
 			"translation": [0, 6.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"translation": [0, 14.5, -1]
+		},
+		"fixed": {
+			"translation": [0, 7, 0],
 			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
 		{
 			"name": "model",
+			"origin": [8, 8, 8],
 			"children": [0, 1, 2]
 		}
 	]
