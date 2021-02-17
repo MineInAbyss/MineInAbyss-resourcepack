@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "creatures/kagitachikiri/kagitachikiri",
-		"particle": "creatures/kagitachikiri/kagitachikiri"
+		"2": "creatures/kagi_tachikiri/kagi_tachikiri",
+		"particle": "creatures/kagi_tachikiri/kagi_tachikiri"
 	},
 	"elements": [
 		{
