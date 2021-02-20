@@ -46,6 +46,8 @@
 	{ "predicate": {"custom_model_data": 1}, "model": "item/event/camelot/shield/mash_shield"},
 	{ "predicate": {"custom_model_data": 1 , "blocking": 1}, "model": "item/event/camelot/shield/mash_shield_block"},
 	{ "predicate": {"custom_model_data":2},"model":"item/event/other/duel_disk"},
-	{ "predicate": {"custom_model_data":2,"blocking":1},"model":"item/event/other/duel_disk_block"}
+	{ "predicate": {"custom_model_data":2,"blocking":1},"model":"item/event/other/duel_disk_block"},
+	{ "predicate": {"custom_model_data":3},"model":"item/event/nazarick/albedo_shield"},
+	{ "predicate": {"custom_model_data":3,"blocking":1},"model":"item/event/nazarick/albedo_shield_block"}
     ]
 }
