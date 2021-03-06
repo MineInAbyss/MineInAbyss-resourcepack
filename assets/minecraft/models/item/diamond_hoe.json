@@ -1,4 +1,9 @@
-{"parent": "item/handheld","textures": {"layer0": "item/diamond_hoe"},"overrides": [
+{
+	"parent": "item/tools/diamond_hoe_mia",
+	"textures": {
+		"layer0": "item/diamond_hoe"
+	},
+	"overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model": "item/diamond_hoe"},
 		{ "predicate": {"custom_model_data": 2}, "model": "item/relic/egg_common"},
 		{ "predicate": {"custom_model_data": 3}, "model": "item/relic/tier4/blaze_reap"},

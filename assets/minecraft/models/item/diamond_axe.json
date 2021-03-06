@@ -1,5 +1,5 @@
 {
-	"parent": "item/handheld",
+	"parent": "item/tools/diamond_axe_mia",
 	"textures": {
 		"layer0": "item/diamond_axe"
 	},

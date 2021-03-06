@@ -46,6 +46,9 @@
 	{ "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 0.25}, "model": "item/event/camelot/bow/gate_of_babylon_1"},
 	{ "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 0.5}, "model": "item/event/camelot/bow/gate_of_babylon_2"},
 	{ "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 0.75}, "model": "item/event/camelot/bow/gate_of_babylon_3"},
-	{ "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 1}, "model": "item/event/camelot/bow/gate_of_babylon_4"}
+	{ "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 1}, "model": "item/event/camelot/bow/gate_of_babylon_4"},
+	{ "predicate": {"custom_model_data": 101}, "model": "item/event/camelot/bow/eyes_of_distortion"},
+	{ "predicate": {"custom_model_data": 101 , "pulling": 1}, "model": "item/event/camelot/bow/eyes_of_distortion_0"},
+	{ "predicate": {"custom_model_data": 101 , "pulling": 1 , "pull": 1}, "model": "item/event/camelot/bow/eyes_of_distortion_0"}
  ]
 }
