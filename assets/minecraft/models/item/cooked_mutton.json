@@ -5,6 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/neritantan_meat_cooked"}
+    {"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/neritantan_meat_cooked"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/food/creatures/shroombear_meat_cooked"}
   ]
 }
