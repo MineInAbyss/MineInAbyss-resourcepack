@@ -450,10 +450,10 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [-0.5, 0.75, 2.5]
+			"translation": [0, 0.75, 2.5]
 		},
 		"thirdperson_lefthand": {
-			"translation": [-0.5, 0.75, 2.5]
+			"translation": [0, 0.75, 2.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [3, 0, 0],
