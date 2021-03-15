@@ -269,22 +269,23 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-180, -180, 0],
-			"translation": [0.75, 0, 2.25]
+			"translation": [0.75, -0.5, 2]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-180, -180, 0],
-			"translation": [-0.75, -0.25, 2.25]
+			"translation": [-0.75, -0.5, 2]
 		},
 		"firstperson_righthand": {
-			"rotation": [167, 0, 0],
-			"translation": [0, -2, 0]
+			"rotation": [167, -11, 0],
+			"translation": [1.75, -2.5, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [167, 0, 0],
-			"translation": [0, -2, 0]
+			"rotation": [167, -11, 0],
+			"translation": [1.75, -2.5, 0]
 		},
 		"ground": {
-			"rotation": [-106, 68, 0]
+			"rotation": [-106, 68, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
 			"rotation": [68, -115, 115],

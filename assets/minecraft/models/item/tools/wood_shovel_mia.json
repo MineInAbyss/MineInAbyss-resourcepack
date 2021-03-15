@@ -230,11 +230,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-180, 0, 0],
-			"translation": [0, 0, 1.25]
+			"translation": [0, 1.75, 0.75]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-180, 0, 0],
-			"translation": [0.25, 0, 1.5]
+			"translation": [0, 1.75, 0.75]
 		},
 		"firstperson_righthand": {
 			"rotation": [173, 0, 0],
@@ -245,7 +245,8 @@
 			"translation": [0, -2, 0]
 		},
 		"ground": {
-			"rotation": [111, 78, 0]
+			"rotation": [111, 78, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
 			"rotation": [51, 57, -95],

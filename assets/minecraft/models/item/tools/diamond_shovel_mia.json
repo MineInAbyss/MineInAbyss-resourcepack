@@ -542,11 +542,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 0, -180],
-			"translation": [-0.5, 2.75, 1.5]
+			"translation": [-0.5, 3.5, 1.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [0, 0, -180],
-			"translation": [-0.5, 2.75, 1.5]
+			"translation": [-0.5, 3.5, 1.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [-18, 0, -180],
