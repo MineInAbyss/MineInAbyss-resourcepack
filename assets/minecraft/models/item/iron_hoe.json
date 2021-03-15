@@ -1,0 +1,6 @@
+{
+  "parent": "item/tools/iron_hoe_mia",
+  "textures": {
+    "layer0": "minecraft:item/iron_hoe"
+  }
+}

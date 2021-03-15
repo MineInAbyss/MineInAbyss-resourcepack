@@ -1,0 +1,6 @@
+{
+  "parent": "item/tools/stone_hoe_mia",
+  "textures": {
+    "layer0": "minecraft:item/stone_hoe"
+  }
+}
