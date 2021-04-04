@@ -1178,6 +1178,24 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gifs/oripat/flatboi.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gifs/oripat/tora.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
