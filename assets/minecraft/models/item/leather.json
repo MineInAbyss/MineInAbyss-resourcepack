@@ -6,7 +6,6 @@
 
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/makihige_hide"},
-    {"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/dosetori_wingflap"},
-    {"predicate": {"custom_model_data": 3}, "model": "item/creaturedrops/chimokami_tuff"}
+    {"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/dosetori_wingflap"}
   ]
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "creaturedrops/chimokami_tuff"
+    "layer0": "creaturedrops/chimokami_tail"
   }
 }
