@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/polished_blackstone_button"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/hashofu_body"}
+  ]
+}
