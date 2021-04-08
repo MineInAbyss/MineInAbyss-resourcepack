@@ -1,7 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "block/red_wool",
   "textures": {
-    "layer0": "item/red_wool"
+    "layer0": "block/red_wool"
   },
 
   "overrides": [

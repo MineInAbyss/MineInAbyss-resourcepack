@@ -1,7 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "block/blackstone_wall_inventory",
   "textures": {
-    "layer0": "item/blackstone_wall"
+    "layer0": "block/blackstone_wall_inventory"
   },
 
   "overrides": [

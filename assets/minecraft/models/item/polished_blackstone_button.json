@@ -1,7 +1,7 @@
 {
-  "parent": "item/generated",
+  "parent": "block/polished_blackstone_button_inventory",
   "textures": {
-    "layer0": "item/polished_blackstone_button"
+    "layer0": "block/polished_blackstone_button_inventory"
   },
 
   "overrides": [
