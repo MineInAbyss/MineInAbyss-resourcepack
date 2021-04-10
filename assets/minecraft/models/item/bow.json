@@ -4,7 +4,7 @@
         "layer0": "item/bow"
     },
     "overrides": [
-    { "predicate": {"pulling": 1"}, "model": "item/tools/bow/mia_bow_1"},
+    { "predicate": {"pulling": 1}, "model": "item/tools/bow/mia_bow_1"},
     { "predicate": {"pulling": 1,"pull": 0.9}, "model": "item/tools/bow/mia_bow_2"},
 	{ "predicate": {"custom_model_data": 1}, "model": "item/event/camelot/bow/tomoe_bow"},
 	{ "predicate": {"custom_model_data": 1 , "pulling": 1}, "model": "item/event/camelot/bow/tomoe_bow_0"},
