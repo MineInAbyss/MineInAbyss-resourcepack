@@ -1046,7 +1046,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/D.png",
+      "file": "minecraft:emotes/d.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1195,6 +1195,15 @@
       "height": 11,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/senkow.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
       ]
     }
   ]
