@@ -7,7 +7,7 @@
 		{ "predicate": {"custom_model_data": 1}, "model": "item/diamond_hoe"},
 		{ "predicate": {"custom_model_data": 2}, "model": "item/relic/egg_common"},
 		{ "predicate": {"custom_model_data": 3}, "model": "item/relic/tier4/blaze_reap"},
-		{ "predicate": {"custom_model_data": 4}, "model": "item/relic/incinerator/incinerator"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/relic/sparagmos/sparagmos"},
 		{ "predicate": {"custom_model_data": 5}, "model": "item/relic/star_compass"},
 		{ "predicate": {"custom_model_data": 6}, "model": "item/equipment/helmet/nanachi_hat"},
 		{ "predicate": {"custom_model_data": 7}, "model": "item/equipment/handpick/version1"},
