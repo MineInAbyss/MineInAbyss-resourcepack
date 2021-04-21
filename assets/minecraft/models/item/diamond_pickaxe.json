@@ -1,5 +1,5 @@
 {
-  "parent": "item/tools/diamond_pick_mia",
+  "parent": "item/tools/pickaxe/diamond_pick_mia",
   "textures": {
     "layer0": "minecraft:item/diamond_pickaxe"
   }

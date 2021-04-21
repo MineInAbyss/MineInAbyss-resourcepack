@@ -1,5 +1,5 @@
 {
-	"parent": "item/tools/diamond_sword_mia",
+	"parent": "item/tools/sword/diamond_sword_mia",
 	"textures": {
 		"layer0": "item/diamond_sword"
 	},

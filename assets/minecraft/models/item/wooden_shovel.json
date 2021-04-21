@@ -1,5 +1,5 @@
 {
-  "parent": "item/tools/wood_shovel_mia",
+  "parent": "item/tools/shovel/wood_shovel_mia",
   "textures": {
     "layer0": "item/wooden_shovel"
   },
