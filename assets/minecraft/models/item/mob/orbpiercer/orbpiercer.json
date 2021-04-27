@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "tamaugachi",
+	"parent": "orbpiercer",
 	"textures": {
-		"0": "creatures/tamaugachi/tamaugachi_head",
-		"1": "creatures/tamaugachi/tamaugachi_mouth",
-		"2": "creatures/tamaugachi/tamaugachi_body_1",
-		"3": "creatures/tamaugachi/tamaugachi_body_2",
-		"4": "creatures/tamaugachi/tamaugachi_body_3",
-		"5": "creatures/tamaugachi/tamaugachi_leg",
-		"6": "creatures/tamaugachi/tamaugachi_needles",
-		"particle": "creatures/tamaugachi/tamaugachi_head"
+		"0": "creatures/orbpiercer/orbpiercer_head",
+		"1": "creatures/orbpiercer/orbpiercer_mouth",
+		"2": "creatures/orbpiercer/orbpiercer_body_1",
+		"3": "creatures/orbpiercer/orbpiercer_body_2",
+		"4": "creatures/orbpiercer/orbpiercer_body_3",
+		"5": "creatures/orbpiercer/orbpiercer_leg",
+		"6": "creatures/orbpiercer/orbpiercer_needles",
+		"particle": "creatures/orbpiercer/orbpiercer_head"
 	},
 	"elements": [
 		{

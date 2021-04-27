@@ -1,7 +1,7 @@
 {
     "credit": "Made with Blockbench", 
     "textures": {
-        "main": "creatures/benikuchinawa/benikuchinawa_move"
+        "main": "creatures/splitjaw/splitjaw_move"
     }, 
     "elements": [
         {
