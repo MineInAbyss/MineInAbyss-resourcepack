@@ -7,6 +7,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/hammerbeak_beak"},
 		{"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/chimokami_fang"},
-		{"predicate": {"custom_model_data": 3}, "model": "item/creaturedrops/ashimite_hoof"}
+		{"predicate": {"custom_model_data": 3}, "model": "item/creaturedrops/ashimite_hoof"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/creaturedrops/kagi_tachikiri_pincer"}
 	]
 }
