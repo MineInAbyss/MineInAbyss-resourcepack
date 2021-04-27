@@ -1,17 +1,17 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "benikuchinawa/benikuchinawa_deco",
-		"1": "benikuchinawa/benikuchinawa_head_1",
-		"2": "benikuchinawa/benikuchinawa_head_2",
-		"3": "benikuchinawa/benikuchinawa_body_1",
-		"4": "benikuchinawa/benikuchinawa_body_2",
-		"5": "benikuchinawa/benikuchinawa_body_3",
-		"6": "benikuchinawa/benikuchinawa_body_4",
-		"7": "benikuchinawa/benikuchinawa_body_5",
-		"8": "benikuchinawa/benikuchinawa_body_6",
-		"9": "benikuchinawa/benikuchinawa_body_7",
-		"particle": "benikuchinawa/benikuchinawa_head_1"
+		"0": "splitjaw/splitjaw_deco",
+		"1": "splitjaw/splitjaw_head_1",
+		"2": "splitjaw/splitjaw_head_2",
+		"3": "splitjaw/splitjaw_body_1",
+		"4": "splitjaw/splitjaw_body_2",
+		"5": "splitjaw/splitjaw_body_3",
+		"6": "splitjaw/splitjaw_body_4",
+		"7": "splitjaw/splitjaw_body_5",
+		"8": "splitjaw/splitjaw_body_6",
+		"9": "splitjaw/splitjaw_body_7",
+		"particle": "splitjaw/splitjaw_head_1"
 	},
 	"elements": [
 		{

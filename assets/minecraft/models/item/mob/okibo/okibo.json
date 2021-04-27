@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "creatures/mount/mount_head",
-		"2": "creatures/mount/mount_mouth",
-		"4": "creatures/mount/mount_ext",
-		"5": "creatures/mount/mount_body_1",
-		"6": "creatures/mount/mount_body_2",
-		"7": "creatures/mount/mount_body_3",
-		"8": "creatures/mount/mount_saddle",
-		"9": "creatures/mount/mount_pouch",
-		"particle": "creatures/mount/mount_head"
+		"0": "creatures/okibo/okibo_head",
+		"2": "creatures/okibo/okibo_mouth",
+		"4": "creatures/okibo/okibo_ext",
+		"5": "creatures/okibo/okibo_body_1",
+		"6": "creatures/okibo/okibo_body_2",
+		"7": "creatures/okibo/okibo_body_3",
+		"8": "creatures/okibo/okibo_saddle",
+		"9": "creatures/okibo/okibo_pouch",
+		"particle": "creatures/okibo/okibo_head"
 	},
 	"elements": [
 		{
