@@ -1223,6 +1223,33 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/adarnice.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/faputayaya.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/smilechamp.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
