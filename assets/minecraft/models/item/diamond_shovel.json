@@ -1,13 +1,28 @@
 {
-  "parent": "item/tools/diamond_shovel_mia",
+  "parent": "item/tools/shovel/diamond_shovel_mia",
   "textures": {
     "layer0": "item/diamond_shovel"
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":  1}, "model": "item/relic/whistle/whistle_black"},
-    {"predicate": {"custom_model_data":  2}, "model": "item/equipment/grappling/hook"},
-    {"predicate": {"custom_model_data":  3}, "model": "item/equipment/grappling/hook_w_rope"},
-    {"predicate": {"custom_model_data":  4}, "model": "item/equipment/grappling/rope"}
+    {"predicate": {"custom_model_data":  1}, "model": "item/relics/whistle/bell"},
+    {"predicate": {"custom_model_data":  2}, "model": "item/relics/whistle/red_whistle"},
+    {"predicate": {"custom_model_data":  3}, "model": "item/relics/whistle/blue_whistle"},
+    {"predicate": {"custom_model_data":  4}, "model": "item/relics/whistle/moon_whistle"},
+    {"predicate": {"custom_model_data":  5}, "model": "item/relics/whistle/black_whistle"},
+    {"predicate": {"custom_model_data":  6}, "model": "item/relics/whistle/white_whistle"},
+    {"predicate": {"custom_model_data":  7}, "model": "item/equipment/grappling/hook"},
+    {"predicate": {"custom_model_data":  8}, "model": "item/equipment/grappling/hook_w_rope"},
+    {"predicate": {"custom_model_data":  9}, "model": "item/equipment/grappling/rope"},
+    { "predicate": {"custom_model_data": 10}, "model": "item/equipment/helmet/nanachi_hat"},
+    { "predicate": {"custom_model_data": 11}, "model": "item/equipment/handpick/version1"},
+    { "predicate": {"custom_model_data": 12}, "model": "item/equipment/handpick/version2"},
+    { "predicate": {"custom_model_data": 13}, "model": "item/equipment/handpick/version3"},
+    { "predicate": {"custom_model_data": 14}, "model": "item/other/hook"},
+    { "predicate": {"custom_model_data": 15}, "model": "item/other/staff"},
+    { "predicate": {"custom_model_data": 16}, "model": "item/other/statue"},
+    { "predicate": {"custom_model_data": 17}, "model": "item/other/goblet"},
+    { "predicate": {"custom_model_data": 18}, "model": "item/other/coal_pebble"},
+    { "predicate": {"custom_model_data": 19}, "model": "item/other/cloud"}
   ]
 }

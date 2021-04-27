@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/goblet",
-		"particle": "item/goblet"
+		"0": "other/goblet",
+		"particle": "other/goblet"
 	},
 	"elements": [
 		{
@@ -114,17 +114,18 @@
 		"ground": {
 			"translation": [0, 4, 0]
 		},
-		"fixed": {
-			"translation": [0, 1.25, 0]
-		},
 		"gui": {
 			"rotation": [0, 52, 0],
 			"translation": [0, 1.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 1.25, 0]
 		}
 	},
 	"groups": [
 		{
 			"name": "model",
+			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		}
 	]

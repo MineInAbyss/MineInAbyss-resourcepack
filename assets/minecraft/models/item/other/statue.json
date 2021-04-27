@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/statue_base",
-		"1": "item/statue",
-		"particle": "item/statue_base"
+		"0": "other/statue_base",
+		"1": "other/statue",
+		"particle": "other/statue_base"
 	},
 	"elements": [
 		{
@@ -131,18 +131,19 @@
 		"ground": {
 			"translation": [0, 4.25, 0]
 		},
-		"fixed": {
-			"translation": [0, -1, 0]
-		},
 		"gui": {
 			"rotation": [0, 180, 0],
 			"translation": [0, -0.75, 0],
 			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"translation": [0, -1, 0]
 		}
 	},
 	"groups": [
 		{
 			"name": "model",
+			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3, 4, 5, 6, 7]
 		}
 	]

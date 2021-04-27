@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/whistle_red",
-		"particle": "item/whistle_red"
+		"0": "relics/whistle/moon_whistle",
+		"particle": "relics/whistle/moon_whistle"
 	},
 	"elements": [
 		{
@@ -63,44 +63,46 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [33, 0, 0],
-			"translation": [-6, 3, 9.5],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [18, 0, 0],
+			"translation": [-6, 2.25, 8.5],
+			"scale": [0.4, 0.3, 0.4]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [33, 0, 0],
-			"translation": [-6, 3, 9.5],
+			"rotation": [18, 0, 0],
+			"translation": [-6, 2.25, 8.5],
+			"scale": [0.4, 0.3, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-7, 0, 0],
+			"translation": [-9, 3, 0],
 			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [33, 145, 0],
+			"translation": [0, 4.25, 0]
 		},
 		"head": {
 			"rotation": [-34, 0, 0],
 			"translation": [0, -7, -7.5],
 			"scale": [0.8, 0.8, 0.8]
 		},
-		"ground": {
-			"translation": [0, 1.5, 0],
-			"scale": [0.7, 0.7, 0.7]
-		},
 		"fixed": {
 			"rotation": [-46, 0, 0],
 			"translation": [0, 3.5, -6.25]
-		},
-		"gui": {
-			"rotation": [33, 145, 0],
-			"translation": [0, 4.25, 0]
-		},
-		"firstperson_righthand": {
-			"rotation": [42, 0, 0],
-			"translation": [0, 6.25, 0]
-		},
-		"firstperson_lefthand": {
-			"rotation": [42, 0, 0],
-			"translation": [0, 6.25, 0]
 		}
 	},
 	"groups": [
 		{
 			"name": "model",
+			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3]
 		}
 	]
