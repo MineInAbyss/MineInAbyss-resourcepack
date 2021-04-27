@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/staff_shaft",
-		"1": "item/staff_stone",
-		"particle": "item/staff_shaft"
+		"0": "other/staff_shaft",
+		"1": "other/staff_stone",
+		"particle": "other/staff_shaft"
 	},
 	"elements": [
 		{
@@ -173,21 +173,22 @@
 		"firstperson_righthand": {
 			"translation": [0, -11, 0]
 		},
+		"gui": {
+			"translation": [0.25, -3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"head": {
 			"translation": [0, -5.5, 0]
 		},
 		"fixed": {
 			"translation": [0, -4.5, 0],
 			"scale": [0.6, 0.6, 0.6]
-		},
-		"gui": {
-			"translation": [0.25, -3.75, 0],
-			"scale": [0.5, 0.5, 0.5]
 		}
 	},
 	"groups": [
 		{
 			"name": "model",
+			"origin": [8, 8, 8],
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 		}
 	]
