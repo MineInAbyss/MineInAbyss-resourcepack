@@ -1,0 +1,7 @@
+{
+  "parent":"item/generated",
+  "textures":{
+    "layer1":"relics/consumables/black_flask",
+    "layer0":"relics/consumables/black_flask"
+  }
+}
