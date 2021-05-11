@@ -1253,20 +1253,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/wazuwhat.png",
+      "file": "minecraft:emotes/oriw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:emotes/habochonk.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        ""
       ]
     }
   ]
