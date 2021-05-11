@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:gifs/gurawave/1.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gifs/gurawave/2.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
