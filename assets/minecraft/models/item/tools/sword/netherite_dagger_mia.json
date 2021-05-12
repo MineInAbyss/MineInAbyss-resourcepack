@@ -562,12 +562,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [-23, 13, 0],
-			"translation": [0, -1.5, 0],
+			"translation": [0, -2.75, 0],
 			"scale": [0.45, 1, 0.5]
 		},
 		"firstperson_lefthand": {
 			"rotation": [-23, 13, 0],
-			"translation": [0, -1.5, 0],
+			"translation": [0, -2.75, 0],
 			"scale": [0.45, 1, 0.5]
 		},
 		"ground": {
