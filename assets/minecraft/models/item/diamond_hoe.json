@@ -12,6 +12,7 @@
 		{ "predicate": {"custom_model_data": 6}, "model": "item/relics/grim_ripper"},
 		{ "predicate": {"custom_model_data": 7}, "model": "item/relics/sonic_stone"},
 		{ "predicate": {"custom_model_data": 8}, "model": "item/relics/ghost_seek"},
-		{ "predicate": {"custom_model_data": 9}, "model": "item/relics/flamethrower"}
+		{ "predicate": {"custom_model_data": 9}, "model": "item/relics/flamethrower"},
+		{ "predicate": {"custom_model_data": 10}, "model": "item/relics/lie_supor"}
 	]
 }
