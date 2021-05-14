@@ -5,7 +5,7 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/relic/consumables/everlasting_gunpowder"},
+		{"predicate": {"custom_model_data": 1}, "model": "item/relics/consumables/everlasting_gunpowder"},
 		{"predicate": {"custom_model_data": 2}, "model": "item/relics/consumables/hyalos_incipient"},
 		{"predicate": {"custom_model_data": 3}, "model": "item/relics/consumables/hyalos_manifest"},
 		{"predicate": {"custom_model_data": 4}, "model": "item/relics/consumables/cold_fantoccini"}
