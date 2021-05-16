@@ -13,6 +13,8 @@
 		{ "predicate": {"custom_model_data": 7}, "model": "item/relics/sonic_stone"},
 		{ "predicate": {"custom_model_data": 8}, "model": "item/relics/ghost_seek"},
 		{ "predicate": {"custom_model_data": 9}, "model": "item/relics/flamethrower"},
-		{ "predicate": {"custom_model_data": 10}, "model": "item/relics/lie_supor"}
+		{ "predicate": {"custom_model_data": 10}, "model": "item/relics/lie_supor"},
+		{ "predicate": {"custom_model_data": 11}, "model": "item/relics/flash_cannon"},
+		{ "predicate": {"custom_model_data": 12}, "model": "item/relics/tomorrow_signal"}
 	]
 }
