@@ -61,7 +61,7 @@
 		{ "predicate": {"custom_model_data": 55}, "model": "item/mob/ashimite/ashimite_idle_hit"},
 		{ "predicate": {"custom_model_data": 56}, "model": "item/mob/makihige/makihige"},
 		{ "predicate": {"custom_model_data": 57}, "model": "item/mob/makihige/makihige_walking"},
-		{ "predicate": {"custom_model_data": 58}, "model": "item/mob/makihige/makihige_idle_hit"},
+		{ "predicate": {"custom_model_data": 58}, "model": "item/mob/makihige/makihige_hit"},
 		{ "predicate": {"custom_model_data": 59}, "model": "item/mob/steve/steve"},
 		{ "predicate": {"custom_model_data": 60}, "model": "item/mob/steve/steve_walking"},
 		{ "predicate": {"custom_model_data": 61}, "model": "item/mob/steve/steve_hit"},
