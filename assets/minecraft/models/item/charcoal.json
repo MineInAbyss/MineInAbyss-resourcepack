@@ -5,6 +5,7 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/hammerbeak_feather"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/hammerbeak_feather"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/onitsuchi_feather"}
 	]
 }
