@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "relics/explosive_arrow",
-		"particle": "relics/explosive_arrow"
+		"0": "tools/explosive_arrow",
+		"particle": "tools/explosive_arrow"
 	},
 	"elements": [
 		{
