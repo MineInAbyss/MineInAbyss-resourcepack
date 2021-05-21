@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "event/camelot/excalibur",
+		"0": "event/camelot/excalibur_old",
 		"1": "event/camelot/gate",
 		"particle": "event/camelot/nito_staff",
 		"3_0": "event/camelot/nito_staff"
