@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "relics/spined_targe/spined_targe",
-		"particle": "relics/spined_targe/spined_targe"
+		"1": "relics/spined_targe",
+		"particle": "relics/spined_targe"
 	},
 	"elements": [
 		{
