@@ -48,7 +48,7 @@
 	    { "predicate": {"custom_model_data":2},"model":"item/event/other/duel_disk"},
 	    { "predicate": {"custom_model_data":2,"blocking":1},"model":"item/event/other/duel_disk_block"},
       { "predicate": {"custom_model_data":3},"model":"item/event/nazarick/albedo_shield"},
-	    { "predicate": {"custom_model_data":3,"blocking":1},"model":"item/event/nazarick/albedo_shield_block"}
+	    { "predicate": {"custom_model_data":3,"blocking":1},"model":"item/event/nazarick/albedo_shield_block"},
       { "predicate": {"custom_model_data":4},"model":"item/relics/spined_targe/spined_targe"},
       { "predicate": {"custom_model_data":4,"damaged":1, "damage":0.20},"model":"item/relics/spined_targe/spined_targe_damage1"},
       { "predicate": {"custom_model_data":4,"damaged":1, "damage":0.50},"model":"item/relics/spined_targe/spined_targe_damage2"},
