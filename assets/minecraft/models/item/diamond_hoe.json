@@ -16,6 +16,7 @@
 		{ "predicate": {"custom_model_data": 10}, "model": "item/relics/lie_supor"},
 		{ "predicate": {"custom_model_data": 11}, "model": "item/relics/flash_cannon"},
 		{ "predicate": {"custom_model_data": 12}, "model": "item/relics/tomorrow_signal"},
-		{ "predicate": {"custom_model_data": 13}, "model": "item/relics/bounding_lance"}
+		{ "predicate": {"custom_model_data": 13}, "model": "item/relics/bounding_lance"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/relics/shielding_mask"}
 	]
 }
