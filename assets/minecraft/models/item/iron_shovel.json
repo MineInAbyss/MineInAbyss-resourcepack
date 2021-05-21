@@ -1,0 +1,6 @@
+{
+  "parent": "item/tools/shovel/iron_shovel_mia",
+  "textures": {
+    "layer0": "minecraft:item/iron_shovel"
+  }
+}

@@ -286,7 +286,12 @@
 	},
 	"music.custom.noteblock.deepinabyss": {
 		"sounds": [
-			"music/noteblock/deep-in-abyss"
+			"music/noteblock/deep_in_abyss"
+		]
+	},
+	"music.custom.noteblock.orthwaltz": {
+		"sounds": [
+			"music/noteblock/orth_waltz"
 		]
 	}
 }

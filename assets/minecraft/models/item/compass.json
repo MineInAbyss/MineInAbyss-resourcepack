@@ -37,6 +37,7 @@
         { "predicate": { "angle": 0.921875 }, "model": "item/compass_14" },
         { "predicate": { "angle": 0.953125 }, "model": "item/compass_15" },
         { "predicate": { "angle": 0.984375 }, "model": "item/compass" },
-		{ "predicate": {"custom_model_data": 1}, "model": "item/relic/star_compass"}
+		{ "predicate": {"custom_model_data": 1}, "model": "item/relics/star_compass"},
+        { "predicate": {"custom_model_data": 2}, "model": "item/tools/depth_meter"}
     ]
 }

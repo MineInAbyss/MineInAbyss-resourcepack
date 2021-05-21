@@ -1,0 +1,6 @@
+{
+  "parent": "item/tools/axe/iron_axe_mia",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe"
+  }
+}

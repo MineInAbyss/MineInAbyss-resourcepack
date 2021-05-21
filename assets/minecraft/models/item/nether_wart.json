@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/nether_wart"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/orb_piercer_face_fragment"}
+  ]
+}

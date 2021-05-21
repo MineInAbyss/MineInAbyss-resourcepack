@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "relics/tools/coal_pebble",
-		"texture": "relics/tools/coal_pebble"
+		"particle": "other/coal_pebble",
+		"texture": "other/coal_pebble"
 	},
 	"elements": [
 		{

@@ -1,0 +1,10 @@
+{
+  "parent": "block/red_wool",
+  "textures": {
+    "layer0": "block/red_wool"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/chimokami_tail"}
+  ]
+}

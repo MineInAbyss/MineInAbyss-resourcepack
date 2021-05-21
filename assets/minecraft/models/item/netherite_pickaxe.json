@@ -1,5 +1,5 @@
 {
-	"parent": "item/handheld",
+	"parent": "item/tools/pickaxe/netherite_pick_mia",
 	"textures": {
 		"layer0": "item/netherite_pickaxe"
 	},
