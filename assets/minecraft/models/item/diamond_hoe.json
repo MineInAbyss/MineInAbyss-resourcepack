@@ -15,6 +15,13 @@
 		{ "predicate": {"custom_model_data": 9}, "model": "item/relics/flamethrower"},
 		{ "predicate": {"custom_model_data": 10}, "model": "item/relics/lie_supor"},
 		{ "predicate": {"custom_model_data": 11}, "model": "item/relics/flash_cannon"},
-		{ "predicate": {"custom_model_data": 12}, "model": "item/relics/tomorrow_signal"}
+		{ "predicate": {"custom_model_data": 12}, "model": "item/relics/tomorrow_signal"},
+		{ "predicate": {"custom_model_data": 13}, "model": "item/relics/bounding_lance"},
+		{ "predicate": {"custom_model_data": 14}, "model": "item/relics/shielding_mask"},
+		{ "predicate": {"custom_model_data": 15}, "model": "item/relics/osteo_falchion/osteo_falchion"},
+		{ "predicate": {"custom_model_data": 15, "damaged": 1, "damage":  0.2}, "model": "item/relics/osteo_falchion/osteo_falchion_damage1"},
+		{ "predicate": {"custom_model_data": 15, "damaged": 1, "damage":  0.4}, "model": "item/relics/osteo_falchion/osteo_falchion_damage2"},
+		{ "predicate": {"custom_model_data": 15, "damaged": 1, "damage":  0.7}, "model": "item/relics/osteo_falchion/osteo_falchion_damage3"},
+		{ "predicate": {"custom_model_data": 15, "damaged": 1, "damage":  0.99}, "model": "item/relics/osteo_falchion/osteo_falchion_broken"}
 	]
 }
