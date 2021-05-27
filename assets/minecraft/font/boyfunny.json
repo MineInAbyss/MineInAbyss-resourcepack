@@ -1304,6 +1304,24 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/wazupog.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:emotes/wazuwhat.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
