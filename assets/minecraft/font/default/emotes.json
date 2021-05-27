@@ -758,15 +758,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:emotes/widesteve.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:emotes/bonenani.png",
       "ascent": 9,
       "height": 11,
