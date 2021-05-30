@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/kazura_inksac"},
-    {"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/makihige_inksac"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/kazura_inksac"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/makihige_inksac"}
   ]
 }

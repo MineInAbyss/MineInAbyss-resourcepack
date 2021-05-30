@@ -5,7 +5,7 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/tesuchi_scales"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/kuongatari_abdomen_cooked"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/tesuchi_scales"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/kuongatari_abdomen_cooked"}
 	]
 }

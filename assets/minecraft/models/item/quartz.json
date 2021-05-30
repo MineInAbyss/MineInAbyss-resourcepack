@@ -5,6 +5,6 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/orb_piercer_spike"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/orb_piercer_spike"}
 	]
 }

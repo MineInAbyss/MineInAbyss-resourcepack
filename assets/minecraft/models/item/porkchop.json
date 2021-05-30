@@ -5,9 +5,9 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/food/creatures/ashimite_meat"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/food/creatures/corpseweeper_meat"},
-		{"predicate": {"custom_model_data": 3}, "model": "item/food/creatures/okibo_meat"},
-		{"predicate": {"custom_model_data": 4}, "model": "item/food/creatures/ottobas_meat"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/ashimite_meat"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/corpseweeper_meat"},
+		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/food/creatures/okibo_meat"},
+		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/food/creatures/ottobas_meat"}
 	]
 }

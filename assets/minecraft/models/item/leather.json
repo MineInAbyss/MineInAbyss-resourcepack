@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/makihige_tentacle"},
-    {"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/dosetori_wingflap"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/makihige_tentacle"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/dosetori_wingflap"}
   ]
 }

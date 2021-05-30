@@ -5,6 +5,6 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data":  1}, "model": "item/event/nazarick/4f"}
+		{"predicate": {"custom_model_data":  1}, "model": "nazarick:4f"}
 	]
 }

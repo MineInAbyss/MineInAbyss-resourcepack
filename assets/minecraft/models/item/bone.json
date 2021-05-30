@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/dosetori_bone"},
-    {"predicate": {"custom_model_data": 2}, "model": "item/creaturedrops/madokajack_bone"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/dosetori_bone"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/madokajack_bone"}
   ]
 }

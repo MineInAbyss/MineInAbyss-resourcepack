@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "item/creaturedrops/hisomukuro_fin"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/hisomukuro_fin"}
   ]
 }

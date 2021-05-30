@@ -5,7 +5,7 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data":  1}, "model": "item/creaturedrops/abyssal_snail_gunk"},
-		{"predicate": {"custom_model_data":  2}, "model": "item/creaturedrops/splitjaw_gunk"}
+		{"predicate": {"custom_model_data":  1}, "model": "mineinabyss:item/creaturedrops/abyssal_snail_gunk"},
+		{"predicate": {"custom_model_data":  2}, "model": "mineinabyss:item/creaturedrops/splitjaw_gunk"}
 	]
 }
