@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "creaturedrops/splitjaw_scales"
+    "layer0": "mineinabyss:creaturedrops/splitjaw_scales"
   }
 }

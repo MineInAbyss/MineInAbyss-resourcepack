@@ -1,6 +1,6 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer0":"creaturedrops/abyssal_snail_gunk"
+    "layer0":"mineinabyss:creaturedrops/abyssal_snail_gunk"
   }
 }

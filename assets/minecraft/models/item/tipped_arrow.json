@@ -6,6 +6,6 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/tools/explosive_arrow"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/tools/explosive_arrow"}
 	]
 }

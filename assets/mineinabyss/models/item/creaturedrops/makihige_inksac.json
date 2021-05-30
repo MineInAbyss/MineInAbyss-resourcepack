@@ -1,6 +1,6 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer0":"creaturedrops/makihige_inksac"
+    "layer0":"mineinabyss:creaturedrops/makihige_inksac"
   }
 }

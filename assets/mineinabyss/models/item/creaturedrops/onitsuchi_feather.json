@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "creaturedrops/onitsuchi_feather"
+		"layer0": "mineinabyss:creaturedrops/onitsuchi_feather"
 	}
 }

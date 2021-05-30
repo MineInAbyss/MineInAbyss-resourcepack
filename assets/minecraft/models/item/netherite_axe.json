@@ -1,5 +1,5 @@
 {
-  "parent": "item/tools/axe/netherite_axe_mia",
+  "parent": "mineinabyss:item/tools/axe/netherite_axe_mia",
   "textures": {
     "layer0": "minecraft:item/netherite_axe"
   }

@@ -1,5 +1,5 @@
 {
-  "parent": "item/tools/hoe/wood_hoe_mia",
+  "parent": "mineinabyss:item/tools/hoe/wood_hoe_mia",
   "textures": {
     "layer0": "minecraft:item/wooden_hoe"
   }

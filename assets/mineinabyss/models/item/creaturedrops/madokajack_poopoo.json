@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "creaturedrops/madokajack_poopoo"
+		"layer0": "mineinabyss:creaturedrops/madokajack_poopoo"
 	}
 }

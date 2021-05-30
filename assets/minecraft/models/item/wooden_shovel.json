@@ -1,11 +1,11 @@
 {
-  "parent": "item/tools/shovel/wood_shovel_mia",
+  "parent": "mineinabyss:item/tools/shovel/wood_shovel_mia",
   "textures": {
     "layer0": "item/wooden_shovel"
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":  1}, "model": "item/other/campfire/campfire"},
-    {"predicate": {"custom_model_data":  2}, "model": "item/other/campfire/campfire_off"}
+    {"predicate": {"custom_model_data":  1}, "model": "mineinabyss:item/other/campfire/campfire"},
+    {"predicate": {"custom_model_data":  2}, "model": "mineinabyss:item/other/campfire/campfire_off"}
   ]
 }

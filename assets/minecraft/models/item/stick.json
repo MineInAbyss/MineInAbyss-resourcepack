@@ -35,6 +35,6 @@
     { "predicate": {"custom_model_data": 109}, "model":"nazarick:ring"},
     { "predicate": {"custom_model_data": 110}, "model":"nazarick:shalltear_lance"},
     { "predicate": {"custom_model_data": 111},"model":"camelot:sword/excalibur_alter"},
-    { "predicate": {"custom_model_data": 200},"model":"item/event/other/menacing"}
+    { "predicate": {"custom_model_data": 200},"model":"mineinabyss:item/other/menacing"}
   ]
 }

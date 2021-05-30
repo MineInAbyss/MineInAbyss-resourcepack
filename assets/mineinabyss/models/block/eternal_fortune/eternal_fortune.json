@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/white_tulip",
-		"particle": "block/white_tulip"
+		"0": "mineinabyss:block/nature/eternal_fortune",
+		"particle": "mineinabyss:block/nature/eternal_fortune"
 	},
 	"elements": [
 		{

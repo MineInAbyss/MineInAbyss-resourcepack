@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "creaturedrops/titanjaw_pearl"
+    "layer0": "mineinabyss:creaturedrops/titanjaw_pearl"
   }
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "creaturedrops/hammerbeak_beak"
+		"layer0": "mineinabyss:creaturedrops/hammerbeak_beak"
 	}
 }

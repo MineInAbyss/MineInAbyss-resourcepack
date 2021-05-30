@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "creaturedrops/stingerhead_scale2"
+    "layer0": "mineinabyss:creaturedrops/stingerhead_scale2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer0":"creaturedrops/corpseweeper_feather"
+    "layer0":"mineinabyss:creaturedrops/corpseweeper_feather"
   }
 }

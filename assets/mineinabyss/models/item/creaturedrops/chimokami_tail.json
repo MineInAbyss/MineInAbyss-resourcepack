@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "creaturedrops/chimokami_tail"
+    "layer0": "mineinabyss:creaturedrops/chimokami_tail"
   }
 }

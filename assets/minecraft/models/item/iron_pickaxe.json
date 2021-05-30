@@ -1,5 +1,5 @@
 {
-  "parent": "item/tools/pickaxe/iron_pick_mia",
+  "parent": "mineinabyss:item/tools/pickaxe/iron_pick_mia",
   "textures": {
     "layer0": "minecraft:item/iron_pickaxe"
   }

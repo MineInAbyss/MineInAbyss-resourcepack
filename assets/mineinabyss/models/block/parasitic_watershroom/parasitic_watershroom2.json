@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/water_mushroom",
-		"1": "block/water_mushroom_top",
-		"particle": "block/water_mushroom"
+		"0": "mineinabyss:block/nature/water_mushroom",
+		"1": "mineinabyss:block/nature/water_mushroom_top",
+		"particle": "mineinabyss:block/nature/water_mushroom"
 	},
 	"elements": [
 		{

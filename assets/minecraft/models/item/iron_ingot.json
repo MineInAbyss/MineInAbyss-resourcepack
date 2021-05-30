@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "item/relics/consumables/charcoal_sand_ingot"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/relics/consumables/charcoal_sand_ingot"}
   ]
 }

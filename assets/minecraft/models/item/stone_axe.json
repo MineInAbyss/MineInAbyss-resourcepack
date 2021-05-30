@@ -1,5 +1,5 @@
 {
-  "parent": "item/tools/axe/stone_axe_mia",
+  "parent": "mineinabyss:item/tools/axe/stone_axe_mia",
   "textures": {
     "layer0": "minecraft:item/stone_axe"
   }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "creaturedrops/fuwagi_hide"
+    "layer0": "mineinabyss:creaturedrops/fuwagi_hide"
   }
 }

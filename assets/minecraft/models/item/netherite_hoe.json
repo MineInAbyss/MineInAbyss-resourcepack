@@ -1,12 +1,12 @@
 
 {
- "parent": "item/tools/hoe/netherite_hoe_mia",
+ "parent": "mineinabyss:item/tools/hoe/netherite_hoe_mia",
  "textures": {
   "layer0": "item/netherite_hoe"
  },
  "overrides": [
-	{ "predicate": {"custom_model_data": 1}, "model": "item/mob/nazarick_deathknight/deathknight"},
-	{ "predicate": {"custom_model_data": 2}, "model": "item/mob/nazarick_deathknight/deathknight"},
-	{ "predicate": {"custom_model_data": 3}, "model": "item/mob/nazarick_deathknight/deathknight_hit"}
+	{ "predicate": {"custom_model_data": 1}, "model": "creatures/nazarick_deathknight/deathknight"},
+	{ "predicate": {"custom_model_data": 2}, "model": "creatures/nazarick_deathknight/deathknight"},
+	{ "predicate": {"custom_model_data": 3}, "model": "creatures/nazarick_deathknight/deathknight_hit"}
  ]
 }

@@ -12,7 +12,7 @@ RERENDER = False
 root_dir = Path('../')
 output_dir = root_dir / 'out/'
 hit_gen_dir = output_dir / 'hit_gen'
-mob_models = 'assets/minecraft/models/item/mob'
+mob_models = 'assets/minecraft/models/creatures'
 textures = 'assets/minecraft/textures/'
 
 used_textures = []
