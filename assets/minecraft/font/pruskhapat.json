@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/1.png",
+      "file": "mineinabyss:gifs/pruskhapat/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/2.png",
+      "file": "mineinabyss:gifs/pruskhapat/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/3.png",
+      "file": "mineinabyss:gifs/pruskhapat/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/4.png",
+      "file": "mineinabyss:gifs/pruskhapat/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/5.png",
+      "file": "mineinabyss:gifs/pruskhapat/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/6.png",
+      "file": "mineinabyss:gifs/pruskhapat/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/7.png",
+      "file": "mineinabyss:gifs/pruskhapat/7.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/8.png",
+      "file": "mineinabyss:gifs/pruskhapat/8.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/9.png",
+      "file": "mineinabyss:gifs/pruskhapat/9.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/pruskhapat/10.png",
+      "file": "mineinabyss:gifs/pruskhapat/10.png",
       "ascent": 9,
       "height": 11,
       "chars": [

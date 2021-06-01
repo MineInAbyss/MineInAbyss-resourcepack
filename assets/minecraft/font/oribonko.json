@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribonko/1.png",
+      "file": "mineinabyss:gifs/oribonko/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribonko/2.png",
+      "file": "mineinabyss:gifs/oribonko/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [

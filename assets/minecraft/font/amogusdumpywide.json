@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdumpywide/1.png",
+      "file": "mineinabyss:gifs/amogusdumpywide/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdumpywide/2.png",
+      "file": "mineinabyss:gifs/amogusdumpywide/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdumpywide/3.png",
+      "file": "mineinabyss:gifs/amogusdumpywide/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdumpywide/4.png",
+      "file": "mineinabyss:gifs/amogusdumpywide/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdumpywide/5.png",
+      "file": "mineinabyss:gifs/amogusdumpywide/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdumpywide/6.png",
+      "file": "mineinabyss:gifs/amogusdumpywide/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [

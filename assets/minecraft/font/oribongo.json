@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribongo/1.png",
+      "file": "mineinabyss:gifs/oribongo/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribongo/2.png",
+      "file": "mineinabyss:gifs/oribongo/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribongo/3.png",
+      "file": "mineinabyss:gifs/oribongo/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribongo/4.png",
+      "file": "mineinabyss:gifs/oribongo/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/oribongo/5.png",
+      "file": "mineinabyss:gifs/oribongo/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
