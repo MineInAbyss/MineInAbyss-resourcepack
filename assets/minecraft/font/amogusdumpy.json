@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amogusdumpy/1.png",
+      "file": "emotes:gifs/amogusdumpy/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amogusdumpy/2.png",
+      "file": "emotes:gifs/amogusdumpy/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amogusdumpy/3.png",
+      "file": "emotes:gifs/amogusdumpy/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amogusdumpy/4.png",
+      "file": "emotes:gifs/amogusdumpy/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amogusdumpy/5.png",
+      "file": "emotes:gifs/amogusdumpy/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amogusdumpy/6.png",
+      "file": "emotes:gifs/amogusdumpy/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [

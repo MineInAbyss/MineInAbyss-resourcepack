@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/aqua_chibi.png",
+      "file": "emotes:emotes/aqua_chibi.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/aqua.png",
+      "file": "emotes:emotes/aqua.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/bk.png",
+      "file": "emotes:emotes/bk.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/bell.png",
+      "file": "emotes:whistles/bell.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/redw.png",
+      "file": "emotes:whistles/redw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/bluew.png",
+      "file": "emotes:whistles/bluew.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/moonw.png",
+      "file": "emotes:whistles/moonw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/blackw.png",
+      "file": "emotes:whistles/blackw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/whitew.png",
+      "file": "emotes:whistles/whitew.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/bonegun.png",
+      "file": "emotes:emotes/bonegun.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/bonethink.png",
+      "file": "emotes:emotes/bonethink.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/emoji_38.png",
+      "file": "emotes:emotes/emoji_38.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/fork.png",
+      "file": "emotes:emotes/fork.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nikounamused.png",
+      "file": "emotes:emotes/nikounamused.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/ozensmug.png",
+      "file": "emotes:emotes/ozensmug.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -137,7 +137,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepehands.png",
+      "file": "emotes:emotes/pepehands.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -146,7 +146,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepejam.png",
+      "file": "emotes:emotes/pepejam.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -155,7 +155,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepega.png",
+      "file": "emotes:emotes/pepega.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -164,7 +164,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/poggers.png",
+      "file": "emotes:emotes/poggers.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/regg.png",
+      "file": "emotes:emotes/regg.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -182,7 +182,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/mittysweat.png",
+      "file": "emotes:emotes/mittysweat.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -191,7 +191,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikoangry.png",
+      "file": "emotes:emotes/rikoangry.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -200,7 +200,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikoeyes.png",
+      "file": "emotes:emotes/rikoeyes.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -209,7 +209,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/shrugsmug.png",
+      "file": "emotes:emotes/shrugsmug.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -218,7 +218,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/siggy.png",
+      "file": "emotes:emotes/siggy.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -227,7 +227,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/yeekonormal.png",
+      "file": "emotes:emotes/yeekonormal.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/yeekoscuffed.png",
+      "file": "emotes:emotes/yeekoscuffed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -245,7 +245,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/omegalul.png",
+      "file": "emotes:emotes/omegalul.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -254,7 +254,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/natlikethis.png",
+      "file": "emotes:emotes/natlikethis.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -263,7 +263,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/gachibass.png",
+      "file": "emotes:emotes/gachibass.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -272,7 +272,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/kekw.png",
+      "file": "emotes:emotes/kekw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -281,7 +281,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/sanswink.png",
+      "file": "emotes:emotes/sanswink.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -290,7 +290,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/subarashii.png",
+      "file": "emotes:emotes/subarashii.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -299,7 +299,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nanahug.png",
+      "file": "emotes:emotes/nanahug.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -308,7 +308,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/mitty.png",
+      "file": "emotes:emotes/mitty.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -317,7 +317,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/feelsbunman.png",
+      "file": "emotes:emotes/feelsbunman.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -326,7 +326,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/woh.png",
+      "file": "emotes:emotes/woh.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -335,7 +335,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/kappa.png",
+      "file": "emotes:emotes/kappa.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -344,7 +344,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nanalewd.png",
+      "file": "emotes:emotes/nanalewd.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -353,7 +353,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/jackieohok.png",
+      "file": "emotes:emotes/jackieohok.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -362,7 +362,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/sadcat.png",
+      "file": "emotes:emotes/sadcat.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -371,7 +371,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/smudge.png",
+      "file": "emotes:emotes/smudge.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -380,7 +380,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/kika.png",
+      "file": "emotes:emotes/kika.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -389,7 +389,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nanaya.png",
+      "file": "emotes:emotes/nanaya.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -398,7 +398,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/meinyaaaa.png",
+      "file": "emotes:emotes/meinyaaaa.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -407,7 +407,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nanashy.png",
+      "file": "emotes:emotes/nanashy.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -416,7 +416,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/galaxybrain.png",
+      "file": "emotes:emotes/galaxybrain.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -425,7 +425,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pensive.png",
+      "file": "emotes:emotes/pensive.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -434,7 +434,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/harold.png",
+      "file": "emotes:emotes/harold.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -443,7 +443,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikoup.png",
+      "file": "emotes:emotes/rikoup.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -452,7 +452,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/regcry.png",
+      "file": "emotes:emotes/regcry.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -461,7 +461,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikolamo.png",
+      "file": "emotes:emotes/rikolamo.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -470,7 +470,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/okhand.png",
+      "file": "emotes:emotes/okhand.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -479,7 +479,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/thinking.png",
+      "file": "emotes:emotes/thinking.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -488,7 +488,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/flushed.png",
+      "file": "emotes:emotes/flushed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -497,7 +497,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nanawaaaa.png",
+      "file": "emotes:emotes/nanawaaaa.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -506,7 +506,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikoeyesdrawn.png",
+      "file": "emotes:emotes/rikoeyesdrawn.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -515,7 +515,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/michirusmug.png",
+      "file": "emotes:emotes/michirusmug.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -524,7 +524,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/nanashrug.png",
+      "file": "emotes:emotes/nanashrug.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -533,7 +533,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pogchamp.png",
+      "file": "emotes:emotes/pogchamp.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -542,7 +542,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/lewd.png",
+      "file": "emotes:emotes/lewd.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -551,7 +551,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/hypers.png",
+      "file": "emotes:emotes/hypers.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -560,7 +560,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/osuhow.png",
+      "file": "emotes:emotes/osuhow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -569,7 +569,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikopray.png",
+      "file": "emotes:emotes/rikopray.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -578,7 +578,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/smilew.png",
+      "file": "emotes:emotes/smilew.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -587,7 +587,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/ayaya.png",
+      "file": "emotes:emotes/ayaya.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -596,7 +596,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pogyou.png",
+      "file": "emotes:emotes/pogyou.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -605,7 +605,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/fapushock.png",
+      "file": "emotes:emotes/fapushock.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -614,7 +614,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pogo.png",
+      "file": "emotes:emotes/pogo.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -623,7 +623,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pog.png",
+      "file": "emotes:emotes/pog.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -632,7 +632,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikoblep.png",
+      "file": "emotes:emotes/rikoblep.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -641,7 +641,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/doubt.png",
+      "file": "emotes:emotes/doubt.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -650,7 +650,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/bondrewdw.png",
+      "file": "emotes:whistles/bondrewdw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -659,7 +659,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/lyzaw.png",
+      "file": "emotes:whistles/lyzaw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -668,7 +668,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/rikow.png",
+      "file": "emotes:whistles/rikow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -677,7 +677,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/ozenw.png",
+      "file": "emotes:whistles/ozenw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -686,7 +686,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/lifereverbw.png",
+      "file": "emotes:whistles/lifereverbw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -695,7 +695,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/habowide.png",
+      "file": "emotes:emotes/habowide.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -704,7 +704,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/habowidest.png",
+      "file": "emotes:emotes/habowidest.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -713,7 +713,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/steveflushed.png",
+      "file": "emotes:emotes/steveflushed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -722,7 +722,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/flooshed.png",
+      "file": "emotes:emotes/flooshed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -731,7 +731,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/bruh.png",
+      "file": "emotes:emotes/bruh.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -740,7 +740,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/yeepensive.png",
+      "file": "emotes:emotes/yeepensive.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -749,7 +749,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/temeyes.png",
+      "file": "emotes:emotes/temeyes.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -758,7 +758,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/bonenani.png",
+      "file": "emotes:emotes/bonenani.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -767,7 +767,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/isforme.png",
+      "file": "emotes:emotes/isforme.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -776,7 +776,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/boneshrug.png",
+      "file": "emotes:emotes/boneshrug.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -785,7 +785,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepesit.png",
+      "file": "emotes:emotes/pepesit.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -794,7 +794,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/yep.png",
+      "file": "emotes:emotes/yep.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -803,7 +803,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/5head.png",
+      "file": "emotes:emotes/5head.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -812,7 +812,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pain.png",
+      "file": "emotes:emotes/pain.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -821,7 +821,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/sadge.png",
+      "file": "emotes:emotes/sadge.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -830,7 +830,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/boneblushed.png",
+      "file": "emotes:emotes/boneblushed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -839,7 +839,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/habohotel.png",
+      "file": "emotes:emotes/habohotel.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -848,7 +848,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/walterbruh.png",
+      "file": "emotes:emotes/walterbruh.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -857,7 +857,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/wakunaw.png",
+      "file": "emotes:whistles/wakunaw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -866,7 +866,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/srajow.png",
+      "file": "emotes:whistles/srajow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -875,7 +875,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepebusiness.png",
+      "file": "emotes:emotes/pepebusiness.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -884,7 +884,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/gura.png",
+      "file": "emotes:emotes/gura.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -893,7 +893,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikothumb.png",
+      "file": "emotes:emotes/rikothumb.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -902,7 +902,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/monke.png",
+      "file": "emotes:emotes/monke.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -911,7 +911,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/booba.png",
+      "file": "emotes:emotes/booba.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -920,7 +920,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepelaugh.png",
+      "file": "emotes:emotes/pepelaugh.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -929,7 +929,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/guraflushed.png",
+      "file": "emotes:emotes/guraflushed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -938,7 +938,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/beep.png",
+      "file": "emotes:emotes/beep.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -947,7 +947,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepegun.png",
+      "file": "emotes:emotes/pepegun.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -956,7 +956,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepothink.png",
+      "file": "emotes:emotes/pepothink.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -965,7 +965,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pepehmm.png",
+      "file": "emotes:emotes/pepehmm.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -974,7 +974,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/pogjaw.png",
+      "file": "emotes:emotes/pogjaw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -983,7 +983,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/owlw.png",
+      "file": "emotes:whistles/owlw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -992,7 +992,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/painw.png",
+      "file": "emotes:whistles/painw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1001,7 +1001,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:whistles/boyw.png",
+      "file": "emotes:whistles/boyw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1010,7 +1010,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/gurashark.png",
+      "file": "emotes:emotes/gurashark.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1019,7 +1019,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/prayge.png",
+      "file": "emotes:emotes/prayge.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1028,7 +1028,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/widepeepohappy.png",
+      "file": "emotes:emotes/widepeepohappy.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1037,7 +1037,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/d.png",
+      "file": "emotes:emotes/d.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1046,7 +1046,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/amogus.png",
+      "file": "emotes:emotes/amogus.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1055,7 +1055,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/callipog.png",
+      "file": "emotes:emotes/callipog.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1064,7 +1064,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/guradum.png",
+      "file": "emotes:emotes/guradum.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1073,7 +1073,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/gurasalute.png",
+      "file": "emotes:emotes/gurasalute.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1082,7 +1082,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/habosleep.png",
+      "file": "emotes:emotes/habosleep.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1091,7 +1091,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/habowoke.png",
+      "file": "emotes:emotes/habowoke.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1100,7 +1100,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/notlikegura.png",
+      "file": "emotes:emotes/notlikegura.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1109,7 +1109,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/regflushed.png",
+      "file": "emotes:emotes/regflushed.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1118,7 +1118,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/rikoyep.png",
+      "file": "emotes:emotes/rikoyep.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1127,7 +1127,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/sadangry.png",
+      "file": "emotes:emotes/sadangry.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1136,7 +1136,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/thonk.png",
+      "file": "emotes:emotes/thonk.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1145,7 +1145,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/watsoncry.png",
+      "file": "emotes:emotes/watsoncry.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1154,7 +1154,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/widepanda.png",
+      "file": "emotes:emotes/widepanda.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1163,7 +1163,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/aaaa.png",
+      "file": "emotes:emotes/aaaa.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1172,7 +1172,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/flatboi.png",
+      "file": "emotes:emotes/flatboi.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1181,7 +1181,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/tora.png",
+      "file": "emotes:emotes/tora.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1190,7 +1190,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/senkow.png",
+      "file": "emotes:emotes/senkow.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1199,7 +1199,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/guradoki.png",
+      "file": "emotes:emotes/guradoki.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1208,7 +1208,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/faputaborga.png",
+      "file": "emotes:emotes/faputaborga.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1217,7 +1217,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/adarnice.png",
+      "file": "emotes:emotes/adarnice.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1226,7 +1226,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/faputayaya.png",
+      "file": "emotes:emotes/faputayaya.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1235,7 +1235,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/smilechamp.png",
+      "file": "emotes:emotes/smilechamp.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1244,7 +1244,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/oriw.png",
+      "file": "emotes:emotes/oriw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1253,7 +1253,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/monkaw.png",
+      "file": "emotes:emotes/monkaw.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1262,7 +1262,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/gurawide.png",
+      "file": "emotes:emotes/gurawide.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1271,7 +1271,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/peeporage.png",
+      "file": "emotes:emotes/peeporage.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1280,7 +1280,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/habochonk.png",
+      "file": "emotes:emotes/habochonk.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1289,7 +1289,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/glacesip.png",
+      "file": "emotes:emotes/glacesip.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1298,7 +1298,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/wazupog.png",
+      "file": "emotes:emotes/wazupog.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1307,7 +1307,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:emotes/wazuwhat.png",
+      "file": "emotes:emotes/wazuwhat.png",
       "ascent": 9,
       "height": 11,
       "chars": [

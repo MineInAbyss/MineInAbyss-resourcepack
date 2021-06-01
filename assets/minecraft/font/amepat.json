@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/1.png",
+      "file": "emotes:gifs/amepat/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/2.png",
+      "file": "emotes:gifs/amepat/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/3.png",
+      "file": "emotes:gifs/amepat/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/4.png",
+      "file": "emotes:gifs/amepat/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/5.png",
+      "file": "emotes:gifs/amepat/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/6.png",
+      "file": "emotes:gifs/amepat/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/7.png",
+      "file": "emotes:gifs/amepat/7.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/8.png",
+      "file": "emotes:gifs/amepat/8.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:gifs/amepat/9.png",
+      "file": "emotes:gifs/amepat/9.png",
       "ascent": 9,
       "height": 11,
       "chars": [
