@@ -11,22 +11,22 @@
 	},
 	"entity.amakagame.hurt": {
 		"sounds": [
-			"entity/amakagame/hurt"
+			"mineinabyss:sounds/entity/amakagame/hurt"
 		]
 	},
 	"entity.corpseweeper.ambient": {
 		"sounds": [
-			"entity/corpseweeper/ambient"
+			"mineinabyss:entity/corpseweeper/ambient"
 		]
 	},
 	"entity.corpseweeper.death": {
 		"sounds": [
-			"entity/corpseweeper/death"
+			"mineinabyss:entity/corpseweeper/death"
 		]
 	},
 	"entity.corpseweeper.hurt": {
 		"sounds": [
-			"entity/corpseweeper/hurt"
+			"mineinabyss:entity/corpseweeper/hurt"
 		]
 	},
 	"entity.ottobas.ambient": {
