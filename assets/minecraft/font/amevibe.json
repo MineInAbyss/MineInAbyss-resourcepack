@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/1.png",
+      "file": "emotes:gifs/amevibe/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/2.png",
+      "file": "emotes:gifs/amevibe/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/3.png",
+      "file": "emotes:gifs/amevibe/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/4.png",
+      "file": "emotes:gifs/amevibe/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/5.png",
+      "file": "emotes:gifs/amevibe/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/6.png",
+      "file": "emotes:gifs/amevibe/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/7.png",
+      "file": "emotes:gifs/amevibe/7.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/8.png",
+      "file": "emotes:gifs/amevibe/8.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/9.png",
+      "file": "emotes:gifs/amevibe/9.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/10.png",
+      "file": "emotes:gifs/amevibe/10.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/11.png",
+      "file": "emotes:gifs/amevibe/11.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/12.png",
+      "file": "emotes:gifs/amevibe/12.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/13.png",
+      "file": "emotes:gifs/amevibe/13.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/14.png",
+      "file": "emotes:gifs/amevibe/14.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/15.png",
+      "file": "emotes:gifs/amevibe/15.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -137,7 +137,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/16.png",
+      "file": "emotes:gifs/amevibe/16.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -146,7 +146,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/17.png",
+      "file": "emotes:gifs/amevibe/17.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -155,7 +155,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/18.png",
+      "file": "emotes:gifs/amevibe/18.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -164,7 +164,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/19.png",
+      "file": "emotes:gifs/amevibe/19.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/20.png",
+      "file": "emotes:gifs/amevibe/20.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -182,7 +182,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/21.png",
+      "file": "emotes:gifs/amevibe/21.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -191,7 +191,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/22.png",
+      "file": "emotes:gifs/amevibe/22.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -200,7 +200,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/23.png",
+      "file": "emotes:gifs/amevibe/23.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -209,7 +209,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/24.png",
+      "file": "emotes:gifs/amevibe/24.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -218,7 +218,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/25.png",
+      "file": "emotes:gifs/amevibe/25.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -227,7 +227,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/26.png",
+      "file": "emotes:gifs/amevibe/26.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/27.png",
+      "file": "emotes:gifs/amevibe/27.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -245,7 +245,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/28.png",
+      "file": "emotes:gifs/amevibe/28.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -254,7 +254,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/29.png",
+      "file": "emotes:gifs/amevibe/29.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -263,7 +263,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/30.png",
+      "file": "emotes:gifs/amevibe/30.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -272,7 +272,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/31.png",
+      "file": "emotes:gifs/amevibe/31.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -281,7 +281,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/32.png",
+      "file": "emotes:gifs/amevibe/32.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -290,7 +290,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/33.png",
+      "file": "emotes:gifs/amevibe/33.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -299,7 +299,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/34.png",
+      "file": "emotes:gifs/amevibe/34.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -308,7 +308,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amevibe/35.png",
+      "file": "emotes:gifs/amevibe/35.png",
       "ascent": 9,
       "height": 11,
       "chars": [

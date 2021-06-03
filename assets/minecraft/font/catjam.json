@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/1.png",
+      "file": "emotes:gifs/catjam/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/2.png",
+      "file": "emotes:gifs/catjam/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/3.png",
+      "file": "emotes:gifs/catjam/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/4.png",
+      "file": "emotes:gifs/catjam/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/5.png",
+      "file": "emotes:gifs/catjam/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/6.png",
+      "file": "emotes:gifs/catjam/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/7.png",
+      "file": "emotes:gifs/catjam/7.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/8.png",
+      "file": "emotes:gifs/catjam/8.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/9.png",
+      "file": "emotes:gifs/catjam/9.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/10.png",
+      "file": "emotes:gifs/catjam/10.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/11.png",
+      "file": "emotes:gifs/catjam/11.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/12.png",
+      "file": "emotes:gifs/catjam/12.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/13.png",
+      "file": "emotes:gifs/catjam/13.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/14.png",
+      "file": "emotes:gifs/catjam/14.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/15.png",
+      "file": "emotes:gifs/catjam/15.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -137,7 +137,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/16.png",
+      "file": "emotes:gifs/catjam/16.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -146,7 +146,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/17.png",
+      "file": "emotes:gifs/catjam/17.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -155,7 +155,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/18.png",
+      "file": "emotes:gifs/catjam/18.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -164,7 +164,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/19.png",
+      "file": "emotes:gifs/catjam/19.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/20.png",
+      "file": "emotes:gifs/catjam/20.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -182,7 +182,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/21.png",
+      "file": "emotes:gifs/catjam/21.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -191,7 +191,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/22.png",
+      "file": "emotes:gifs/catjam/22.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -200,7 +200,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/23.png",
+      "file": "emotes:gifs/catjam/23.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -209,7 +209,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/24.png",
+      "file": "emotes:gifs/catjam/24.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -218,7 +218,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/25.png",
+      "file": "emotes:gifs/catjam/25.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -227,7 +227,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/26.png",
+      "file": "emotes:gifs/catjam/26.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/27.png",
+      "file": "emotes:gifs/catjam/27.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -245,7 +245,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/catjam/28.png",
+      "file": "emotes:gifs/catjam/28.png",
       "ascent": 9,
       "height": 11,
       "chars": [

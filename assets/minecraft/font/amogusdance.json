@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/1.png",
+      "file": "emotes:gifs/amogusdance/1.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/2.png",
+      "file": "emotes:gifs/amogusdance/2.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/3.png",
+      "file": "emotes:gifs/amogusdance/3.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/4.png",
+      "file": "emotes:gifs/amogusdance/4.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/5.png",
+      "file": "emotes:gifs/amogusdance/5.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/6.png",
+      "file": "emotes:gifs/amogusdance/6.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/7.png",
+      "file": "emotes:gifs/amogusdance/7.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/8.png",
+      "file": "emotes:gifs/amogusdance/8.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/9.png",
+      "file": "emotes:gifs/amogusdance/9.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -83,7 +83,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/10.png",
+      "file": "emotes:gifs/amogusdance/10.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -92,7 +92,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/11.png",
+      "file": "emotes:gifs/amogusdance/11.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -101,7 +101,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/12.png",
+      "file": "emotes:gifs/amogusdance/12.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/13.png",
+      "file": "emotes:gifs/amogusdance/13.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -119,7 +119,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/14.png",
+      "file": "emotes:gifs/amogusdance/14.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -128,7 +128,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/15.png",
+      "file": "emotes:gifs/amogusdance/15.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -137,7 +137,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/16.png",
+      "file": "emotes:gifs/amogusdance/16.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -146,7 +146,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/17.png",
+      "file": "emotes:gifs/amogusdance/17.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -155,7 +155,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/18.png",
+      "file": "emotes:gifs/amogusdance/18.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -164,7 +164,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/19.png",
+      "file": "emotes:gifs/amogusdance/19.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -173,7 +173,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/20.png",
+      "file": "emotes:gifs/amogusdance/20.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -182,7 +182,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/21.png",
+      "file": "emotes:gifs/amogusdance/21.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -191,7 +191,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/22.png",
+      "file": "emotes:gifs/amogusdance/22.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -200,7 +200,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/23.png",
+      "file": "emotes:gifs/amogusdance/23.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -209,7 +209,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/24.png",
+      "file": "emotes:gifs/amogusdance/24.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -218,7 +218,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/25.png",
+      "file": "emotes:gifs/amogusdance/25.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -227,7 +227,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/26.png",
+      "file": "emotes:gifs/amogusdance/26.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/27.png",
+      "file": "emotes:gifs/amogusdance/27.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -245,7 +245,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/28.png",
+      "file": "emotes:gifs/amogusdance/28.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -254,7 +254,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/29.png",
+      "file": "emotes:gifs/amogusdance/29.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -263,7 +263,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/30.png",
+      "file": "emotes:gifs/amogusdance/30.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -272,7 +272,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/31.png",
+      "file": "emotes:gifs/amogusdance/31.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -281,7 +281,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/32.png",
+      "file": "emotes:gifs/amogusdance/32.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -290,7 +290,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/33.png",
+      "file": "emotes:gifs/amogusdance/33.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -299,7 +299,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/34.png",
+      "file": "emotes:gifs/amogusdance/34.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -308,7 +308,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/35.png",
+      "file": "emotes:gifs/amogusdance/35.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -317,7 +317,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/36.png",
+      "file": "emotes:gifs/amogusdance/36.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -326,7 +326,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/37.png",
+      "file": "emotes:gifs/amogusdance/37.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -335,7 +335,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/38.png",
+      "file": "emotes:gifs/amogusdance/38.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -344,7 +344,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/39.png",
+      "file": "emotes:gifs/amogusdance/39.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -353,7 +353,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/40.png",
+      "file": "emotes:gifs/amogusdance/40.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -362,7 +362,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/41.png",
+      "file": "emotes:gifs/amogusdance/41.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -371,7 +371,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/42.png",
+      "file": "emotes:gifs/amogusdance/42.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -380,7 +380,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/43.png",
+      "file": "emotes:gifs/amogusdance/43.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -389,7 +389,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/44.png",
+      "file": "emotes:gifs/amogusdance/44.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -398,7 +398,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/45.png",
+      "file": "emotes:gifs/amogusdance/45.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -407,7 +407,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/46.png",
+      "file": "emotes:gifs/amogusdance/46.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -416,7 +416,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/47.png",
+      "file": "emotes:gifs/amogusdance/47.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -425,7 +425,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/48.png",
+      "file": "emotes:gifs/amogusdance/48.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -434,7 +434,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/49.png",
+      "file": "emotes:gifs/amogusdance/49.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -443,7 +443,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/50.png",
+      "file": "emotes:gifs/amogusdance/50.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -452,7 +452,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/51.png",
+      "file": "emotes:gifs/amogusdance/51.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -461,7 +461,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/52.png",
+      "file": "emotes:gifs/amogusdance/52.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -470,7 +470,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/53.png",
+      "file": "emotes:gifs/amogusdance/53.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -479,7 +479,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/54.png",
+      "file": "emotes:gifs/amogusdance/54.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -488,7 +488,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/55.png",
+      "file": "emotes:gifs/amogusdance/55.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -497,7 +497,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/56.png",
+      "file": "emotes:gifs/amogusdance/56.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -506,7 +506,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/57.png",
+      "file": "emotes:gifs/amogusdance/57.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -515,7 +515,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/58.png",
+      "file": "emotes:gifs/amogusdance/58.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -524,7 +524,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/59.png",
+      "file": "emotes:gifs/amogusdance/59.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -533,7 +533,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/60.png",
+      "file": "emotes:gifs/amogusdance/60.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -542,7 +542,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/61.png",
+      "file": "emotes:gifs/amogusdance/61.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -551,7 +551,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/62.png",
+      "file": "emotes:gifs/amogusdance/62.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -560,7 +560,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/63.png",
+      "file": "emotes:gifs/amogusdance/63.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -569,7 +569,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/64.png",
+      "file": "emotes:gifs/amogusdance/64.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -578,7 +578,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/65.png",
+      "file": "emotes:gifs/amogusdance/65.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -587,7 +587,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/66.png",
+      "file": "emotes:gifs/amogusdance/66.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -596,7 +596,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/67.png",
+      "file": "emotes:gifs/amogusdance/67.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -605,7 +605,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/68.png",
+      "file": "emotes:gifs/amogusdance/68.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -614,7 +614,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/69.png",
+      "file": "emotes:gifs/amogusdance/69.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -623,7 +623,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/70.png",
+      "file": "emotes:gifs/amogusdance/70.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -632,7 +632,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/71.png",
+      "file": "emotes:gifs/amogusdance/71.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -641,7 +641,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/72.png",
+      "file": "emotes:gifs/amogusdance/72.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -650,7 +650,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/73.png",
+      "file": "emotes:gifs/amogusdance/73.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -659,7 +659,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/74.png",
+      "file": "emotes:gifs/amogusdance/74.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -668,7 +668,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/75.png",
+      "file": "emotes:gifs/amogusdance/75.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -677,7 +677,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/76.png",
+      "file": "emotes:gifs/amogusdance/76.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -686,7 +686,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/77.png",
+      "file": "emotes:gifs/amogusdance/77.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -695,7 +695,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/78.png",
+      "file": "emotes:gifs/amogusdance/78.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -704,7 +704,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/79.png",
+      "file": "emotes:gifs/amogusdance/79.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -713,7 +713,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/80.png",
+      "file": "emotes:gifs/amogusdance/80.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -722,7 +722,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gifs/amogusdance/81.png",
+      "file": "emotes:gifs/amogusdance/81.png",
       "ascent": 9,
       "height": 11,
       "chars": [
