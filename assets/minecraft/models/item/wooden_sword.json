@@ -2,5 +2,8 @@
   "parent": "mineinabyss:item/tools/sword/wood_bludgeon_mia",
   "textures": {
     "layer0": "minecraft:item/wooden_sword"
-  }
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/other/kendo_sword"}
+  ]
 }
