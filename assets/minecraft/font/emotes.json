@@ -1046,7 +1046,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:emotes/amogus.png",
+      "file": "emotes:emotes/sus.png",
       "ascent": 9,
       "height": 11,
       "chars": [
@@ -1312,6 +1312,33 @@
       "height": 11,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/habosus.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/bonesus.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/nanasus.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
       ]
     }
   ]
