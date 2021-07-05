@@ -6,7 +6,6 @@
 
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/silkfang_eye"},
-		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/madokajack_eye"},
-		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/creaturedrops/stingerhead_eye"}
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/madokajack_eye"}
 	]
 }
