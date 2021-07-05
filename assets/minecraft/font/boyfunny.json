@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/bell.png",
+      "file": "mineinabyss:whistles/bell.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/redw.png",
+      "file": "mineinabyss:whistles/redw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/bluew.png",
+      "file": "mineinabyss:whistles/bluew.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/moonw.png",
+      "file": "mineinabyss:whistles/moonw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -65,7 +65,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/blackw.png",
+      "file": "mineinabyss:whistles/blackw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -74,7 +74,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/whitew.png",
+      "file": "mineinabyss:whistles/whitew.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -650,7 +650,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/bondrewdw.png",
+      "file": "mineinabyss:whistles/bondrewdw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -659,7 +659,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/lyzaw.png",
+      "file": "mineinabyss:whistles/lyzaw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -668,7 +668,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/rikow.png",
+      "file": "mineinabyss:whistles/rikow.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -677,7 +677,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/ozenw.png",
+      "file": "mineinabyss:whistles/ozenw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -686,7 +686,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/lifereverbw.png",
+      "file": "mineinabyss:whistles/lifereverbw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -857,7 +857,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/wakunaw.png",
+      "file": "mineinabyss:whistles/wakunaw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -866,7 +866,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/srajow.png",
+      "file": "mineinabyss:whistles/srajow.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -983,7 +983,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/owlw.png",
+      "file": "mineinabyss:whistles/owlw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -992,7 +992,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/painw.png",
+      "file": "mineinabyss:whistles/painw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -1001,7 +1001,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:whistles/boyw.png",
+      "file": "mineinabyss:whistles/boyw.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -1046,7 +1046,7 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:emotes/amogus.png",
+      "file": "emotes:emotes/sus.png",
       "ascent": 40,
       "height": 80,
       "chars": [
@@ -1312,6 +1312,69 @@
       "height": 80,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/habosus.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/bonesus.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/nanasus.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/sam.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/inapain.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/inasmug.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/inabye.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
       ]
     }
   ]

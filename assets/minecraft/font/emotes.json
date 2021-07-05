@@ -1320,7 +1320,7 @@
       "ascent": 9,
       "height": 11,
       "chars": [
-        ""
+        ""
       ]
     },
     {
@@ -1329,7 +1329,7 @@
       "ascent": 9,
       "height": 11,
       "chars": [
-        ""
+        ""
       ]
     },
     {
@@ -1338,7 +1338,43 @@
       "ascent": 9,
       "height": 11,
       "chars": [
-        ""
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/sam.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/inapain.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/inasmug.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/inabye.png",
+      "ascent": 9,
+      "height": 11,
+      "chars": [
+        ""
       ]
     }
   ]
