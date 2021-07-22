@@ -1379,38 +1379,11 @@
     },
     {
       "type": "bitmap",
-      "file": "emotes:emotes/floppa.png",
+      "file": "emotes:emotes/troll.png",
       "ascent": 9,
       "height": 11,
       "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:whistles/gunsmithw.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:emotes/gurapray.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:emotes/amebrain.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        ""
+        ""
       ]
     }
   ]
