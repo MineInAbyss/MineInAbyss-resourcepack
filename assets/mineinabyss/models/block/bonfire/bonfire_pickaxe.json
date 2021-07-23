@@ -4,72 +4,11 @@
 	"textures": {
 		"1": "mineinabyss:tools/iron_tools",
 		"3": "mineinabyss:block/bonfire/meat",
-		"4": "mineinabyss:block/bonfire/campfire_log",
 		"5": "mineinabyss:block/bonfire/sticks",
 		"6": "mineinabyss:block/bonfire/backpack",
 		"particle": "mineinabyss:tools/iron_tools"
 	},
 	"elements": [
-		{
-			"from": [1, 0, 0],
-			"to": [5, 4, 16],
-			"faces": {
-				"north": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "north"},
-				"east": {"uv": [0, 1, 16, 5], "texture": "#4"},
-				"south": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "south"},
-				"west": {"uv": [16, 0, 0, 4], "texture": "#4"},
-				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#4"},
-				"down": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#4", "cullface": "down"}
-			}
-		},
-		{
-			"from": [0, 3, 11],
-			"to": [16, 7, 15],
-			"faces": {
-				"north": {"uv": [16, 0, 0, 4], "texture": "#4"},
-				"east": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 4], "texture": "#4"},
-				"west": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#4"},
-				"down": {"uv": [0, 4, 16, 8], "texture": "#4"}
-			}
-		},
-		{
-			"from": [11, 0, 0],
-			"to": [15, 4, 16],
-			"faces": {
-				"north": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 4], "texture": "#4"},
-				"south": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "south"},
-				"west": {"uv": [16, 1, 0, 5], "texture": "#4"},
-				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#4"},
-				"down": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#4", "cullface": "down"}
-			}
-		},
-		{
-			"from": [0, 3, 1],
-			"to": [16, 7, 5],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 4], "texture": "#4"},
-				"east": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "east"},
-				"south": {"uv": [16, 0, 0, 4], "texture": "#4"},
-				"west": {"uv": [0, 4, 4, 8], "texture": "#4", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 4], "rotation": 180, "texture": "#4"},
-				"down": {"uv": [0, 4, 16, 8], "texture": "#4"}
-			}
-		},
-		{
-			"from": [5, 0, 0],
-			"to": [11, 1, 16],
-			"faces": {
-				"north": {"uv": [0, 15, 6, 16], "texture": "#4", "cullface": "north"},
-				"east": {"uv": [0, 0, 0, 0], "texture": "#4"},
-				"south": {"uv": [10, 15, 16, 16], "texture": "#4", "cullface": "south"},
-				"west": {"uv": [0, 0, 0, 0], "texture": "#4"},
-				"up": {"uv": [0, 8, 16, 14], "rotation": 90, "texture": "#4"},
-				"down": {"uv": [0, 8, 16, 14], "rotation": 90, "texture": "#4", "cullface": "down"}
-			}
-		},
 		{
 			"from": [1.25, 5.25, 12.75],
 			"to": [3.25, 27.25, 14.75],
@@ -1143,7 +1082,7 @@
 		},
 		"head": {
 			"translation": [0, -19.25, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [2, 2, 2]
 		},
 		"fixed": {
 			"rotation": [0, 90, 0],
@@ -1152,16 +1091,10 @@
 	},
 	"groups": [
 		{
-			"name": "campfire",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4]
-		},
-		{
 			"name": "sticks",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [5, 6, 7]
+			"children": [0, 1, 2]
 		},
 		{
 			"name": "meat",
@@ -1172,19 +1105,19 @@
 					"name": "meat1",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [8, 9, 10, 11]
+					"children": [3, 4, 5, 6]
 				},
 				{
 					"name": "meat2",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [12, 13, 14, 15]
+					"children": [7, 8, 9, 10]
 				},
 				{
 					"name": "meat3",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [16, 17, 18, 19, 20]
+					"children": [11, 12, 13, 14, 15]
 				}
 			]
 		},
@@ -1192,18 +1125,18 @@
 			"name": "backpack",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,
+			"children": [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46,
 				{
 					"name": "cover_1",
 					"origin": [13.68264, 14.98785, -1.3896],
 					"color": 0,
-					"children": [52, 53, 54, 55]
+					"children": [47, 48, 49, 50]
 				},
 				{
 					"name": "cover_2",
 					"origin": [13.68264, 14.98785, -1.3896],
 					"color": 0,
-					"children": [56, 57]
+					"children": [51, 52]
 				},
 				{
 					"name": "backpack_contents",
@@ -1214,7 +1147,7 @@
 							"name": "rations",
 							"origin": [13.5, 24.8, -1.8],
 							"color": 0,
-							"children": [58, 59, 60, 61, 62, 63, 64, 65, 66, 67]
+							"children": [53, 54, 55, 56, 57, 58, 59, 60, 61, 62]
 						},
 						{
 							"name": "boob_stone",
@@ -1225,7 +1158,7 @@
 									"name": "model",
 									"origin": [8, 8, 8],
 									"color": 0,
-									"children": [68, 69, 70]
+									"children": [63, 64, 65]
 								}
 							]
 						}
@@ -1237,7 +1170,7 @@
 			"name": "iron_pick_mia",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84]
+			"children": [66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79]
 		}
 	]
 }
