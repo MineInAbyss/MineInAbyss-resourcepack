@@ -1421,6 +1421,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/callipray.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
