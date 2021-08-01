@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:equipment/backpack main",
-		"1": "mineinabyss:equipment/backpack side",
+		"0": "mineinabyss:equipment/backpack_main",
+		"1": "mineinabyss:equipment/backpack_side",
 		"2": "mineinabyss:equipment/handle_dark",
-		"particle": "mineinabyss:equipment/backpack main"
+		"particle": "mineinabyss:equipment/backpack_main"
 	},
 	"elements": [
 		{
@@ -166,13 +166,16 @@
 	],
 	"display": {
 		"head": {
-			"scale": [1.6, 1.6, 1.6],
-			"translation": [0, -3.5, 6.5]
+			"rotation": [153, 125, -155],
+			"translation": [25, -12, 13.5],
+			"scale": [2.5, 2.5, 2.5]
 		}
 	},
 	"groups": [
 		{
 			"name": "Backpack",
+			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 		}
 	]

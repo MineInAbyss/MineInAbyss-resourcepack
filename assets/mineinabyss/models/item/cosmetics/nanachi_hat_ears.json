@@ -14,6 +14,7 @@
 			"from": [3.5, 18, 2],
 			"to": [11.5, 19, 5],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+
 			"faces": {
 				"north": {"uv": [0, 2, 4, 2.5], "texture": "#6"},
 				"east": {"uv": [4.5, 2, 6, 2.5], "rotation": 180, "texture": "#6"},
