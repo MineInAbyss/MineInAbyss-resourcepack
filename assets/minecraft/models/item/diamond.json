@@ -8,6 +8,7 @@
 		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/relics/consumables/everlasting_gunpowder"},
 		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/relics/consumables/hyalos_incipient"},
 		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/relics/consumables/hyalos_manifest"},
-		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/relics/consumables/cold_fantoccini"}
+		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/relics/consumables/cold_fantoccini"},
+		{"predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/relics/consumables/refractor_gem"}
 	]
 }
