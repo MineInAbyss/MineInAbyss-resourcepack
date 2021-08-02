@@ -5,7 +5,10 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":  1}, "model": "mineinabyss:item/other/campfire/campfire"},
-    {"predicate": {"custom_model_data":  2}, "model": "mineinabyss:item/other/campfire/campfire_off"}
+    {"predicate": {"custom_model_data":  1}, "model": "mineinabyss:block/bonfire/bonfire_overlay"},
+    {"predicate": {"custom_model_data":  2}, "model": "mineinabyss:block/bonfire/bonfire_meat"},
+    {"predicate": {"custom_model_data":  3}, "model": "mineinabyss:block/bonfire/bonfire_backpack"},
+    {"predicate": {"custom_model_data":  4}, "model": "mineinabyss:block/bonfire/bonfire_pickaxe"},
+    {"predicate": {"custom_model_data":  5}, "model": "mineinabyss:block/bonfire/bonfire_helmet"}
   ]
 }

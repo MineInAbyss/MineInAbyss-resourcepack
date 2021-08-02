@@ -26,15 +26,13 @@
     { "predicate": {"custom_model_data": 100}, "model": "nazarick:3f"},
     { "predicate": {"custom_model_data": 101}, "model": "nazarick:ainz_axe"},
     { "predicate": {"custom_model_data": 102}, "model": "nazarick:ainz_staff"},
-    { "predicate": {"custom_model_data": 103}, "model": "nazarick:albedo_horns"},
-    { "predicate": {"custom_model_data": 104}, "model": "nazarick:albedo_mob_model"},
-    { "predicate": {"custom_model_data": 105}, "model": "nazarick:decapitation_fang"},
-    { "predicate": {"custom_model_data": 106}, "model": "nazarick:demi_claw"},
-    { "predicate": {"custom_model_data": 107}, "model":"nazarick:god_slaying_emperor_blade"},
-    { "predicate": {"custom_model_data": 108}, "model":"nazarick:mare_staff"},
-    { "predicate": {"custom_model_data": 109}, "model":"nazarick:ring"},
-    { "predicate": {"custom_model_data": 110}, "model":"nazarick:shalltear_lance"},
-    { "predicate": {"custom_model_data": 111},"model":"camelot:sword/excalibur_alter"},
-    { "predicate": {"custom_model_data": 200},"model":"mineinabyss:item/other/menacing"}
+    { "predicate": {"custom_model_data": 103}, "model": "nazarick:albedo_mob_model"},
+    { "predicate": {"custom_model_data": 104}, "model": "nazarick:decapitation_fang"},
+    { "predicate": {"custom_model_data": 105}, "model": "nazarick:demi_claw"},
+    { "predicate": {"custom_model_data": 106}, "model":"nazarick:god_slaying_emperor_blade"},
+    { "predicate": {"custom_model_data": 107}, "model":"nazarick:mare_staff"},
+    { "predicate": {"custom_model_data": 108}, "model":"nazarick:ring"},
+    { "predicate": {"custom_model_data": 109}, "model":"nazarick:shalltear_lance"},
+    { "predicate": {"custom_model_data": 110},"model":"camelot:sword/excalibur_alter"}
   ]
 }
