@@ -1,0 +1,7 @@
+{
+  "parent":"item/generated",
+  "textures":{
+    "layer1":"mineinabyss:relics/consumables/life_jar_filled",
+    "layer0":"mineinabyss:relics/consumables/life_jar_unfilled"
+  }
+}
