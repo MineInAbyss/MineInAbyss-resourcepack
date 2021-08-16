@@ -1,6 +1,6 @@
 {
   "parent": "mineinabyss:item/equipment/backpack/backpack",
   "textures": {
-    "6": "mineinabyss:equipment/backpack/yellow_backpack"
+    "6": "mineinabyss:equipment/backpack/pink_backpack"
   }
 }

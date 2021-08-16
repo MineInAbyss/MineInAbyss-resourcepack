@@ -1,5 +1,5 @@
 {
-  "parent": "mineinabyss:item/equipment/backpack/base",
+  "parent": "mineinabyss:item/equipment/backpack/backpack",
   "textures": {
     "6": "mineinabyss:equipment/backpack/red_backpack"
   }
