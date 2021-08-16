@@ -1448,6 +1448,24 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/fubkerhappy.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/fubkersad.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
