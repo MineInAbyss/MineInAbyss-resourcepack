@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "netherite/benner cosplay",
-		"particle": "netherite/benner cosplay"
+		"0": "other/benner_cosplay",
+		"particle": "other/benner_cosplay"
 	},
 	"elements": [
 		{
