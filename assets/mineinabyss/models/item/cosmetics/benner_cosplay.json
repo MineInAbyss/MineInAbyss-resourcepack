@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:other/benner_cosplay",
+		"1": "mineinabyss:other/benner_cosplay",
 		"particle": "mineinabyss:other/benner_cosplay"
 	},
 	"elements": [
