@@ -5,6 +5,7 @@
   },
 
   "overrides": [
+    { "predicate": {"custom_model_data": 0}, "model": "mineinabyss:item/tools/sickle/stone_sickle"},
     { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/cosmetics/bondrewd_hat"},
     { "predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/cosmetics/delver_hat"},
     { "predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/cosmetics/lyza_hat"},

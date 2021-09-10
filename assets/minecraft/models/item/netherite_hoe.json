@@ -5,6 +5,7 @@
   "layer0": "item/netherite_hoe"
  },
  "overrides": [
+    { "predicate": {"custom_model_data": 0}, "model": "mineinabyss:item/tools/sickle/netherite_sickle"},
 	{ "predicate": {"custom_model_data": 1}, "model": "creatures/nazarick_deathknight/deathknight"},
 	{ "predicate": {"custom_model_data": 2}, "model": "creatures/nazarick_deathknight/deathknight"},
 	{ "predicate": {"custom_model_data": 3}, "model": "creatures/nazarick_deathknight/deathknight_hit"}

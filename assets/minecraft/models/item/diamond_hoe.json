@@ -4,6 +4,7 @@
 		"layer0": "item/diamond_hoe"
 	},
 	"overrides": [
+		{ "predicate": {"custom_model_data": 0}, "model": "mineinabyss:item/tools/sickle/diamond_sickle"},
 		{ "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/relics/boob_stone"},
 		{ "predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/relics/blaze_reap"},
 		{ "predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/relics/sparagmos"},
