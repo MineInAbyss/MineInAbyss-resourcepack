@@ -1466,6 +1466,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/stfu.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
