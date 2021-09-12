@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/golden_hoe"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 0}, "model": "mineinabyss:item/tools/sickle/golden_sickle"}
+    { "predicate": {"custom_model_data": 100}, "model": "mineinabyss:item/tools/sickle/golden_sickle"}
   ]
 }
