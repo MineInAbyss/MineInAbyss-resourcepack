@@ -7,6 +7,7 @@
  "overrides": [
 	{ "predicate": {"custom_model_data": 1}, "model": "creatures/nazarick_deathknight/deathknight"},
 	{ "predicate": {"custom_model_data": 2}, "model": "creatures/nazarick_deathknight/deathknight"},
-	{ "predicate": {"custom_model_data": 3}, "model": "creatures/nazarick_deathknight/deathknight_hit"}
+	{ "predicate": {"custom_model_data": 3}, "model": "creatures/nazarick_deathknight/deathknight_hit"},
+    { "predicate": {"custom_model_data": 100}, "model": "mineinabyss:item/tools/sickle/netherite_sickle"}
  ]
 }
