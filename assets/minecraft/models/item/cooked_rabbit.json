@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/rabbit"
+		"layer0": "item/cooked_rabbit"
 	},
 
 	"overrides": [
