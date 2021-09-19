@@ -284,6 +284,16 @@
 			"mineinabyss:entity/fuwagi/hurt"
 		]
 	},
+	"equipment.backpack.open": {
+		"sounds": [
+			"mineinabyss:equipment/backpack/open"
+		]
+	},
+	"equipment.backpack.close": {
+		"sounds": [
+			"mineinabyss:equipment/backpack/close"
+		]
+	},
 	"music.custom.noteblock.deepinabyss": {
 		"sounds": [
 			"mineinabyss:music/noteblock/deep_in_abyss"
