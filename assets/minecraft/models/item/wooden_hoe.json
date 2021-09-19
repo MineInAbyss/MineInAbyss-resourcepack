@@ -2,5 +2,8 @@
   "parent": "mineinabyss:item/tools/hoe/wood_hoe_mia",
   "textures": {
     "layer0": "minecraft:item/wooden_hoe"
-  }
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 100}, "model": "mineinabyss:item/tools/sickle/wooden_sickle"}
+  ]
 }

@@ -28,6 +28,7 @@
 		{ "predicate": {"custom_model_data": 18}, "model": "mineinabyss:item/relics/verdau_effax"},
 		{ "predicate": {"custom_model_data": 19}, "model": "mineinabyss:item/relics/conterein"},
 		{ "predicate": {"custom_model_data": 20}, "model": "mineinabyss:item/relics/moniscelti"},
-		{ "predicate": {"custom_model_data": 21}, "model": "mineinabyss:item/relics/saw_arm"}
+		{ "predicate": {"custom_model_data": 21}, "model": "mineinabyss:item/relics/saw_arm"},
+		{ "predicate": {"custom_model_data": 100}, "model": "mineinabyss:item/tools/sickle/diamond_sickle"}
 	]
 }
