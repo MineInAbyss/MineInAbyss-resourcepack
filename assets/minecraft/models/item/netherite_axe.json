@@ -2,5 +2,8 @@
   "parent": "mineinabyss:item/tools/axe/netherite_axe_mia",
   "textures": {
     "layer0": "minecraft:item/netherite_axe"
-  }
+  },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/tools/netherite_mace"}
+ ]
 }
