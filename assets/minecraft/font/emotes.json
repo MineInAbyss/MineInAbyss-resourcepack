@@ -4,1476 +4,1476 @@
       "type": "bitmap",
       "file": "emotes:emotes/aqua_chibi.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBAF"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/aqua.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB0"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/bk.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB1"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/bell.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB2"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/redw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB3"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/bluew.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB4"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/moonw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB5"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/blackw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB6"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/whitew.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB7"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/bonegun.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB8"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/bonethink.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBB9"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/emoji_38.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBBA"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/fork.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBBB"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nikounamused.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBBC"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/ozensmug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBBD"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepehands.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBBE"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepejam.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBBF"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepega.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC0"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/poggers.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC1"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/regg.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC2"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/mittysweat.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC3"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikoangry.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC4"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikoeyes.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC5"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/shrugsmug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC6"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/siggy.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC7"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/yeekonormal.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC8"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/yeekoscuffed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBC9"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/omegalul.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBCA"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/natlikethis.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBCB"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/gachibass.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBCC"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/kekw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBCD"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/sanswink.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBCE"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/subarashii.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBCF"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanahug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD0"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/mitty.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD1"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/feelsbunman.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD2"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/woh.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD3"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/kappa.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD4"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanalewd.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD5"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/jackieohok.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD6"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/sadcat.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD7"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/smudge.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD8"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/kika.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBD9"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanaya.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBDA"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/meinyaaaa.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBDB"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanashy.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBDC"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/galaxybrain.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBDD"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pensive.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBDE"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/harold.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBDF"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikoup.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE0"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/regcry.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE1"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikolamo.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE2"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/okhand.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE3"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/thinking.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE4"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/flushed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE5"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanawaaaa.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE6"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikoeyesdrawn.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE7"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/michirusmug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE8"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanashrug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBE9"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pogchamp.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBEA"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/lewd.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBEB"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/hypers.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBEC"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/osuhow.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBED"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikopray.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBEE"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/smilew.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBEF"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/ayaya.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF0"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pogyou.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF1"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/fapushock.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF2"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pogo.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF3"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pog.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF4"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikoblep.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF5"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/doubt.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF6"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/bondrewdw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF7"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/lyzaw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF8"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/rikow.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBF9"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/ozenw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBFA"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/lifereverbw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBFB"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habowide.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBFC"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habowidest.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBFD"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/steveflushed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBFE"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/flooshed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEBFF"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/bruh.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC00"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/yeepensive.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC01"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/temeyes.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC02"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/bonenani.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC03"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/isforme.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC04"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/boneshrug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC05"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepesit.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC06"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/yep.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC07"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/5head.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC08"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pain.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC09"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/sadge.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC0A"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/boneblushed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC0B"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habohotel.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC0C"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/walterbruh.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC0D"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/wakunaw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC0E"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/srajow.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC0F"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepebusiness.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC10"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/gura.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC11"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikothumb.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC12"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/monke.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC13"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/booba.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC14"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepelaugh.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC15"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/guraflushed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC16"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/beep.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC17"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepegun.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC18"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepothink.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC19"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pepehmm.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC1A"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/pogjaw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC1B"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/owlw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC1C"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/painw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC1D"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/boyw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC1E"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/gurashark.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC1F"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/prayge.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC20"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/widepeepohappy.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC21"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/d.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC22"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/sus.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC23"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/callipog.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC24"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/guradum.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC25"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/gurasalute.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC26"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habosleep.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC27"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habowoke.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC28"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/notlikegura.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC29"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/regflushed.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC2A"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/rikoyep.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC2B"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/sadangry.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC2C"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/thonk.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC2D"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/watsoncry.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC2E"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/widepanda.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC2F"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/aaaa.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC30"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/flatboi.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC31"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/tora.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC32"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/senkow.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC33"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/guradoki.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC34"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/faputaborga.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC35"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/adarnice.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC36"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/faputayaya.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC37"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/smilechamp.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC38"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/oriw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC39"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/monkaw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC3A"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/gurawide.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC3B"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/peeporage.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC3C"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habochonk.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC3D"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/glacesip.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC3E"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/wazupog.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC3F"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/wazuwhat.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC40"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/habosus.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC52"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/bonesus.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC53"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nanasus.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC54"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/sam.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC55"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/inapain.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC56"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/inasmug.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC57"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/inabye.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC58"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/floppa.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC5A"
       ]
     },
     {
       "type": "bitmap",
       "file": "mineinabyss:whistles/gunsmithw.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC5B"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/gurapray.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC5C"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/amebrain.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC5D"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/troll.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC61"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/callipray.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC62"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/wingtree.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC63"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/nikibread.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC64"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/fubkerhappy.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC65"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/fubkersad.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC66"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:emotes/stfu.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC68"
       ]
     }
   ]

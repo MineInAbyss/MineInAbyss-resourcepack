@@ -4,54 +4,54 @@
       "type": "bitmap",
       "file": "emotes:gifs/amogusdumpy/1.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC44"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/amogusdumpy/2.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uECC0"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/amogusdumpy/3.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uECC1"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/amogusdumpy/4.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uECC2"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/amogusdumpy/5.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uECC3"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/amogusdumpy/6.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uECC4"
       ]
     }
   ]

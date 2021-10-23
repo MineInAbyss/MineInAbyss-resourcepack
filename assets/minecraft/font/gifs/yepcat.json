@@ -4,18 +4,18 @@
       "type": "bitmap",
       "file": "emotes:gifs/yepcat/1.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC51"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/yepcat/2.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uED2F"
       ]
     }
   ]

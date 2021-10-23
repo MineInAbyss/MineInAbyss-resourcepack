@@ -4,18 +4,18 @@
       "type": "bitmap",
       "file": "emotes:gifs/oribonko/1.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uEC4A"
       ]
     },
     {
       "type": "bitmap",
       "file": "emotes:gifs/oribonko/2.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        ""
+        "\uECF4"
       ]
     }
   ]
