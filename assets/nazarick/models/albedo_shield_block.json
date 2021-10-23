@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "event/nazarick/albedo",
-		"particle": "event/nazarick/albedo"
+		"0": "nazarick:albedo",
+		"particle": "nazarick:albedo"
 	},
 	"elements": [
 		{
