@@ -961,7 +961,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mineinabyss:ui/icons/party.png",
+            "file": "mineinabyss:ui/icons/patreonlogo.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -970,7 +970,7 @@
         },
         {
             "type": "bitmap",
-            "file": "mineinabyss:ui/icons/local.png",
+            "file": "mineinabyss:ui/icons/party.png",
             "ascent": 7,
             "height": 7,
             "chars": [
@@ -979,30 +979,93 @@
         },
         {
             "type": "bitmap",
-            "file": "mineinabyss:ui/icons/logo/logo1.png",
-            "ascent": 40,
-            "height": 40,
+            "file": "mineinabyss:ui/icons/local.png",
+            "ascent": 7,
+            "height": 7,
             "chars": [
                 "\uEC81"
             ]
         },
-        {
-            "type": "bitmap",
-            "file": "mineinabyss:ui/icons/logo/logo2.png",
-            "ascent": 40,
-            "height": 40,
-            "chars": [
-                "\uEC82"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "mineinabyss:ui/icons/logo/logo3.png",
-            "ascent": 40,
-            "height": 40,
-            "chars": [
-                "\uEC83"
-            ]
-        }
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/layers/orth.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+          "\uEC82"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/layers/edge.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+          "\uEC83"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/layers/forest.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+          "\uEC84"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/layers/fault.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+          "\uEC85"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/layers/goblets.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+          "\uEC86"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/layers/sea.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+          "\uEC87"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/logo/logo1.png",
+        "ascent": 30,
+        "height": 30,
+        "chars": [
+          "\uEC88"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/logo/logo2.png",
+        "ascent": 30,
+        "height": 30,
+        "chars": [
+          "\uEC89"
+        ]
+      },
+      {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/logo/logo3.png",
+        "ascent": 30,
+        "height": 30,
+        "chars": [
+          "\uEC8A"
+        ]
+      }
     ]
 }

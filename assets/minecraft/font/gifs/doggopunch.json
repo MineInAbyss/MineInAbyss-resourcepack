@@ -4,7 +4,7 @@
       "type": "bitmap",
       "file": "emotes:gifs/doggopunch/1.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
         "\uEC47"
       ]
@@ -13,7 +13,7 @@
       "type": "bitmap",
       "file": "emotes:gifs/doggopunch/2.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
         "\uECE8"
       ]
@@ -22,7 +22,7 @@
       "type": "bitmap",
       "file": "emotes:gifs/doggopunch/3.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
         "\uECE9"
       ]
@@ -31,7 +31,7 @@
       "type": "bitmap",
       "file": "emotes:gifs/doggopunch/4.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
         "\uECEA"
       ]
@@ -40,7 +40,7 @@
       "type": "bitmap",
       "file": "emotes:gifs/doggopunch/5.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
         "\uECEB"
       ]
