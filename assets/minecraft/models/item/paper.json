@@ -5,6 +5,8 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:ui/invisible_slot_icon"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:ui/invisible_slot_icon"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:ui/pvp_toggle_enabled"},
+    {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:ui/pvp_toggle_disabled"}
   ]
 }
