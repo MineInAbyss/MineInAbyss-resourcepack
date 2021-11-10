@@ -1475,6 +1475,15 @@
       "chars": [
         "\uEC68"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/siggycool.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\uEC8E"
+      ]
     }
   ]
 }
