@@ -1484,6 +1484,15 @@
       "chars": [
         "\uEC8E"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/mogicrazy.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\uEC92"
+      ]
     }
   ]
 }
