@@ -1493,6 +1493,24 @@
       "chars": [
         "\uEC92"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/ozenisfine.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\uEC93"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/ozendrool.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "\uEC94"
+      ]
     }
   ]
 }

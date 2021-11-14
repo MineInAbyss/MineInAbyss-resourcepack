@@ -1084,6 +1084,42 @@
             "chars": [
                 "\uEC8D"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mineinabyss:ui/backgrounds/enchantmentui.png",
+            "ascent": 2,
+            "height": 258,
+            "chars": [
+                "\uEC8F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "mineinabyss:ui/npc/orthbanker.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\uEC90"
+            ]
+        },
+        {
+          "type": "bitmap",
+          "file": "mineinabyss:ui/backgrounds/gondola.png",
+          "ascent": 9,
+          "height": 10,
+          "chars": [
+            "\uEC91"
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "mineinabyss:ui/roles/communitymanager.png",
+          "ascent": 7,
+          "height": 7,
+          "chars": [
+            "\uEC97"
+          ]
         }
     ]
 }
