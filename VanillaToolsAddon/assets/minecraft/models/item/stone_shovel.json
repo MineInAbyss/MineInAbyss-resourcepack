@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stone_shovel"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":  1}, "model": "mineinabyss:item/relics/whistle/bell"},
+    {"predicate": {"custom_model_data":  2}, "model": "mineinabyss:item/relics/whistle/red_whistle"},
+    {"predicate": {"custom_model_data":  3}, "model": "mineinabyss:item/relics/whistle/blue_whistle"},
+    {"predicate": {"custom_model_data":  4}, "model": "mineinabyss:item/relics/whistle/moon_whistle"},
+    {"predicate": {"custom_model_data":  5}, "model": "mineinabyss:item/relics/whistle/black_whistle"},
+    {"predicate": {"custom_model_data":  6}, "model": "mineinabyss:item/relics/whistle/white_whistle"}
+  ]
+}

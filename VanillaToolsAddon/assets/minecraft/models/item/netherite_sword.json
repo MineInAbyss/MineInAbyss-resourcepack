@@ -1,0 +1,37 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/netherite_sword"
+ },
+ "overrides": [
+	{ "predicate": {"custom_model_data": 1}, "model": "camelot:sword/arondight"},
+	{ "predicate": {"custom_model_data": 2}, "model": "camelot:sword/clarent"},
+	{ "predicate": {"custom_model_data": 3}, "model": "camelot:sword/excalibur"},
+	{ "predicate": {"custom_model_data": 4}, "model": "camelot:sword/galatine"},
+	{ "predicate": {"custom_model_data": 5}, "model": "camelot:sword/hassan_sword"},
+	{ "predicate": {"custom_model_data": 6}, "model": "camelot:sword/steel_sword"},
+	{ "predicate": {"custom_model_data": 7}, "model": "camelot:weapon/brynhildr_spear"},
+	{ "predicate": {"custom_model_data": 8}, "model": "camelot:weapon/bunyan_axe"},
+	{ "predicate": {"custom_model_data": 9}, "model": "camelot:weapon/marthas_cross"},
+	{ "predicate": {"custom_model_data": 10}, "model": "camelot:weapon/nitocris_staff"},
+	{ "predicate": {"custom_model_data": 11}, "model": "camelot:weapon/ozy_staff"},
+	{ "predicate": {"custom_model_data": 12}, "model": "camelot:weapon/photon_ray"},
+	{ "predicate": {"custom_model_data": 13}, "model": "camelot:weapon/rhongomyniad"},
+ 	{ "predicate": {"custom_model_data": 14}, "model":"camelot:sword/excalibur_alter"},
+	{ "predicate": {"custom_model_data": 15}, "model": "camelot:other/bediviere_effect"},
+	{ "predicate": {"custom_model_data": 16}, "model": "camelot:other/holy_grail"},
+	{ "predicate": {"custom_model_data": 17}, "model": "camelot:other/not_so_holy_grail"},
+	{ "predicate": {"custom_model_data": 18}, "model": "camelot:other/nursery_rhyme"},
+	{ "predicate": {"custom_model_data": 19}, "model": "camelot:other/shuten_bowl"},
+	{ "predicate": {"custom_model_data": 20}, "model": "camelot:other/shuten_sakazuki"},
+	{ "predicate": {"custom_model_data": 100}, "model": "nazarick:3f"},
+	{ "predicate": {"custom_model_data": 101}, "model": "nazarick:ainz_axe"},
+	{ "predicate": {"custom_model_data": 102}, "model": "nazarick:ainz_staff"},
+	{ "predicate": {"custom_model_data": 103}, "model": "nazarick:decapitation_fang"},
+	{ "predicate": {"custom_model_data": 104}, "model": "nazarick:demi_claw"},
+	{ "predicate": {"custom_model_data": 105}, "model":"nazarick:god_slaying_emperor_blade"},
+	{ "predicate": {"custom_model_data": 106}, "model":"nazarick:mare_staff"},
+	{ "predicate": {"custom_model_data": 107}, "model":"nazarick:ring"},
+	{ "predicate": {"custom_model_data": 108}, "model":"nazarick:shalltear_lance"}
+ ]
+}

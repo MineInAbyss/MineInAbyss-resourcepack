@@ -1,0 +1,77 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bow"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -80, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -80, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -25 ],
+            "translation": [ 1.13, 3.2, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    },
+    "overrides": [
+    {"predicate": {"pulling": 1},"model": "item/bow_pulling_0"},
+    {"predicate": {"pulling": 1,"pull": 0.65},"model": "item/bow_pulling_1"},
+    {"predicate": {"pulling": 1,"pull": 0.9},"model": "item/bow_pulling_2"},
+    { "predicate": {"custom_model_data": 1}, "model": "camelot:bow/tomoe_bow"},
+    { "predicate": {"custom_model_data": 1 , "pulling": 1}, "model": "camelot:bow/tomoe_bow_0"},
+    { "predicate": {"custom_model_data": 1 , "pulling": 1 , "pull": 0.65}, "model": "camelot:bow/tomoe_bow_1"},
+    { "predicate": {"custom_model_data": 1 , "pulling": 1 , "pull": 0.9}, "model": "camelot:bow/tomoe_bow_2"},
+    { "predicate": {"custom_model_data": 2}, "model": "camelot:bow/tristan_bow"},
+    { "predicate": {"custom_model_data": 2 , "pulling": 1}, "model": "camelot:bow/tristan_bow_0"},
+    { "predicate": {"custom_model_data": 2 , "pulling": 1 , "pull": 0.65}, "model": "camelot:bow/tristan_bow_1"},
+    { "predicate": {"custom_model_data": 2 , "pulling": 1 , "pull": 0.9}, "model": "camelot:bow/tristan_bow_2"},
+    { "predicate": {"custom_model_data": 3}, "model": "nazarick:bow/aura_bow"},
+    { "predicate": {"custom_model_data": 3 , "pulling": 1}, "model": "nazarick:bow/aura_bow_0"},
+    { "predicate": {"custom_model_data": 3 , "pulling": 1 , "pull": 0.65}, "model": "nazarick:bow/aura_bow_1"},
+    { "predicate": {"custom_model_data": 3 , "pulling": 1 , "pull": 0.9}, "model": "nazarick:bow/aura_bow_2"},
+    { "predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/other/magic_bow/magic_bow_0"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.00}, "model": "mineinabyss:item/other/magic_bow/magic_bow_0"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.05}, "model": "mineinabyss:item/other/magic_bow/magic_bow_1"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.10}, "model": "mineinabyss:item/other/magic_bow/magic_bow_2"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.14}, "model": "mineinabyss:item/other/magic_bow/magic_bow_3"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.19}, "model": "mineinabyss:item/other/magic_bow/magic_bow_4"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.24}, "model": "mineinabyss:item/other/magic_bow/magic_bow_5"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.29}, "model": "mineinabyss:item/other/magic_bow/magic_bow_6"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.33}, "model": "mineinabyss:item/other/magic_bow/magic_bow_7"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.38}, "model": "mineinabyss:item/other/magic_bow/magic_bow_8"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.43}, "model": "mineinabyss:item/other/magic_bow/magic_bow_9"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.48}, "model": "mineinabyss:item/other/magic_bow/magic_bow_10"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.52}, "model": "mineinabyss:item/other/magic_bow/magic_bow_11"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.57}, "model": "mineinabyss:item/other/magic_bow/magic_bow_12"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.62}, "model": "mineinabyss:item/other/magic_bow/magic_bow_13"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.67}, "model": "mineinabyss:item/other/magic_bow/magic_bow_14"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.71}, "model": "mineinabyss:item/other/magic_bow/magic_bow_15"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.76}, "model": "mineinabyss:item/other/magic_bow/magic_bow_16"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.81}, "model": "mineinabyss:item/other/magic_bow/magic_bow_17"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.86}, "model": "mineinabyss:item/other/magic_bow/magic_bow_18"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.90}, "model": "mineinabyss:item/other/magic_bow/magic_bow_19"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 0.95}, "model": "mineinabyss:item/other/magic_bow/magic_bow_20"},
+    { "predicate": {"custom_model_data": 4 , "pulling": 1 , "pull": 1.00}, "model": "mineinabyss:item/other/magic_bow/magic_bow_21"},
+    { "predicate": {"custom_model_data": 100}, "model": "camelot:bow/gate_of_babylon"},
+    { "predicate": {"custom_model_data": 100 , "pulling": 1}, "model": "camelot:bow/gate_of_babylon_0"},
+    { "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 0.25}, "model": "camelot:bow/gate_of_babylon_1"},
+    { "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 0.5}, "model": "camelot:bow/gate_of_babylon_2"},
+    { "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 0.75}, "model": "camelot:bow/gate_of_babylon_3"},
+    { "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 1}, "model": "camelot:bow/gate_of_babylon_4"},
+    { "predicate": {"custom_model_data": 101}, "model": "camelot:bow/eyes_of_distortion"},
+    { "predicate": {"custom_model_data": 101 , "pulling": 1}, "model": "camelot:bow/eyes_of_distortion_0"},
+    { "predicate": {"custom_model_data": 101 , "pulling": 1 , "pull": 1}, "model": "camelot:bow/eyes_of_distortion_0"}
+ ]
+}
