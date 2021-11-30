@@ -65,3 +65,6 @@ print("Add some extra files")
 zipf.write(root_dir / "pack.png", "pack.png")
 zipf.write(root_dir / "LICENSE", "LICENSE")
 zipf.close()
+
+zipf = zipfile.ZipFile(output_dir / "VanillaTools-Addon", 'w', zipfile.ZIP_DEFLATED)
+for root, dirs, files in os.walk(root_dir / "VanillaToolsAddon/"):
