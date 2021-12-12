@@ -5,6 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/inbyo_meat"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/inbyo_meat_raw"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/uibuta_meat_raw"}
   ]
 }

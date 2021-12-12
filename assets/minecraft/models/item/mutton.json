@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/neritantan_meat"},
-    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/shroombear_meat"}
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/neritantan_meat_raw"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/shroombear_meat_raw"}
   ]
 }

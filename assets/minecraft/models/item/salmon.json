@@ -5,8 +5,8 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/demonfish"},
-		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/hamashirama"},
-		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/food/creatures/spiralsquid"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/demonfish_raw"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/hamashirama_raw"},
+		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/food/creatures/spiralsquid_raw"}
 	]
 }
