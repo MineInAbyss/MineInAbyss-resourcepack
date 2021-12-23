@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/chimokami_fang"},
 		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/creaturedrops/ashimite_hoof"},
 		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/creaturedrops/kagi_tachikiri_pincer"},
-		{"predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/creaturedrops/onitsuchi_skull"}
+		{"predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/creaturedrops/onitsuchi_skull"},
+		{"predicate": {"custom_model_data": 6}, "model": "mineinabyss:item/creaturedrops/squidfly_blade"}
 	]
 }

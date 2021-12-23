@@ -6,34 +6,7 @@
       "ascent": 9,
       "height": 10,
       "chars": [
-        "\uEC50"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/widesteve/2.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED2B"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/widesteve/3.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED2C"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/widesteve/4.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED2D"
+        ""
       ]
     }
   ]
