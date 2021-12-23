@@ -6,52 +6,7 @@
       "ascent": 9,
       "height": 10,
       "chars": [
-        "\uEC4F"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/rikopew/2.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED25"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/rikopew/3.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED26"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/rikopew/4.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED27"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/rikopew/5.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED28"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/rikopew/6.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uED29"
+        ""
       ]
     }
   ]

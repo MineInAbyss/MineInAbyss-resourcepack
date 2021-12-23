@@ -6,43 +6,7 @@
       "ascent": 9,
       "height": 10,
       "chars": [
-        "\uEC59"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/gurafalling/2.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uEC5A"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/gurafalling/3.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uEC5B"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/gurafalling/4.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uEC5C"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/gurafalling/5.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uEC5D"
+        ""
       ]
     }
   ]

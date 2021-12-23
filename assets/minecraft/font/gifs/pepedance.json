@@ -4,72 +4,9 @@
       "type": "bitmap",
       "file": "emotes:gifs/pepedance/1.png",
       "ascent": 9,
-      "height": 11,
+      "height": 10,
       "chars": [
-        "\uEC69"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/2.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC6A"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/3.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC6B"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/4.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC6C"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/5.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC6D"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/6.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC6E"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/7.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC6F"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/pepedance/8.png",
-      "ascent": 9,
-      "height": 11,
-      "chars": [
-        "\uEC70"
+        ""
       ]
     }
   ]

@@ -2,9 +2,9 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mineinabyss:npc/banker/orthbanker_menu.png",
-      "ascent": 23,
-      "height": 195,
+      "file": "mineinabyss:npc/banker/orthbanking_menu.png",
+      "ascent": 9,
+      "height": 10,
       "chars": [
         ""
       ]
@@ -12,8 +12,8 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:npc/banker/orthcoin.png",
-      "ascent": -11,
-      "height": 11,
+      "ascent": 9,
+      "height": 10,
       "chars": [
         ""
       ]
@@ -21,100 +21,10 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:npc/banker/clouttoken.png",
-      "ascent": -11,
-      "height": 11,
+      "ascent": 9,
+      "height": 10,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/0.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/1.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/2.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/3.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/4.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/5.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/6.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/7.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/8.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:npc/banker/9.png",
-      "ascent": -11,
-      "height": 11,
-      "chars": [
-        ""
       ]
     }
   ]

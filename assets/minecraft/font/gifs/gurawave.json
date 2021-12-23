@@ -6,16 +6,7 @@
       "ascent": 9,
       "height": 10,
       "chars": [
-        "\uEC48"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "emotes:gifs/gurawave/2.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        "\uECED"
+        ""
       ]
     }
   ]
