@@ -6,7 +6,7 @@
 
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/demonfish_cooked"},
-		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/hamashirama_sushimi"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/hamashirama_cooked"},
 		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/food/creatures/spiralsquid_cooked"}
 
 	]

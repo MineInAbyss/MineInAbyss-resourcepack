@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mineinabyss:food/creatures/hamashirama_sushimi"
+    "layer0": "mineinabyss:food/creatures/hamashirama_cooked"
   }
 }
