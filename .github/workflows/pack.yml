@@ -71,7 +71,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: resourcepack
-          path: out/MineInAbyss-Models.zip
+          path: out/MineInAbyss-Resourcepack.zip
   create-release:
     runs-on: ubuntu-latest
     needs: [determine-release-version, generatepack]
