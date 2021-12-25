@@ -157,7 +157,7 @@
   "filled_map.level": "§eLevel: §7%s§e/§7%s",
   "filled_map.scale": "§eScale: §71:%s",
   "filled_map.locked": "§cLocked",
-  "death.fell.accident.ladder": "%1$s got pushed by the &cSovereign of Ladders&f",
+  "death.fell.accident.ladder": "%1$s got pushed by the &cSovereign of Ladders&f :siggy:",
   "death.fell.accident.vines": "%1$s fell off some vines",
   "death.fell.accident.water": "%1$s fell out of the water",
   "death.fell.accident.generic": "§7%1$s §cfell from a high place",
