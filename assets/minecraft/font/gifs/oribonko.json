@@ -8,6 +8,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oribonko/2.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
