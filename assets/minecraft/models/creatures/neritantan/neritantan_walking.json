@@ -1668,7 +1668,7 @@
     "display": {
         "head": {
             "rotation": [ 0, 180, 0 ], 
-            "translation":  [ 0, -35, 0 ]
+            "translation":  [ 0, -34, 0 ]
         }
     }
 }

@@ -2889,7 +2889,7 @@
 			"scale": [0.9, 0.9, 0.9]
 		},
 		"head": {
-			"translation": [0, -29.25, 13],
+			"translation": [0, -27.75, 13],
 			"scale": [2, 2, 2]
 		},
 		"fixed": {

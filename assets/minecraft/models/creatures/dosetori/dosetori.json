@@ -953,6 +953,7 @@
 	],
 	"display": {
 		"head": {
+			"translation": [0, -15, 0],
 			"scale": [3, 3, 3]
 		}
 	},

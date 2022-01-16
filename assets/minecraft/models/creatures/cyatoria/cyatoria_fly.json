@@ -3204,7 +3204,7 @@
 			"rotation": [85, 57, -34]
 		},
 		"head": {
-			"translation": [0, 0, 28.5],
+			"translation": [0, -24, 28.5],
 			"scale": [4, 4, 4]
 		}
 	},
