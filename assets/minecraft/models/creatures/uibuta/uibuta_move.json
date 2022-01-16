@@ -1318,6 +1318,7 @@
 	],
 	"display": {
 		"head": {
+			"translation": [0, 1, 0],
 			"scale": [4, 4, 4]
 		}
 	},

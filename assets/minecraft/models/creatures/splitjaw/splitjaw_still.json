@@ -965,7 +965,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -15, 0],
+			"translation": [0, -9, 0],
 			"scale": [4, 4, 4]
 		}
 	},

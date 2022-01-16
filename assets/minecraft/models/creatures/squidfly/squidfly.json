@@ -1074,6 +1074,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"translation": [0, -22, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "Squid",

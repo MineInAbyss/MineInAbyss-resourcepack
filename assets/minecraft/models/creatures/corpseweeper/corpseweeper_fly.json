@@ -1753,7 +1753,7 @@
 			"scale": [4, 4, 4]
 		},
 		"head": {
-			"translation": [0, 0, 7],
+			"translation": [0, -20, 7],
 			"scale": [4, 4, 4]
 		}
 	},
