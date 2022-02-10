@@ -12,7 +12,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:npc/banker/orthcoin.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -21,8 +21,8 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:npc/banker/clouttoken.png",
-      "ascent": 9,
-      "height": 10,
+      "ascent": -12,
+      "height": 12,
       "chars": [
         ""
       ]
