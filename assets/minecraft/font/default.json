@@ -1202,6 +1202,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/dev.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     }
   ]
 }
