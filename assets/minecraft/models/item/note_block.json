@@ -1,12 +1,12 @@
 {
-  "parent": "block/note_block",
+  "parent": "block/cube_all",
   "textures": {
-    "layer0": "block/note_block"
+    "all": "minecraft:block/note_block"
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data": 0}, "model": "mineinabyss:custom_blocks/block/charcoal_sand_ore"},
-    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:custom_blocks/block/"},
+    {"predicate": {"custom_model_data": 0}, "model": "minecraft:block/note_block"},
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:custom_blocks/block/charcoal_sand_ore"},
     {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:custom_blocks/block/"},
     {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:custom_blocks/block/"},
     {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:custom_blocks/block/"},
