@@ -1,0 +1,1193 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        },
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "x": 180
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "x": 180
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "x": 180
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "x": 180
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "x": 180
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "",
+        "x": 180
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "false",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": [
+        {
+          "model": ""
+        },
+        {
+          "model": "",
+          "y": 90
+        },
+        {
+          "model": "",
+          "y": 180
+        },
+        {
+          "model": "",
+          "y": 270
+        }
+      ]
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "false",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {"when":
+      { "north": "false", "east": "true", "south": "true", "west": "true",
+        "powered": "true", "attached": "true", "disarmed": "false" },
+      "apply": { "model": "" }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "true",
+        "west": "true",
+        "powered": "true",
+        "attached": "true",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    }
+  ]
+}
