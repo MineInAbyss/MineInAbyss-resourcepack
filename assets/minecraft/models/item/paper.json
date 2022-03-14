@@ -35,6 +35,7 @@
     { "predicate": {"custom_model_data": 120}, "model": "mineinabyss:item/relics/moniscelti"},
     { "predicate": {"custom_model_data": 121}, "model": "mineinabyss:item/relics/saw_arm"},
     { "predicate": {"custom_model_data": 122}, "model": "mineinabyss:item/relics/3_branched_sword"},
-    { "predicate": {"custom_model_data": 123}, "model": "mineinabyss:item/relics/unheard_bell"}
+    { "predicate": {"custom_model_data": 123}, "model": "mineinabyss:item/relics/unheard_bell"},
+    { "predicate": {"custom_model_data": 124}, "model": "mineinabyss:item/relics/star_compass/star_compass_needle"}
   ]
 }
