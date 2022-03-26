@@ -1,0 +1,120 @@
+{
+  "variants": {
+    "up=false,west=false,south=false,east=false,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=false,west=false,south=false,east=false,north=true,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=false,west=false,south=false,east=true,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=false,west=false,south=false,east=true,north=true,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=false,west=false,south=true,east=false,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=false,west=false,south=true,east=false,north=true,waterlogged=true": {
+      "model": "",
+      "y": 180
+    },
+    "up=false,west=false,south=true,east=true,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=false,west=false,south=true,east=true,north=true,waterlogged=true": {
+      "model": "m",
+      "y": 180
+    },
+    "up=false,west=true,south=false,east=false,north=false,waterlogged=true": {
+      "model": "",
+      "y": 180
+    },
+    "up=false,west=true,south=false,east=false,north=true,waterlogged=true": {
+      "model": "",
+      "y": 270
+    },
+    "up=false,west=true,south=false,east=true,north=false,waterlogged=true": {
+      "model": "",
+      "y": 180
+    },
+    "up=false,west=true,south=false,east=true,north=true,waterlogged=true": {
+      "model": "",
+      "y": 270
+    },
+    "up=false,west=true,south=true,east=false,north=false,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=false,west=true,south=true,east=false,north=true,waterlogged=true": {
+      "model": "",
+      "y": 180
+    },
+    "up=false,west=true,south=true,east=true,north=false,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=false,west=true,south=true,east=true,north=true,waterlogged=true": {
+      "model": "",
+      "y": 180
+    },
+    "up=true,west=false,south=false,east=false,north=false,waterlogged=true": {
+      "model": "",
+      "y": 270
+    },
+    "up=true,west=false,south=false,east=false,north=true,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=false,south=false,east=true,north=false,waterlogged=true": {
+      "model": "",
+      "y": 270
+    },
+    "up=true,west=false,south=false,east=true,north=true,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=false,south=true,east=false,north=false,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=true,west=false,south=true,east=false,north=true,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=true,west=false,south=true,east=true,north=false,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=true,west=false,south=true,east=true,north=true,waterlogged=true": {
+      "model": "",
+      "y": 90
+    },
+    "up=true,west=true,south=false,east=false,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=true,south=false,east=false,north=true,waterlogged=true": {
+      "model": "",
+      "y": 270
+    },
+    "up=true,west=true,south=false,east=true,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=true,south=false,east=true,north=true,waterlogged=true": {
+      "model": "",
+      "y": 270
+    },
+    "up=true,west=true,south=true,east=false,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=true,south=true,east=false,north=true,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=true,south=true,east=true,north=false,waterlogged=true": {
+      "model": ""
+    },
+    "up=true,west=true,south=true,east=true,north=true,waterlogged=true": {
+      "model": ""
+    }
+  }
+}
