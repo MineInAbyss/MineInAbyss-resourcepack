@@ -1062,7 +1062,7 @@
       "type": "bitmap",
       "file": "mineinabyss:ui/backgrounds/pvp_menu.png",
       "ascent": 23,
-      "height": 195,
+      "height": 196,
       "chars": [
         ""
       ]
@@ -1071,7 +1071,7 @@
       "type": "bitmap",
       "file": "mineinabyss:ui/backgrounds/pvp_menu_toggle.png",
       "ascent": 23,
-      "height": 195,
+      "height": 196,
       "chars": [
         ""
       ]

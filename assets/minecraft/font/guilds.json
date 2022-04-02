@@ -1,0 +1,175 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/main_guild_menu_has_guild.png",
+      "ascent": 69,
+      "height": 296,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/main_guild_menu_member.png",
+      "ascent": 69,
+      "height": 296,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/main_guild_menu_no_guild.png",
+      "ascent": 69,
+      "height": 296,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/current_guild_menu_1.png",
+      "ascent": 69,
+      "height": 296,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/current_guild_menu_2.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/current_guild_menu_3.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/disband_guild_menu.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_owner_menu.png",
+      "ascent": 14,
+      "height": 222,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_invites_menu.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/handle_guild_invites.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_join_requests_menu.png",
+      "ascent": 13,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/handle_guild_join_requests.png",
+      "ascent": 13,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_member_action_menu.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_member_management_menu_1.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_member_management_menu_2.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_member_management_menu_3.png",
+      "ascent": 32,
+      "height": 204,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_background_search.png",
+      "ascent": 15,
+      "height": 260,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_list_menu.png",
+      "ascent": 14,
+      "height": 222,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/backgrounds/guild_info_menu.png",
+      "ascent": 14,
+      "height": 222,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
