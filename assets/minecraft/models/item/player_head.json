@@ -1,0 +1,10 @@
+{
+  "parent": "item/template_skull",
+  "textures": {
+    "particle": "block/soul_sand"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:ui/2d_player_head" },
+    { "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:ui/large_2d_player_head" }
+  ]
+}
