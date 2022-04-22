@@ -753,455 +753,355 @@
         ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/admin.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/admin.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/moderator.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/moderator.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/helper.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/helper.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/srdev.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/srdev.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/dev.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/dev.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/jrdev.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/jrdev.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/srdesigner.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/srdesigner.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/designer.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/designer.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/jrdesigner.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/jrdesigner.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/srbuilder.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/srbuilder.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/buildlead.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/buildlead.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/builder.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/builder.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/jrbuilder.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/jrbuilder.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/patreonplus.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/patreonplus.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/patreon.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/patreon.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/afk.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/afk.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/player.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/player.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/survival.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/survival.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/build.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/build.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/adventure.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/adventure.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/test.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/test.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/discord.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/discord.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/patreonlogo.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/patreonlogo.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/party.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/party.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/local.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/local.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/orth.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/orth.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/edge.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/edge.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/forest.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/forest.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/fault.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/fault.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/goblets.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/goblets.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/sea.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/sea.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/logo/logo1.png",
-      "ascent": 30,
-      "height": 30,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/logo/logo1.png",
+        "ascent": 30,
+        "height": 30,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/logo/logo2.png",
-      "ascent": 30,
-      "height": 30,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/logo/logo2.png",
+        "ascent": 30,
+        "height": 30,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/icons/logo/logo3.png",
-      "ascent": 30,
-      "height": 30,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/icons/logo/logo3.png",
+        "ascent": 30,
+        "height": 30,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/backgrounds/pvp_menu.png",
-      "ascent": 23,
-      "height": 196,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/backgrounds/pvp_menu.png",
+        "ascent": 23,
+        "height": 195,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/backgrounds/pvp_menu_toggle.png",
-      "ascent": 23,
-      "height": 196,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/backgrounds/pvp_menu_toggle.png",
+        "ascent": 23,
+        "height": 195,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/backgrounds/enchantmentui.png",
-      "ascent": 2,
-      "height": 258,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/backgrounds/enchantmentui.png",
+        "ascent": 2,
+        "height": 258,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/backgrounds/gondola.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/backgrounds/gondola.png",
+        "ascent": 9,
+        "height": 10,
+        "chars": [
+            ""
+        ]
     },
     {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/roles/communitymanager.png",
-      "ascent": 7,
-      "height": 7,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/0.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/1.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/2.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/3.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/4.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/5.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/6.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/7.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/8.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "mineinabyss:ui/misc/9.png",
-      "ascent": -12,
-      "height": 10,
-
-      "chars": [
-        ""
-      ]
+        "type": "bitmap",
+        "file": "mineinabyss:ui/roles/communitymanager.png",
+        "ascent": 7,
+        "height": 7,
+        "chars": [
+            ""
+        ]
     },
     {
         "type": "bitmap",
@@ -1209,160 +1109,7 @@
         "ascent": 7,
         "height": 7,
         "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_s.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_sse.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_se.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_ese.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_e.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_ene.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_ne.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_nne.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_n.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_nnw.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_nw.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_wnw.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_w.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_wsw.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_sw.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_ssw.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/compass/arrow_null.png",
-        "ascent": 8,
-        "height": 24,
-        "chars": [
-            ""
+            "\uEBD6"
         ]
     }
   ]
