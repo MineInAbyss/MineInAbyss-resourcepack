@@ -1,7 +1,6 @@
 {
-  "parent":"item/template_skull",
+  "parent":"builtin/entity",
   "textures":{
-    "layer0":"mineinabyss:materials/charcoal_sand_ingot",
     "particle":"block/soul_sand"
   },
   "gui_light": "front",
@@ -18,9 +17,9 @@
         0
       ],
       "scale": [
-        7,
-        7,
-        7
+        20,
+        20,
+        20
       ]
     },
     "fixed": {
