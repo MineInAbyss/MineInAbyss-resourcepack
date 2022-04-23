@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/guilds/guild_join_requests_menu.png",
+      "file": "mineinabyss:ui/guilds/guild_join_requests.png",
       "ascent": 16,
       "height": 224,
       "chars": [
@@ -236,7 +236,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/guilds/handle_guild_invites.png",
+      "file": "mineinabyss:ui/guilds/guild_lookup_members1.png",
       "ascent": 16,
       "height": 224,
       "chars": [
@@ -245,11 +245,20 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/guilds/handle_guild_join_requests.png",
+      "file": "mineinabyss:ui/guilds/guild_lookup_members2.png",
       "ascent": 16,
       "height": 224,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/guilds/guild_lookup_members3.png",
+      "ascent": 16,
+      "height": 224,
+      "chars": [
+        ""
       ]
     }
   ]

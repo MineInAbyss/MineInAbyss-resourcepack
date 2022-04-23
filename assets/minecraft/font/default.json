@@ -979,7 +979,7 @@
     },
     {
         "type": "bitmap",
-        "file": "mineinabyss:ui/icons/orth.png",
+        "file": "mineinabyss:ui/icons/guildchat.png",
         "ascent": 7,
         "height": 7,
         "chars": [
@@ -988,7 +988,7 @@
     },
     {
         "type": "bitmap",
-        "file": "mineinabyss:ui/icons/edge.png",
+        "file": "mineinabyss:ui/roles/communitymanager.png",
         "ascent": 7,
         "height": 7,
         "chars": [
@@ -997,7 +997,7 @@
     },
     {
         "type": "bitmap",
-        "file": "mineinabyss:ui/icons/forest.png",
+        "file": "mieninabyss:ui/icons/dev.png",
         "ascent": 7,
         "height": 7,
         "chars": [
@@ -1006,38 +1006,11 @@
     },
     {
         "type": "bitmap",
-        "file": "mineinabyss:ui/icons/fault.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/goblets.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/sea.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
         "file": "mineinabyss:ui/icons/logo/logo1.png",
         "ascent": 30,
         "height": 30,
         "chars": [
-            ""
+            ""
         ]
     },
     {
@@ -1046,7 +1019,7 @@
         "ascent": 30,
         "height": 30,
         "chars": [
-            ""
+            ""
         ]
     },
     {
@@ -1055,61 +1028,7 @@
         "ascent": 30,
         "height": 30,
         "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/backgrounds/pvp_menu.png",
-        "ascent": 23,
-        "height": 195,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/backgrounds/pvp_menu_toggle.png",
-        "ascent": 23,
-        "height": 195,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/backgrounds/enchantmentui.png",
-        "ascent": 2,
-        "height": 258,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/backgrounds/gondola.png",
-        "ascent": 9,
-        "height": 10,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/communitymanager.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [
-            ""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/dev.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [
-            "\uEBD6"
+            ""
         ]
     }
   ]
