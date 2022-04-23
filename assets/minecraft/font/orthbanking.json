@@ -12,7 +12,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/orthcoin.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -21,7 +21,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/clouttoken.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -30,7 +30,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/0.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -39,7 +39,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/1.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -48,7 +48,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/2.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -57,7 +57,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/3.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -66,7 +66,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/4.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -75,7 +75,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/5.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -84,7 +84,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/6.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -93,7 +93,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/7.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -102,7 +102,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/8.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
@@ -111,7 +111,7 @@
     {
       "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/9.png",
-      "ascent": 9,
+      "ascent": -12,
       "height": 10,
       "chars": [
         ""
