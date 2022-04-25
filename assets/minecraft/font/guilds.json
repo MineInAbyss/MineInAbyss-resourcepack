@@ -110,7 +110,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/guilds/guild_join_requests.png",
+      "file": "mineinabyss:ui/guilds/guild_join_requests_menu.png",
       "ascent": 16,
       "height": 224,
       "chars": [
