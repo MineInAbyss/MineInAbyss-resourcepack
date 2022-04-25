@@ -1,0 +1,94 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/0.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/1.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/2.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/3.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/4.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/5.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/6.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/7.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/8.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/9.png",
+      "ascent": -12,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

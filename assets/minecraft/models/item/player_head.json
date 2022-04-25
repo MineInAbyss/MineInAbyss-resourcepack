@@ -1,10 +1,13 @@
 {
-  "parent": "item/template_skull",
+  "parent": "builtin/entity",
   "textures": {
     "particle": "block/soul_sand"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:ui/2d_player_head" },
-    { "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:ui/large_2d_player_head" }
+    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:ui/playerheads/flat" },
+    { "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:ui/playerheads/large_flat" },
+    { "predicate": { "custom_model_data": 3 }, "model": "mineinabyss:ui/playerheads/centered_flat" },
+    { "predicate": { "custom_model_data": 4 }, "model": "mineinabyss:ui/playerheads/centered_large_flat" }
+
   ]
 }
