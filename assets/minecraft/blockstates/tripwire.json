@@ -11,7 +11,7 @@
         "disarmed": "false"
       },
       "apply": {
-        "model": ""
+        "model": "mineinabyss:block/nature/foliage1"
       }
     },
     {
@@ -24,126 +24,42 @@
         "attached": "false",
         "disarmed": "false"
       },
-      "apply": [
-        {
-          "model": ""
-        },
-        {
-          "model": "",
-          "y": 90
-        },
-        {
-          "model": "",
-          "y": 180
-        },
-        {
-          "model": "",
-          "y": 270
-        }
-      ]
-    },
-    {
-      "when": {
-        "north": "false",
-        "east": "true",
-        "south": "false",
-        "west": "false",
-        "powered": "false",
-        "attached": "false",
-        "disarmed": "false"
-      },
-      "apply": [
-        {
-          "model": ""
-        },
-        {
-          "model": "",
-          "y": 90
-        },
-        {
-          "model": "",
-          "y": 180
-        },
-        {
-          "model": "",
-          "y": 270
-        }
-      ]
-    },
-    {
-      "when": {
-        "north": "true",
-        "east": "true",
-        "south": "false",
-        "west": "false",
-        "powered": "false",
-        "attached": "false",
-        "disarmed": "false"
-      },
-      "apply": [
-        {
-          "model": ""
-        },
-        {
-          "model": "",
-          "y": 90
-        },
-        {
-          "model": "",
-          "y": 180
-        },
-        {
-          "model": "",
-          "y": 270
-        }
-      ]
-    },
-    {
-      "when": {
-        "north": "false",
-        "east": "false",
-        "south": "true",
-        "west": "false",
-        "powered": "false",
-        "attached": "false",
-        "disarmed": "false"
-      },
-      "apply": [
-        {
-          "model": ""
-        },
-        {
-          "model": "",
-          "y": 90
-        },
-        {
-          "model": "",
-          "y": 180
-        },
-        {
-          "model": "",
-          "y": 270
-        }
-      ]
-    },
-    {
-      "when": {
-        "north": "true",
-        "east": "false",
-        "south": "true",
-        "west": "false",
-        "powered": "false",
-        "attached": "false",
-        "disarmed": "false"
-      },
       "apply": {
-        "model": ""
+        "model": "mineinabyss:block/nature/foliage2"
       }
     },
     {
       "when": {
         "north": "false",
         "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "mineinabyss:block/nature/foliage3"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "true",
+        "south": "false",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "mineinabyss:block/nature/foliage4"
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "false",
         "south": "true",
         "west": "false",
         "powered": "false",
@@ -151,8 +67,21 @@
         "disarmed": "false"
       },
       "apply": {
-        "model": "",
-        "y": 90
+        "model": "mineinabyss:block/nature/foliage5"
+      }
+    },
+    {
+      "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "false",
+        "powered": "false",
+        "attached": "false",
+        "disarmed": "false"
+      },
+      "apply": {
+        "model": "mineinabyss:block/nature/foliage6"
       }
     },
     {
@@ -166,7 +95,7 @@
         "disarmed": "false"
       },
       "apply": {
-        "model": ""
+        "model": "mineinabyss:block/nature/foliage7"
       }
     },
     {
@@ -179,23 +108,9 @@
         "attached": "false",
         "disarmed": "false"
       },
-      "apply": [
-        {
-          "model": ""
-        },
-        {
-          "model": "",
-          "y": 90
-        },
-        {
-          "model": "",
-          "y": 180
-        },
-        {
-          "model": "",
-          "y": 270
-        }
-      ]
+      "apply": {
+        "model": "mineinabyss:block/nature/foliage8"
+      }
     },
     {
       "when": {
