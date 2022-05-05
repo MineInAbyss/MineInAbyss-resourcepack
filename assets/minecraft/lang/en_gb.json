@@ -147,7 +147,7 @@
   "item.unbreakable": "Unbreakable",
   "item.canBreak": "Can break:",
   "item.canPlace": "Can be placed on:",
-  "item.color": "§eColor: §7%s",
+  "item.color": "§eColour: §7%s",
   "item.nbt_tags": "§5NBT§d: §b%s §5tag(s)",
   "item.durability": "§cDurability: %s / %s",
   "item.minecraft.filled_map": "§6Map",
