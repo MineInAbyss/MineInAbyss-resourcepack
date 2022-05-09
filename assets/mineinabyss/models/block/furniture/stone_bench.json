@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mineinabyss:block/furniture/bench",
-		"particle": "mineinabyss:block/furniture/bench"
+		"0": "mineinabyss:block/furniture/stone_bench",
+		"particle": "mineinabyss:block/furniture/stone_bench"
 	},
 	"elements": [
 		{
@@ -144,7 +144,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -15.5],
+			"translation": [-31.75, 0, -15.5],
 			"scale": [2, 2, 2]
 		}
 	}
