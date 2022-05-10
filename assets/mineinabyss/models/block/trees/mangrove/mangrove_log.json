@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_column",
+	"textures": {
+		"end": "mineinabyss:block/trees/mangrove/mangrove_log_top",
+		"side": "mineinabyss:block/trees/mangrove/mangrove_log",
+		"particle": "mineinabyss:block/trees/mangrove/mangrove_log"
+	}
+}

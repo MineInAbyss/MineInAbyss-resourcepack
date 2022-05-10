@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "mineinabyss:block/mangrove_leaves"
+    "all": "mineinabyss:block/trees/mangrove/mangrove_leaves"
   }
 }
