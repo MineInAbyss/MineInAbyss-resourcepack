@@ -7,8 +7,8 @@
   "overrides": [
     {"predicate": {"custom_model_data": 0}, "model": "minecraft:block/note_block"},
     {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:block/ores/charcoal_sand_ore"},
-    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:custom_blocks/block/"},
-    {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:custom_blocks/block/"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:block/mangrove_log"},
+    {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:block/"},
     {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:custom_blocks/block/"},
     {"predicate": {"custom_model_data": 5}, "model": "mineinabyss:custom_blocks/block/"},
     {"predicate": {"custom_model_data": 6}, "model": "mineinabyss:custom_blocks/block/"},
