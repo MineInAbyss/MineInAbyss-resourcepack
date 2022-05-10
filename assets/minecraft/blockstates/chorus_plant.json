@@ -10,7 +10,7 @@
         "down": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/mangrove_leaves"
+        "model": "minecraft:blocks/chorus_plant"
       }
     },
     {
@@ -23,7 +23,7 @@
         "down": "false"
       },
       "apply": {
-        "model": ""
+        "model": "mineinabyss:block/trees/mangrove/mangrove_leaves"
       }
     },
     {
@@ -69,6 +69,19 @@
       "when": {
         "north": "true",
         "east": "false",
+        "south": "true",
+        "west": "false",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
+        "north": "false",
+        "east": "true",
         "south": "true",
         "west": "false",
         "up": "false",
@@ -126,25 +139,17 @@
         "up": "false",
         "down": "false"
       },
-      "apply": {
-        "model": ""
-      }
+      "apply": [
+        {
+          "model": ""
+        }
+      ]
     },
     {
       "when": {
         "north": "true",
         "east": "true",
         "south": "false",
-        "west": "true",
-        "up": "false",
-        "down": "false"
-      }
-    },
-    {
-      "when": {
-        "north": "false",
-        "east": "false",
-        "south": "true",
         "west": "true",
         "up": "false",
         "down": "false"
@@ -155,7 +160,7 @@
     },
     {
       "when": {
-        "north": "true",
+        "north": "false",
         "east": "false",
         "south": "true",
         "west": "true",
@@ -168,6 +173,19 @@
     },
     {
       "when": {
+        "north": "true",
+        "east": "false",
+        "south": "true",
+        "west": "true",
+        "up": "false",
+        "down": "false"
+      },
+      "apply": {
+        "model": ""
+      }
+    },
+    {
+      "when": {
         "north": "false",
         "east": "true",
         "south": "true",
@@ -187,6 +205,9 @@
         "west": "true",
         "up": "false",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -197,6 +218,9 @@
         "west": "false",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -207,6 +231,9 @@
         "west": "false",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -256,6 +283,9 @@
         "west": "false",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -279,6 +309,9 @@
         "west": "false",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -302,6 +335,9 @@
         "west": "true",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -312,7 +348,12 @@
         "west": "true",
         "up": "true",
         "down": "false"
-      }
+      },
+      "apply": [
+        {
+          "model": ""
+        }
+      ]
     },
     {
       "when": {
@@ -322,6 +363,9 @@
         "west": "true",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -332,6 +376,9 @@
         "west": "true",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -342,6 +389,9 @@
         "west": "true",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -352,6 +402,9 @@
         "west": "true",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -362,6 +415,9 @@
         "west": "true",
         "up": "true",
         "down": "false"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -385,6 +441,9 @@
         "west": "false",
         "up": "false",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -421,6 +480,9 @@
         "west": "false",
         "up": "false",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -444,6 +506,9 @@
         "west": "false",
         "up": "false",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -467,6 +532,9 @@
         "west": "true",
         "up": "false",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -490,7 +558,12 @@
         "west": "true",
         "up": "false",
         "down": "true"
-      }
+      },
+      "apply": [
+        {
+          "model": ""
+        }
+      ]
     },
     {
       "when": {
@@ -513,6 +586,9 @@
         "west": "true",
         "up": "false",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -536,6 +612,9 @@
         "west": "true",
         "up": "false",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -559,6 +638,9 @@
         "west": "false",
         "up": "true",
         "down": "true"
+      },
+      "apply": {
+        "model": ""
       }
     },
     {
@@ -687,9 +769,11 @@
         "up": "true",
         "down": "true"
       },
-      "apply": {
-        "model": ""
-      }
+      "apply": [
+        {
+          "model": ""
+        }
+      ]
     },
     {
       "when": {

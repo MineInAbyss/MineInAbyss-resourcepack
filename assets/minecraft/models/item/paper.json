@@ -37,6 +37,8 @@
     {"predicate": {"custom_model_data": 3005}, "model": "mineinabyss:block/nature/foliage5"},
     {"predicate": {"custom_model_data": 3006}, "model": "mineinabyss:block/nature/foliage6"},
     {"predicate": {"custom_model_data": 3007}, "model": "mineinabyss:block/nature/foliage7"},
-    {"predicate": {"custom_model_data": 3008}, "model": "mineinabyss:block/nature/foliage8"}
+    {"predicate": {"custom_model_data": 3008}, "model": "mineinabyss:block/nature/foliage8"},
+
+    {"predicate": {"custom_model_data": 4001}, "model": "mineinabyss:block/trees/mangrove/mangrove_leaves"}
   ]
 }
