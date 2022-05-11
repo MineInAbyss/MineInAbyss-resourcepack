@@ -12,6 +12,7 @@
     {"predicate": {"custom_model_data": 1000}, "model": "mineinabyss:block/furniture/stone_bench"},
     {"predicate": {"custom_model_data": 1001}, "model": "mineinabyss:block/furniture/sunny_wood_chair"},
 
+    {"predicate": {"custom_model_data": 2000}, "model": "minecraft:block/note_block"},
     {"predicate": {"custom_model_data": 2001}, "model": "mineinabyss:block/ores/charcoal_sand_ore"},
     {"predicate": {"custom_model_data": 2002}, "model": "mineinabyss:block/trees/mangrove/mangrove_log"},
     {"predicate": {"custom_model_data": 2003}, "model": "mineinabyss:block/trees/mangrove/stripped_mangrove_log"},
