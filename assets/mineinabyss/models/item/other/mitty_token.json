@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:item/orth_coin"
+		"layer0": "mineinabyss:item/mitty_token"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -28,6 +28,9 @@
 		},
 		"gui": {
 			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 0, -6.75]
 		}
 	}
 }

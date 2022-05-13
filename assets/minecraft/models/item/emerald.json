@@ -6,6 +6,6 @@
 
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/other/orth_coin"},
-		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/other/boy_clout_token"}
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/other/mitty_token"}
 	]
 }
