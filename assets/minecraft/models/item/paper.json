@@ -30,6 +30,8 @@
     {"predicate": {"custom_model_data": 2015}, "model": "mineinabyss:block/froglight/ochre_froglight"},
     {"predicate": {"custom_model_data": 2016}, "model": "mineinabyss:block/froglight/pearlescent_froglight"},
     {"predicate": {"custom_model_data": 2017}, "model": "mineinabyss:block/froglight/verdant_froglight"},
+    {"predicate": {"custom_model_data": 2018}, "model": "mineinabyss:block/building/crate1"},
+    {"predicate": {"custom_model_data": 2019}, "model": "mineinabyss:block/building/crate2"},
 
     {"predicate": {"custom_model_data": 3001}, "model": "mineinabyss:block/nature/foliage1"},
     {"predicate": {"custom_model_data": 3002}, "model": "mineinabyss:block/nature/foliage2"},
