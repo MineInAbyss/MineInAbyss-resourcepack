@@ -20,9 +20,9 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/orthbanking/clouttoken.png",
-      "ascent": -12,
-      "height": 10,
+      "file": "mineinabyss:ui/orthbanking/mittytoken.png",
+      "ascent": -11,
+      "height": 12,
       "chars": [
         ""
       ]
