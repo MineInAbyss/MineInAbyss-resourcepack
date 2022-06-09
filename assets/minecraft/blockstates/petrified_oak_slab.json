@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": ""
+    },
+    "type=double": {
+      "model": ""
+    },
+    "type=top": {
+      "model": ""
+    }
+  }
+}
