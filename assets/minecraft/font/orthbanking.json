@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/ascii_offset.png",
-      "ascent": -12,
-      "height": 10,
+      "ascent": -13,
+      "height": 8,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
