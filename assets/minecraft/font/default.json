@@ -1,462 +1,544 @@
 {
-"providers": [
+  "providers": [
     {
-        "chars": ["\uF801"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -1,
-        "type": "bitmap"
+      "chars": [
+        "\uF801"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -1,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF802"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -2,
-        "type": "bitmap"
+      "chars": [
+        "\uF802"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -2,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF803"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -3,
-        "type": "bitmap"
+      "chars": [
+        "\uF803"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -3,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF804"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -4,
-        "type": "bitmap"
+      "chars": [
+        "\uF804"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -4,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF805"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -7,
-        "type": "bitmap"
+      "chars": [
+        "\uF805"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -7,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF806"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -8,
-        "type": "bitmap"
+      "chars": [
+        "\uF806"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -8,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF807"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -9,
-        "type": "bitmap"
+      "chars": [
+        "\uF807"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -9,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF808"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -8,
-        "type": "bitmap"
+      "chars": [
+        "\uF808"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -8,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF809"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -16,
-        "type": "bitmap"
+      "chars": [
+        "\uF809"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -16,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF80A"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -32,
-        "type": "bitmap"
+      "chars": [
+        "\uF80A"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -32,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF80B"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -64,
-        "type": "bitmap"
+      "chars": [
+        "\uF80B"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -64,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF80C"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -128,
-        "type": "bitmap"
+      "chars": [
+        "\uF80C"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -128,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF80D"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -256,
-        "type": "bitmap"
+      "chars": [
+        "\uF80D"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -256,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF80E"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -512,
-        "type": "bitmap"
+      "chars": [
+        "\uF80E"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -512,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF80F"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": -1024,
-        "type": "bitmap"
+      "chars": [
+        "\uF80F"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": -1024,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF821"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 1,
-        "type": "bitmap"
+      "chars": [
+        "\uF821"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 1,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF822"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 2,
-        "type": "bitmap"
+      "chars": [
+        "\uF822"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 2,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF823"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 3,
-        "type": "bitmap"
+      "chars": [
+        "\uF823"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 3,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF824"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 4,
-        "type": "bitmap"
+      "chars": [
+        "\uF824"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 4,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF825"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 5,
-        "type": "bitmap"
+      "chars": [
+        "\uF825"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 5,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF826"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 6,
-        "type": "bitmap"
+      "chars": [
+        "\uF826"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 6,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF827"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 7,
-        "type": "bitmap"
+      "chars": [
+        "\uF827"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 7,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF828"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 8,
-        "type": "bitmap"
+      "chars": [
+        "\uF828"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 8,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF829"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 16,
-        "type": "bitmap"
+      "chars": [
+        "\uF829"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 16,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF82A"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 32,
-        "type": "bitmap"
+      "chars": [
+        "\uF82A"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 32,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF82B"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 64,
-        "type": "bitmap"
+      "chars": [
+        "\uF82B"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 64,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF82C"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 128,
-        "type": "bitmap"
+      "chars": [
+        "\uF82C"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 128,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF82D"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 256,
-        "type": "bitmap"
+      "chars": [
+        "\uF82D"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 256,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF82E"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 512,
-        "type": "bitmap"
+      "chars": [
+        "\uF82E"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 512,
+      "type": "bitmap"
     },
     {
-        "chars": ["\uF82F"],
-        "file": "font/null.png",
-        "ascent": -32768,
-        "height": 1024,
-        "type": "bitmap"
+      "chars": [
+        "\uF82F"
+      ],
+      "file": "font/null.png",
+      "ascent": -32768,
+      "height": 1024,
+      "type": "bitmap"
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/admin.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/admin.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/moderator.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/moderator.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/helper.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/helper.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/srdev.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/srdev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/dev.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/dev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/jrdev.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/jrdev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/srdesigner.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/srdesigner.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/designer.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/designer.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/jrdesigner.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/jrdesigner.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/srbuilder.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/srbuilder.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/buildlead.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/buildlead.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/builder.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/builder.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/jrbuilder.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/jrbuilder.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/patreonplus.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/patreonplus.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/patreon.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/patreon.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/afk.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/afk.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/player.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/survival.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/survival.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/build.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/build.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/adventure.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/adventure.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/test.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/test.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/discord.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/discord.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/patreonlogo.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/patreonlogo.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/party.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/party.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/local.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/local.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/guildchat.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/guildchat.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/communitymanager.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/roles/communitymanager.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/dev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/dev.png",
-        "ascent": 7,
-        "height": 7,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/logo/logo1.png",
+      "ascent": 30,
+      "height": 30,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/logo/logo1.png",
-        "ascent": 30,
-        "height": 30,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/logo/logo2.png",
+      "ascent": 30,
+      "height": 30,
+      "chars": [
+        ""
+      ]
     },
     {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/logo/logo2.png",
-        "ascent": 30,
-        "height": 30,
-        "chars": [""
-        ]
-    },
-    {
-        "type": "bitmap",
-        "file": "mineinabyss:ui/icons/logo/logo3.png",
-        "ascent": 30,
-        "height": 30,
-        "chars": [""
-        ]
+      "type": "bitmap",
+      "file": "mineinabyss:ui/icons/logo/logo3.png",
+      "ascent": 30,
+      "height": 30,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
