@@ -26,20 +26,11 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/orthbanking/orthbanking_menu.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "mineinabyss:ui/orthbanking/orthcoin.png",
       "ascent": -12,
       "height": 10,
       "chars": [
-        ""
+        ""
       ]
     },
     {
@@ -48,7 +39,7 @@
       "ascent": -11,
       "height": 12,
       "chars": [
-        ""
+        ""
       ]
     }
   ]
