@@ -128,7 +128,7 @@
   "container.enchant.clue": "%s§7?",
   "container.repair": "Repair & Name",
   "container.repair.cost": "Enchantment Cost: %1$s",
-  "container.repair.expensive": "§cToo Expensive!",
+  "container.repair.expensive": "§3Enchantment Cost: 40+",
   "container.creative": "Item Selection",
   "container.brewing": "Brewing Stand",
   "container.chest": "Chest",
