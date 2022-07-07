@@ -6,6 +6,8 @@
 
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/corpseweeper_feather"},
-    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/cyatoria_feather"}
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/cyatoria_feather"},
+    {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/creaturedrops/hammerbeak_feather"},
+    {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/creaturedrops/onitsuchi_feather"}
   ]
 }
