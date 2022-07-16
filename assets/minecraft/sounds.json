@@ -1,0 +1,52 @@
+{
+  "block.wood.step": {
+    "sounds": [],
+    "replace": true
+  },
+  "block.wood.place": {
+    "sounds": [],
+    "replace": true
+  },
+  "block.wood.break": {
+    "sounds": [],
+    "replace": true
+  },
+  "block.wood.fall": {
+    "sounds": [],
+    "replace": true
+  },
+  "block.wood.hit": {
+    "sounds": [],
+    "replace": true
+  },
+  "blocky.wood.hit": {
+    "sounds": [
+      "required/wood_hit"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "blocky.wood.place": {
+    "sounds": [
+      "required/wood_place"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "blocky.wood.break": {
+    "sounds": [
+      "required/wood_break"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "blocky.wood.step": {
+    "sounds": [
+      "required/wood_step"
+    ],
+    "subtitle": "subtitles.block.generic.step"
+  },
+  "blocky.wood.fall": {
+    "sounds": [
+      "required/wood_fall"
+    ],
+    "subtitle": "subtitles.block.generic.fall"
+  }
+}
