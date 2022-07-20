@@ -170,6 +170,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:whistles/lumiw.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
     }
   ]
 }

@@ -1403,6 +1403,33 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/gutmoment.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/technopepe.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/huh.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
