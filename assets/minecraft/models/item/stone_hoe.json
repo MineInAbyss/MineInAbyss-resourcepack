@@ -16,6 +16,7 @@
     { "predicate": {"custom_model_data": 9}, "model": "mineinabyss:item/cosmetics/reg_hat"},
     { "predicate": {"custom_model_data": 10}, "model": "mineinabyss:item/other/menacing"},
     { "predicate": {"custom_model_data": 11}, "model": "nazarick:albedo_horns"},
-    { "predicate": {"custom_model_data": 12}, "model": "mineinabyss:item/cosmetics/benner_cosplay"}
+    { "predicate": {"custom_model_data": 12}, "model": "mineinabyss:item/cosmetics/benner_cosplay"},
+    { "predicate": {"custom_model_data": 13}, "model": "mineinabyss:item/cosmetics/faputa_hat"}
   ]
 }
