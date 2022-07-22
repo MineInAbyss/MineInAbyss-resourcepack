@@ -1385,6 +1385,69 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/okaynerd.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/guracard.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/gutmoment.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/technopepe.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/huh.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/faputahappy.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/chad.png",
+      "ascent": 40,
+      "height": 80,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
