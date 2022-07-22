@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "modelengine:entity/faputa",
+		"0": "mineinabyss:cosmetics/faputa/mainfaputa",
 		"2": "mineinabyss:cosmetics/faputa/left_ear",
 		"3": "mineinabyss:cosmetics/faputa/texture",
 		"4": "mineinabyss:cosmetics/faputa/texture1",
