@@ -1430,6 +1430,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:emotes/faputahappy.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
