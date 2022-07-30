@@ -1,0 +1,10 @@
+{
+	"parent": "mineinabyss:item/tools/pickaxe/netherite_pick_mia",
+	"textures": {
+		"layer0": "item/netherite_pickaxe"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data":  1}, "model": "nazarick:4f"}
+	]
+}

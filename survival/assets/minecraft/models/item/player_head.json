@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:player/head" },
+    { "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:player/norm/right_shoulder" },
+    { "predicate": { "custom_model_data": 3 }, "model": "mineinabyss:player/norm/left_shoulder" },
+    { "predicate": { "custom_model_data": 4 }, "model": "mineinabyss:player/norm/arm" },
+    { "predicate": { "custom_model_data": 5 }, "model": "mineinabyss:player/slim/right_shoulder" },
+    { "predicate": { "custom_model_data": 6 }, "model": "mineinabyss:player/slim/left_shoulder" },
+    { "predicate": { "custom_model_data": 7 }, "model": "mineinabyss:player/slim/arm" },
+    { "predicate": { "custom_model_data": 8 }, "model": "mineinabyss:player/body" },
+    { "predicate": { "custom_model_data": 9 }, "model": "mineinabyss:player/leg" },
+    { "predicate": { "custom_model_data": 10 }, "model": "mineinabyss:ui/playerheads/flat" },
+    { "predicate": { "custom_model_data": 11 }, "model": "mineinabyss:ui/playerheads/large_flat" },
+    { "predicate": { "custom_model_data": 12 }, "model": "mineinabyss:ui/playerheads/centered_flat" },
+    { "predicate": { "custom_model_data": 13 }, "model": "mineinabyss:ui/playerheads/centered_large_flat" }
+  ]
+}

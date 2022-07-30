@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "mineinabyss:item/tesuchi_scale_on_a_stick"
+  }
+}

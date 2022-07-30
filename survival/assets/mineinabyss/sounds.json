@@ -1,0 +1,307 @@
+{
+	"entity.amakagame.ambient": {
+		"sounds": [
+			"mineinabyss:entity/amakagame/ambient"
+		]
+	},
+	"entity.amakagame.death": {
+		"sounds": [
+			"mineinabyss:entity/amakagame/death"
+		]
+	},
+	"entity.amakagame.hurt": {
+		"sounds": [
+			"mineinabyss:entity/amakagame/hurt"
+		]
+	},
+	"entity.corpseweeper.ambient": {
+		"sounds": [
+			"mineinabyss:entity/corpseweeper/ambient"
+		]
+	},
+	"entity.corpseweeper.death": {
+		"sounds": [
+			"mineinabyss:entity/corpseweeper/death"
+		]
+	},
+	"entity.corpseweeper.hurt": {
+		"sounds": [
+			"mineinabyss:entity/corpseweeper/hurt"
+		]
+	},
+	"entity.ottobas.ambient": {
+		"sounds": [
+			"mineinabyss:entity/ottobas/ambient"
+		]
+	},
+	"entity.ottobas.death": {
+		"sounds": [
+			"mineinabyss:entity/ottobas/death"
+		]
+	},
+	"entity.ottobas.hurt": {
+		"sounds": [
+			"mineinabyss:entity/ottobas/hurt"
+		]
+	},
+	"entity.orbpiercer.ambient": {
+		"sounds": [
+			"mineinabyss:entity/orbpiercer/ambient"
+		]
+	},
+	"entity.orbpiercer.death": {
+		"sounds": [
+			"mineinabyss:entity/orbpiercer/death"
+		]
+	},
+	"entity.orbpiercer.hurt": {
+		"sounds": [
+			"mineinabyss:entity/orbpiercer/hurt"
+		]
+	},
+	"entity.dosetori.ambient": {
+		"sounds": [
+			"mineinabyss:entity/dosetori/ambient"
+		]
+	},
+	"entity.dosetori.death": {
+		"sounds": [
+			"mineinabyss:entity/dosetori/death"
+		]
+	},
+	"entity.dosetori.hurt": {
+		"sounds": [
+			"mineinabyss:entity/dosetori/hurt"
+		]
+	},
+	"entity.inbyo.ambient": {
+		"sounds": [
+			"mineinabyss:entity/inbyo/ambient"
+		]
+	},
+	"entity.inbyo.death": {
+		"sounds": [
+			"mineinabyss:entity/inbyo/death"
+		]
+	},
+	"entity.inbyo.hurt": {
+		"sounds": [
+			"mineinabyss:entity/inbyo/hurt"
+		]
+	},
+	"entity.madokajack.ambient": {
+		"sounds": [
+			"mineinabyss:entity/madokajack/ambient"
+		]
+	},
+	"entity.madokajack.death": {
+		"sounds": [
+			"mineinabyss:entity/madokajack/death"
+		]
+	},
+	"entity.madokajack.hurt": {
+		"sounds": [
+			"mineinabyss:entity/madokajack/hurt"
+		]
+	},
+	"entity.splitjaw.ambient": {
+		"sounds": [
+			"mineinabyss:entity/splitjaw/ambient"
+		]
+	},
+	"entity.splitjaw.death": {
+		"sounds": [
+			"mineinabyss:entity/splitjaw/death"
+		]
+	},
+	"entity.splitjaw.hurt": {
+		"sounds": [
+			"mineinabyss:entity/splitjaw/hurt"
+		]
+	},
+	"entity.stingerhead.ambient": {
+		"sounds": [
+			"mineinabyss:entity/stingerhead/ambient"
+		]
+	},
+	"entity.stingerhead.death": {
+		"sounds": [
+			"mineinabyss:entity/stingerhead/death"
+		]
+	},
+	"entity.stingerhead.hurt": {
+		"sounds": [
+			"mineinabyss:entity/stingerhead/hurt"
+		]
+	},
+	"entity.shroombear.ambient": {
+		"sounds": [
+			"mineinabyss:entity/shroombear/ambient"
+		]
+	},
+	"entity.shroombear.death": {
+		"sounds": [
+			"mineinabyss:entity/shroombear/death"
+		]
+	},
+	"entity.shroombear.hurt": {
+		"sounds": [
+			"mineinabyss:entity/shroombear/hurt"
+		]
+	},
+	"entity.neritantan.ambient": {
+		"sounds": [
+			"mineinabyss:entity/neritantan/ambient"
+		]
+	},
+	"entity.neritantan.death": {
+		"sounds": [
+			"mineinabyss:entity/neritantan/death"
+		]
+	},
+	"entity.neritantan.hurt": {
+		"sounds": [
+			"mineinabyss:entity/neritantan/hurt"
+		]
+	},
+	"entity.steve.ambient": {
+		"sounds": [
+			"mineinabyss:entity/steve/ambient"
+		]
+	},
+	"entity.steve.death": {
+		"sounds": [
+			"mineinabyss:entity/steve/death"
+		]
+	},
+	"entity.steve.hurt": {
+		"sounds": [
+			"mineinabyss:entity/steve/hurt"
+		]
+	},
+	"entity.hammerbeak.ambient": {
+		"sounds": [
+			"mineinabyss:entity/hammerbeak/ambient"
+		]
+	},
+	"entity.hammerbeak.death": {
+		"sounds": [
+			"mineinabyss:entity/hammerbeak/death"
+		]
+	},
+	"entity.hammerbeak.hurt": {
+		"sounds": [
+			"mineinabyss:entity/hammerbeak/hurt"
+		]
+	},
+	"entity.onitsuchi.ambient": {
+		"sounds": [
+			"mineinabyss:entity/onitsuchi/ambient"
+		]
+	},
+	"entity.onitsuchi.death": {
+		"sounds": [
+			"mineinabyss:entity/onitsuchi/death"
+		]
+	},
+	"entity.onitsuchi.hurt": {
+		"sounds": [
+			"mineinabyss:entity/onitsuchi/hurt"
+		]
+	},
+	"entity.okibo.ambient": {
+		"sounds": [
+			"mineinabyss:entity/okibo/ambient"
+		]
+	},
+	"entity.okibo.death": {
+		"sounds": [
+			"mineinabyss:entity/okibo/death"
+		]
+	},
+	"entity.okibo.hurt": {
+		"sounds": [
+			"mineinabyss:entity/okibo/hurt"
+		]
+	},
+	"entity.hamashirama.ambient": {
+		"sounds": [
+			"mineinabyss:entity/hamashirama/ambient"
+		]
+	},
+	"entity.hamashirama.death": {
+		"sounds": [
+			"mineinabyss:entity/hamashirama/death"
+		]
+	},
+	"entity.hamashirama.hurt": {
+		"sounds": [
+			"mineinabyss:entity/hamashirama/hurt"
+		]
+	},
+	"entity.hisomukuro.ambient": {
+		"sounds": [
+			"mineinabyss:entity/hisomukuro/ambient"
+		]
+	},
+	"entity.hisomukuro.death": {
+		"sounds": [
+			"mineinabyss:entity/hisomukuro/death"
+		]
+	},
+	"entity.hisomukuro.hurt": {
+		"sounds": [
+			"mineinabyss:entity/hisomukuro/hurt"
+		]
+	},
+	"entity.billabonk.ambient": {
+		"sounds": [
+			"mineinabyss:entity/billabonk/ambient"
+		]
+	},
+	"entity.billabonk.death": {
+		"sounds": [
+			"mineinabyss:entity/billabonk/death"
+		]
+	},
+	"entity.billabonk.hurt": {
+		"sounds": [
+			"mineinabyss:entity/billabonk/hurt"
+		]
+	},
+	"entity.fuwagi.ambient": {
+		"sounds": [
+			"mineinabyss:entity/fuwagi/ambient"
+		]
+	},
+	"entity.fuwagi.death": {
+		"sounds": [
+			"mineinabyss:entity/fuwagi/death"
+		]
+	},
+	"entity.fuwagi.hurt": {
+		"sounds": [
+			"mineinabyss:entity/fuwagi/hurt"
+		]
+	},
+	"equipment.backpack.open": {
+		"sounds": [
+			"mineinabyss:equipment/backpack/open"
+		]
+	},
+	"equipment.backpack.close": {
+		"sounds": [
+			"mineinabyss:equipment/backpack/close"
+		]
+	},
+	"music.custom.noteblock.deepinabyss": {
+		"sounds": [
+			"mineinabyss:music/noteblock/deep_in_abyss"
+		]
+	},
+	"music.custom.noteblock.orthwaltz": {
+		"sounds": [
+			"mineinabyss:music/noteblock/orth_waltz"
+		]
+	}
+}

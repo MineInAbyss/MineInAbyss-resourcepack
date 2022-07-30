@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      { "model": "mineinabyss:block/parasitic_watershroom/parasitic_watershroom"},
+      { "model": "mineinabyss:block/parasitic_watershroom/parasitic_watershroom1", "weight": 3 },
+      { "model": "mineinabyss:block/parasitic_watershroom/parasitic_watershroom2", "weight": 2 }
+    ]
+  }
+}
