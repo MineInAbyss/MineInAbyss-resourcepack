@@ -75,7 +75,7 @@ jobs:
       - name: Upload Build zip
         uses: actions/upload-artifact@v2
         with:
-          name: survival-pack
+          name: build-pack
           path: out/MineInAbyss-Build-Resourcepack.zip
   create-release:
     runs-on: ubuntu-latest
