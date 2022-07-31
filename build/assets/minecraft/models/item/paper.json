@@ -41,6 +41,26 @@
     { "predicate": {"custom_model_data": 123}, "model": "mineinabyss:item/relics/unheard_bell"},
     { "predicate": {"custom_model_data": 124}, "model": "mineinabyss:item/relics/star_compass/star_compass_needle"},
     { "predicate": {"custom_model_data": 125}, "model": "mineinabyss:item/relics/star_compass/star_compass"},
-    { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"}
+    { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"},
+
+    {"predicate": {"custom_model_data": 1000}, "model": "mineinabyss:block/furniture/stone_bench"},
+    {"predicate": {"custom_model_data": 1001}, "model": "mineinabyss:block/furniture/sunny_wood_chair"},
+
+    {"predicate": {"custom_model_data": 2000}, "model": "minecraft:block/note_block"},
+    {"predicate": {"custom_model_data": 2001}, "model": "mineinabyss:block/ores/charcoal_sand_ore"},
+    {"predicate": {"custom_model_data": 2018}, "model": "mineinabyss:block/building/crate1"},
+    {"predicate": {"custom_model_data": 2019}, "model": "mineinabyss:block/building/crate2"},
+
+    {"predicate": {"custom_model_data": 3001}, "model": "mineinabyss:block/nature/foliage1"},
+    {"predicate": {"custom_model_data": 3002}, "model": "mineinabyss:block/nature/foliage2"},
+    {"predicate": {"custom_model_data": 3003}, "model": "mineinabyss:block/nature/foliage3"},
+    {"predicate": {"custom_model_data": 3004}, "model": "mineinabyss:block/nature/foliage4"},
+    {"predicate": {"custom_model_data": 3005}, "model": "mineinabyss:block/nature/foliage5"},
+    {"predicate": {"custom_model_data": 3006}, "model": "mineinabyss:block/nature/foliage6"},
+    {"predicate": {"custom_model_data": 3007}, "model": "mineinabyss:block/nature/foliage7"},
+    {"predicate": {"custom_model_data": 3008}, "model": "mineinabyss:block/nature/foliage8"},
+
+
+    {"predicate": {"custom_model_data": 4001}, "model": "mineinabyss:block"}
   ]
 }
