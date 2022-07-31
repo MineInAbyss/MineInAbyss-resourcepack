@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/bone_meal"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/rinsipede_segment"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/virinsipede_segment"}
+  ]
+}

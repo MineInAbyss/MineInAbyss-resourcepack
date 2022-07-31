@@ -1,0 +1,94 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/1.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/2.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/3.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/4.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/5.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/6.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/7.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/8.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/9.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/pruskhapat/10.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

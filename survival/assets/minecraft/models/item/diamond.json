@@ -1,0 +1,19 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/materials/everlasting_gunpowder"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/materials/hyalos_incipient"},
+		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/materials/hyalos_manifest"},
+		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/relics/consumables/cold_fantoccini"},
+		{"predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/materials/refractor_gem"},
+		{"predicate": {"custom_model_data": 6}, "model": "mineinabyss:item/materials/curse_steel_ingot"},
+		{"predicate": {"custom_model_data": 7}, "model": "mineinabyss:item/materials/charcoal_sand_raw"},
+		{"predicate": {"custom_model_data": 8}, "model": "mineinabyss:item/materials/charcoal_sand_ingot"},
+		{"predicate": {"custom_model_data": 9}, "model": "mineinabyss:item/materials/iceburst_stone"},
+		{"predicate": {"custom_model_data": 10}, "model": "mineinabyss:item/materials/heat_stone"}
+	]
+}

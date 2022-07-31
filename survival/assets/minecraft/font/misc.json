@@ -1,0 +1,688 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/0.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/1.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/2.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/3.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/4.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/5.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/6.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/7.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/8.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/numbers/9.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/a.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/b.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/c.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/d.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/e.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/f.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/g.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/h.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/i.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/j.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/k.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/l.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/m.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/n.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/o.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/p.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/q.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/r.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/s.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/t.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/u.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/v.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/w.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/x.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/y.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/lowercase/z.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/a.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/b.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/c.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/d.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/e.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/f.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/g.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/h.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/i.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/j.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/k.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/l.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/m.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/n.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/o.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/p.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/q.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/r.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/s.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/t.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/u.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/v.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/w.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/x.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/y.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/uppercase/z.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/underscore.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/exclamation.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/questionmark.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/parentheses_start.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/parentheses_end.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/comma.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/dot.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/dollar.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/plus.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/minus.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/hashtag.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/and.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/percent.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/misc/special/forwardslash.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

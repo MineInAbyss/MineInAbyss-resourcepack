@@ -1,0 +1,256 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/1.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/2.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/3.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/4.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/5.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/6.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/7.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/8.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/9.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/10.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/11.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/12.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/13.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/14.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/15.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/16.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/17.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/18.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/19.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/20.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/21.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/22.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/23.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/24.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/25.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/26.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/27.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "emotes:gifs/oripat/28.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "mineinabyss:item/tools/axe/diamond_axe_mia",
+	"textures": {
+		"layer0": "item/diamond_axe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/cosmetics/atlantis_axe"},
+		{ "predicate": {"custom_model_data": 2}, "model": "camelot:weapon/bunyan_axe"},
+		{ "predicate": {"custom_model_data": 3}, "model": "nazarick:ainz_axe"},
+		{ "predicate": {"custom_model_data": 4}, "model": "nazarick:decapitation_fang"}
+	]
+}

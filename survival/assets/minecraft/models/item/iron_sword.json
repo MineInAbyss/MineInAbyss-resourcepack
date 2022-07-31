@@ -1,0 +1,6 @@
+{
+  "parent": "mineinabyss:item/tools/sword/iron_dagger_mia",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  }
+}

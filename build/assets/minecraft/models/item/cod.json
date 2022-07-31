@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cod"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/billabonk_leg_raw"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/hammerbeak_wing_raw"},
+		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/food/creatures/hashofu_tail_raw"},
+		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/food/creatures/onitsuchi_wing_raw"}
+	]
+}
