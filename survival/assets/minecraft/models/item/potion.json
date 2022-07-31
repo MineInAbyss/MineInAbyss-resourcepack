@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/potion_overlay",
+    "layer1": "item/potion"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/relics/consumables/black_flask"},
+    { "predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/relics/consumables/life_jar"}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cooked_porkchop"
+	},
+
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/food/creatures/ashimite_meat_cooked"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/food/creatures/corpseweeper_meat_cooked"},
+		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/food/creatures/okibo_meat_cooked"},
+		{"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/food/creatures/ottobas_meat_cooked"},
+		{"predicate": {"custom_model_data": 1000}, "model": "mineinabyss:item/food/standard_food/idofront_ration"}
+	]
+}

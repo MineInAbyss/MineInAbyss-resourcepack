@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mineinabyss:food/creatures/okibo_meat_raw"
+  }
+}
