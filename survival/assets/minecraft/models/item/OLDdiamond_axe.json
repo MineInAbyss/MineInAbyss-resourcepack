@@ -1,0 +1,33 @@
+{
+	"parent": "mineinabyss:item/tools/axe/diamond_axe_mia",
+	"textures": {
+		"layer0": "item/diamond_axe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "characters/mitty/mitty"},
+		{ "predicate": {"custom_model_data": 2}, "model": "characters/nanachi/nanachi"},
+		{ "predicate": {"custom_model_data": 3}, "model": "characters/bondrewd/bondrewd"},
+		{ "predicate": {"custom_model_data": 4}, "model": "characters/bondrewd/bondrewd_move"},
+		{ "predicate": {"custom_model_data": 5}, "model": "characters/habo/habo"},
+		{ "predicate": {"custom_model_data": 6}, "model": "characters/jiruo/jiruo"},
+		{ "predicate": {"custom_model_data": 7}, "model": "characters/kiyui/kiyui"},
+		{ "predicate": {"custom_model_data": 8}, "model": "characters/marulk/marulk"},
+		{ "predicate": {"custom_model_data": 9}, "model": "characters/nat/nat"},
+		{ "predicate": {"custom_model_data": 10}, "model": "characters/ozen/ozen"},
+		{ "predicate": {"custom_model_data": 11}, "model": "characters/reg/reg"},
+		{ "predicate": {"custom_model_data": 12}, "model": "characters/riko/riko"},
+		{ "predicate": {"custom_model_data": 13}, "model": "characters/shiggy/shiggy"},
+		{ "predicate": {"custom_model_data": 14}, "model": "characters/torka/torka"},
+		{ "predicate": {"custom_model_data": 15}, "model": "characters/lyza/lyza"},
+		{ "predicate": {"custom_model_data": 16}, "model": "characters/prushka/prushka"},
+		{ "predicate": {"custom_model_data": 17}, "model": "characters/faputa/faputa"},
+		{ "predicate": {"custom_model_data": 18}, "model": "characters/tama/tama"},
+		{ "predicate": {"custom_model_data": 19}, "model": "characters/umbrahand/umbrahand1"},
+		{ "predicate": {"custom_model_data": 20}, "model": "characters/umbrahand/umbrahand2"},
+		{ "predicate": {"custom_model_data": 21}, "model": "characters/umbrahand/umbrahand3"},
+		{ "predicate": {"custom_model_data": 22}, "model": "characters/umbrahand/umbrahand4"},
+		{ "predicate": {"custom_model_data": 23}, "model": "characters/umbrahand/umbrahand5"},
+		{ "predicate": {"custom_model_data": 24}, "model": "characters/umbrahand/umbrahand6"},
+		{ "predicate": {"custom_model_data": 25}, "model": "characters/raymond/raymond"}
+	]
+}
