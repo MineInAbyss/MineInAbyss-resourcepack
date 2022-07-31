@@ -34,14 +34,14 @@ print("Got version: " + version)
 
 print("Create zip file for survival and add minified json into it")
 zipS = zipfile.ZipFile(output_dir / "MineInAbyss-Survival-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
-for root, dirs, files in os.walk(root_dir / "survival/assets/"):
+for root, dirs, files in os.walk(root_dir / "survival/"):
     for file in files:
         if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
             continue
         if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
             continue
         read_path = Path(root) / file
-        write_path = read_path.relative_to(root_dir)
+        write_path = read_path.relative_to(root_dir / "survival")
         if file.endswith(".json"):
             try:
                 minified = minify(read_path)
@@ -60,14 +60,14 @@ for root, dirs, files in os.walk(hit_gen_dir):
 
 print("Create zip file for build and add minified json into it")
 zipB = zipfile.ZipFile(output_dir / "MineInAbyss-Build-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
-for root, dirs, files in os.walk(root_dir / "build/assets/"):
+for root, dirs, files in os.walk(root_dir / "build/"):
     for file in files:
         if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
             continue
         if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
             continue
         read_path = Path(root) / file
-        write_path = read_path.relative_to(root_dir)
+        write_path = read_path.relative_to(root_dir / "build")
         if file.endswith(".json"):
             try:
                 minified = minify(read_path)
@@ -79,11 +79,13 @@ for root, dirs, files in os.walk(root_dir / "build/assets/"):
 
 
 print("Edit pack.mcmeta to be the correct version from github actions")
-survivalMcMeta = open(root_dir / 'survival/pack.mcmeta', "rt")
+survivalMcMeta = open(root_dir / 'pack.mcmeta', "rt")
 survivalData = survivalMcMeta.read()
+survivalData = survivalData.replace('Server', 'Survival Server')
 survivalData = survivalData.replace('vDEV', 'v' + version)
-buildMcMeta = open(root_dir / 'build/pack.mcmeta', "rt")
+buildMcMeta = open(root_dir / 'pack.mcmeta', "rt")
 buildData = buildMcMeta.read()
+buildData = buildData.replace('Server', 'Build Server')
 buildData = buildData.replace('vDEV', 'v' + version)
 zipS.writestr("pack.mcmeta", survivalData)
 zipB.writestr("pack.mcmeta", buildData)
