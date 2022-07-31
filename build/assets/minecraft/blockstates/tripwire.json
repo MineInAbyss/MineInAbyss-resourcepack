@@ -25,7 +25,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage1"
+        "model": ""
       }
     },
     {
@@ -39,7 +39,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage2"
+        "model": ""
       }
     },
     {
@@ -53,7 +53,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage3"
+        "model": ""
       }
     },
     {
@@ -67,7 +67,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage4"
+        "model": ""
       }
     },
     {
@@ -81,7 +81,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage5"
+        "model": ""
       }
     },
     {
@@ -95,7 +95,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage6"
+        "model": ""
       }
     },
     {
@@ -109,7 +109,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage7"
+        "model": ""
       }
     },
     {
@@ -123,7 +123,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage8"
+        "model": ""
       }
     },
     {
