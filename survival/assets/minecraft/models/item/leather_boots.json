@@ -6,10 +6,7 @@
   },
   "overrides": [
     {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "mineinabyss:armors/copper_armor/copper_boots"
+      "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:armors/copper_armor/copper_boots"
     }
   ]
 }

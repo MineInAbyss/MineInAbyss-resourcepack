@@ -1,1 +1,7 @@
-{"parent":"item/generated","textures":{"layer0":"mineinabyss:armors/copper_armor/copper_helmet","layer1":"mineinabyss:armors/copper_armor/copper_helmet"}}
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mineinabyss:armors/copper_armor/copper_helmet",
+    "layer1": "mineinabyss:armors/copper_armor/copper_helmet"
+  }
+}
