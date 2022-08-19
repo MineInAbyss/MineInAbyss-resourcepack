@@ -5,8 +5,7 @@
     "layer1": "item/leather_boots_overlay"
   },
   "overrides": [
-    {
-      "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:armors/copper_armor/copper_boots"
-    }
+    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:armors/copper/boots" },
+    {  "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:armors/bee/boots" }
   ]
 }
