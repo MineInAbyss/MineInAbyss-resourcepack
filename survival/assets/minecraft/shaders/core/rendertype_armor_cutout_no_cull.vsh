@@ -1,5 +1,40 @@
 #version 150
+
 #moj_import <light.glsl>
-#moj_import <fog.glsl>
-#define N (1. / 6.)
-in vec3 Position;in vec4 Color;in vec2 UV0, UV1;in ivec2 UV2;in vec3 Normal;uniform sampler2D Sampler0;uniform sampler2D Sampler2;uniform mat4 ModelViewMat, ProjMat;uniform vec3 Light0_Direction, Light1_Direction;out float vertexDistance, ov;out vec4 vertexColor, diffuseColor, normal;out vec2 texCoord0, overlayCoord;void main(){ gl_Position=ProjMat*ModelViewMat*vec4(Position, 1.);vertexDistance=cylindrical_distance(ModelViewMat, Position);vec4 v=Color;vec2 r=UV0;vec2 o=UV0;ov=0.;if (Color.x<1.&&textureSize(Sampler0, 0).x>64){ ov=1.;r.x*=0.5;v=vec4(1.);if (Color.xyz==vec3(122., 150., 159.)/255.)r.y=r.y*N+1.*N; else if (Color.xyz==vec3(136., 112., 192.)/255.)r.y=r.y*N+2.*N; else if (Color.xyz==vec3(184., 94., 204.)/255.)r.y=r.y*N+3.*N; else if (Color.xyz==vec3(230., 54., 41.)/255.)r.y=r.y*N+4.*N; else if (Color.xyz==vec3(162., 99., 83.)/255.)r.y=r.y*N+5.*N; else v=Color, r.y=r.y*N;o=r+vec2(0.5, 0.); }vec4 l=texelFetch(Sampler2, UV2/16, 0);vertexColor=minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, v)*l;diffuseColor=minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, vec4(1.))*l;texCoord0=r;overlayCoord=o;normal=ProjMat*ModelViewMat*vec4(Normal, 0.); }
+
+in vec3 Position;
+in vec4 Color;
+in vec2 UV0;
+in vec2 UV1;
+in ivec2 UV2;
+in vec3 Normal;
+
+uniform sampler2D Sampler2;
+
+uniform mat4 ModelViewMat;
+uniform mat4 ProjMat;
+
+uniform vec3 Light0_Direction;
+uniform vec3 Light1_Direction;
+
+out float vertexDistance;
+out vec4 vertexColor;
+out vec2 texCoord0;
+out vec2 texCoord1;
+out vec4 normal;
+flat out vec4 tint;
+flat out vec3 vNormal;
+flat out vec4 texel;
+
+void main() {
+    vNormal = Normal;
+    texel = texelFetch(Sampler2, UV2 / 16, 0);
+    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+
+    vertexDistance = length((ModelViewMat * vec4(Position, 1.0)).xyz);
+    vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color) * texelFetch(Sampler2, UV2 / 16, 0);
+    tint = Color;
+    texCoord0 = UV0;
+    texCoord1 = UV1;
+    normal = ProjMat * ModelViewMat * vec4(Normal, 0.0);
+}
