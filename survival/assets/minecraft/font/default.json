@@ -539,6 +539,15 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/roles/projectmanager.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
