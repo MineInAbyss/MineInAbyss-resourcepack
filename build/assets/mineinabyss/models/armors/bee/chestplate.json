@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mineinabyss:armors/bee/chestplate",
+    "layer1": "mineinabyss:armors/bee/chestplate"
+  }
+}
