@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "mineinabyss:block/sculk/sculk_catalyst_top",
-    "bottom": "mineinabyss:block/sculk/sculk_catalyst_bottom",
-    "side": "mineinabyss:block/sculk/sculk_catalyst_side"
-  }
-}

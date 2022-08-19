@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "mineinabyss:block/trees/mangrove/mangrove_log",
-    "side": "mineinabyss:block/trees/mangrove/mangrove_log"
-  }
-}
