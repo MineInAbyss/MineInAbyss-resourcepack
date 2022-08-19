@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "mineinabyss:block/mud/muddy_mangrove_roots_top",
-    "side": "mineinabyss:block/mud/muddy_mangrove_roots_side"
-  }
-}
