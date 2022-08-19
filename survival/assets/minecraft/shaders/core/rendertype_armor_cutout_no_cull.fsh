@@ -1,6 +1,6 @@
 #version 150
 
-#define TEX_RES 16
+#define TEX_RES 32
 
 #moj_import <fog.glsl>
 #moj_import <light.glsl>
