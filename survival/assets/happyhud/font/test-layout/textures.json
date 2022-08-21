@@ -1,3 +1,22 @@
 {
-  "providers": []
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-layer/icon.png",
+      "height": 12,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -1500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-depth/icon.png",
+      "height": 15,
+      "chars": [
+        "ꀁ"
+      ],
+      "ascent": -3500
+    }
+  ]
 }
