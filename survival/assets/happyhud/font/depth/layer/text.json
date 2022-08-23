@@ -9,16 +9,52 @@
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/redw.png",
+      "file": "happyhud:font/mineinabyss-layer/text/bell.png",
+      "height": 9,
+      "chars": [
+        ""
+      ],
+      "ascent": -59500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-layer/text/redw.png",
       "height": 9,
       "chars": [
         ""
       ],
-      "ascent": -64500
+      "ascent": -59500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/nonlatin-european.png",
+      "file": "happyhud:font/mineinabyss-layer/text/bluew.png",
+      "height": 9,
+      "chars": [
+        ""
+      ],
+      "ascent": -59500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-layer/text/moonw.png",
+      "height": 9,
+      "chars": [
+        ""
+      ],
+      "ascent": -59500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-layer/text/blackw.png",
+      "height": 9,
+      "chars": [
+        ""
+      ],
+      "ascent": -59500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-layer/text/nonlatin-european.png",
       "height": 8,
       "chars": [
         "¡‰­·₴≠¿×ØÞһðøþΑΒ",
@@ -89,11 +125,11 @@
         "₦₩₫₭₮₰₱₲₳₵₶₷₸₹₺₻",
         "₼₿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -64500
+      "ascent": -59500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/accented.png",
+      "file": "happyhud:font/mineinabyss-layer/text/accented.png",
       "height": 12,
       "chars": [
         "ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏ",
@@ -172,11 +208,11 @@
         "ᶋᶌᶍꟆᶎᶏᶐᶒᶓᶔᶕᶖᶗᶘᶙᶚ",
         "ẚ⅒⅘₨₯\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -64500
+      "ascent": -59500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/ascii.png",
+      "file": "happyhud:font/mineinabyss-layer/text/ascii.png",
       "height": 8,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -196,7 +232,7 @@
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
         "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
       ],
-      "ascent": -64500
+      "ascent": -59500
     }
   ]
 }

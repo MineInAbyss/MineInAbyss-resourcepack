@@ -9,6 +9,15 @@
     },
     {
       "type": "bitmap",
+      "file": "happyhud:font/vanilla-health/text/redw.png",
+      "height": 9,
+      "chars": [
+        ""
+      ],
+      "ascent": -58500
+    },
+    {
+      "type": "bitmap",
       "file": "happyhud:font/vanilla-health/text/nonlatin-european.png",
       "height": 8,
       "chars": [
