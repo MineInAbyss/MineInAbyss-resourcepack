@@ -1,0 +1,202 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/outline.png",
+      "height": 5,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -30500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/icon.png",
+      "height": 10,
+      "chars": [
+        "ꀁ"
+      ],
+      "ascent": -31500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/1.png",
+      "height": 5,
+      "chars": [
+        "ꀂ"
+      ],
+      "ascent": -30500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/2.png",
+      "height": 5,
+      "chars": [
+        "ꀃ"
+      ],
+      "ascent": -33500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/3.png",
+      "height": 5,
+      "chars": [
+        "ꀄ"
+      ],
+      "ascent": -34500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/4.png",
+      "height": 5,
+      "chars": [
+        "ꀅ"
+      ],
+      "ascent": -35500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/5.png",
+      "height": 5,
+      "chars": [
+        "ꀆ"
+      ],
+      "ascent": -36500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/6.png",
+      "height": 5,
+      "chars": [
+        "ꀇ"
+      ],
+      "ascent": -37500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/7.png",
+      "height": 5,
+      "chars": [
+        "ꀈ"
+      ],
+      "ascent": -38500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/8.png",
+      "height": 5,
+      "chars": [
+        "ꀉ"
+      ],
+      "ascent": -39500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/9.png",
+      "height": 5,
+      "chars": [
+        "ꀊ"
+      ],
+      "ascent": -40500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/10.png",
+      "height": 5,
+      "chars": [
+        "ꀋ"
+      ],
+      "ascent": -41500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/11.png",
+      "height": 5,
+      "chars": [
+        "ꀌ"
+      ],
+      "ascent": -42500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/12.png",
+      "height": 5,
+      "chars": [
+        "ꀍ"
+      ],
+      "ascent": -43500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/13.png",
+      "height": 5,
+      "chars": [
+        "ꀎ"
+      ],
+      "ascent": -44500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/14.png",
+      "height": 5,
+      "chars": [
+        "ꀏ"
+      ],
+      "ascent": -45500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/15.png",
+      "height": 5,
+      "chars": [
+        "ꀐ"
+      ],
+      "ascent": -46500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/16.png",
+      "height": 5,
+      "chars": [
+        "ꀑ"
+      ],
+      "ascent": -47500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/17.png",
+      "height": 5,
+      "chars": [
+        "ꀒ"
+      ],
+      "ascent": -48500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/18.png",
+      "height": 5,
+      "chars": [
+        "ꀓ"
+      ],
+      "ascent": -49500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/19.png",
+      "height": 5,
+      "chars": [
+        "ꀔ"
+      ],
+      "ascent": -50500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-absorption/fill/20.png",
+      "height": 5,
+      "chars": [
+        "ꀕ"
+      ],
+      "ascent": -51500
+    }
+  ]
+}
