@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-tokens/icon.png",
+      "height": 14,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -134500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-orthcoins/icon.png",
+      "height": 16,
+      "chars": [
+        "ꀁ"
+      ],
+      "ascent": -136500
+    }
+  ]
+}
