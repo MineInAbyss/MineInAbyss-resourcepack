@@ -106,7 +106,7 @@
       "chars": [
         "ꀋ"
       ],
-      "ascent": -24500
+      "ascent": -23500
     },
     {
       "type": "bitmap",
@@ -142,7 +142,7 @@
       "chars": [
         "ꀏ"
       ],
-      "ascent": -25500
+      "ascent": -24500
     },
     {
       "type": "bitmap",
@@ -160,7 +160,7 @@
       "chars": [
         "ꀑ"
       ],
-      "ascent": -26500
+      "ascent": -25500
     },
     {
       "type": "bitmap",
@@ -178,7 +178,7 @@
       "chars": [
         "ꀓ"
       ],
-      "ascent": -27500
+      "ascent": -26500
     },
     {
       "type": "bitmap",
@@ -187,7 +187,7 @@
       "chars": [
         "ꀔ"
       ],
-      "ascent": -28500
+      "ascent": -27500
     },
     {
       "type": "bitmap",
@@ -196,7 +196,7 @@
       "chars": [
         "ꀕ"
       ],
-      "ascent": -29500
+      "ascent": -28500
     }
   ]
 }

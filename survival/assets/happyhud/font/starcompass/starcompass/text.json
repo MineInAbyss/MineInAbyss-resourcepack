@@ -10,155 +10,155 @@
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_s.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_sse.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_se.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_ese.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_e.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_ene.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_ne.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_nne.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_n.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_nnw.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_nw.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_wnw.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_w.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_wsw.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_sw.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_ssw.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-starcompass/text/arrow_null.png",
-      "height": 16,
+      "height": 20,
       "chars": [
         ""
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
@@ -233,7 +233,7 @@
         "₦₩₫₭₮₰₱₲₳₵₶₷₸₹₺₻",
         "₼₿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
@@ -316,7 +316,7 @@
         "ᶋᶌᶍꟆᶎᶏᶐᶒᶓᶔᶕᶖᶗᶘᶙᶚ",
         "ẚ⅒⅘₨₯\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -137500
+      "ascent": -174500
     },
     {
       "type": "bitmap",
@@ -340,7 +340,7 @@
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
         "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
       ],
-      "ascent": -137500
+      "ascent": -174500
     }
   ]
 }

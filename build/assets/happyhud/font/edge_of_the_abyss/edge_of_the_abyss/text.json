@@ -14,7 +14,7 @@
       "chars": [
         ""
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
@@ -23,7 +23,7 @@
       "chars": [
         ""
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
@@ -32,7 +32,7 @@
       "chars": [
         ""
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
@@ -41,7 +41,7 @@
       "chars": [
         ""
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
@@ -50,12 +50,12 @@
       "chars": [
         ""
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-edge_of_the_abyss/text/nonlatin-european.png",
-      "height": 8,
+      "height": 9,
       "chars": [
         "¡‰­·₴≠¿×ØÞһðøþΑΒ",
         "ΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ",
@@ -125,12 +125,12 @@
         "₦₩₫₭₮₰₱₲₳₵₶₷₸₹₺₻",
         "₼₿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-edge_of_the_abyss/text/accented.png",
-      "height": 14,
+      "height": 13,
       "chars": [
         "ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏ",
         "ÐÑÒÓÔÕÖÙÚÛÜÝàáâã",
@@ -208,12 +208,12 @@
         "ᶋᶌᶍꟆᶎᶏᶐᶒᶓᶔᶕᶖᶗᶘᶙᶚ",
         "ẚ⅒⅘₨₯\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -23500
+      "ascent": -52500
     },
     {
       "type": "bitmap",
       "file": "happyhud:font/mineinabyss-edge_of_the_abyss/text/ascii.png",
-      "height": 10,
+      "height": 9,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -232,7 +232,7 @@
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
         "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
       ],
-      "ascent": -23500
+      "ascent": -52500
     }
   ]
 }

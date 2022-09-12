@@ -1,13 +1,3 @@
 {
-  "providers": [
-    {
-      "type": "bitmap",
-      "file": "happyhud:font/mineinabyss-great_fault/icon.png",
-      "height": 16,
-      "chars": [
-        "ꀀ"
-      ],
-      "ascent": -22500
-    }
-  ]
+  "providers": []
 }

@@ -1,0 +1,256 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/outline.png",
+      "height": 5,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -147500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/icon.png",
+      "height": 21,
+      "chars": [
+        "ꀁ"
+      ],
+      "ascent": -148500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/1.png",
+      "height": 5,
+      "chars": [
+        "ꀂ"
+      ],
+      "ascent": -147500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/2.png",
+      "height": 5,
+      "chars": [
+        "ꀃ"
+      ],
+      "ascent": -149500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/3.png",
+      "height": 5,
+      "chars": [
+        "ꀄ"
+      ],
+      "ascent": -150500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/4.png",
+      "height": 5,
+      "chars": [
+        "ꀅ"
+      ],
+      "ascent": -151500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/5.png",
+      "height": 5,
+      "chars": [
+        "ꀆ"
+      ],
+      "ascent": -152500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/6.png",
+      "height": 5,
+      "chars": [
+        "ꀇ"
+      ],
+      "ascent": -153500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/7.png",
+      "height": 5,
+      "chars": [
+        "ꀈ"
+      ],
+      "ascent": -154500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/8.png",
+      "height": 5,
+      "chars": [
+        "ꀉ"
+      ],
+      "ascent": -155500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/9.png",
+      "height": 5,
+      "chars": [
+        "ꀊ"
+      ],
+      "ascent": -156500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/10.png",
+      "height": 5,
+      "chars": [
+        "ꀋ"
+      ],
+      "ascent": -157500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/11.png",
+      "height": 5,
+      "chars": [
+        "ꀌ"
+      ],
+      "ascent": -158500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/12.png",
+      "height": 5,
+      "chars": [
+        "ꀍ"
+      ],
+      "ascent": -159500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/13.png",
+      "height": 5,
+      "chars": [
+        "ꀎ"
+      ],
+      "ascent": -160500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/14.png",
+      "height": 5,
+      "chars": [
+        "ꀏ"
+      ],
+      "ascent": -161500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/15.png",
+      "height": 5,
+      "chars": [
+        "ꀐ"
+      ],
+      "ascent": -162500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/16.png",
+      "height": 5,
+      "chars": [
+        "ꀑ"
+      ],
+      "ascent": -163500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/17.png",
+      "height": 5,
+      "chars": [
+        "ꀒ"
+      ],
+      "ascent": -164500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/18.png",
+      "height": 5,
+      "chars": [
+        "ꀓ"
+      ],
+      "ascent": -165500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/19.png",
+      "height": 5,
+      "chars": [
+        "ꀔ"
+      ],
+      "ascent": -166500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/20.png",
+      "height": 5,
+      "chars": [
+        "ꀕ"
+      ],
+      "ascent": -167500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/21.png",
+      "height": 5,
+      "chars": [
+        "ꀖ"
+      ],
+      "ascent": -168500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/22.png",
+      "height": 5,
+      "chars": [
+        "ꀗ"
+      ],
+      "ascent": -169500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/23.png",
+      "height": 5,
+      "chars": [
+        "ꀘ"
+      ],
+      "ascent": -170500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/24.png",
+      "height": 5,
+      "chars": [
+        "ꀙ"
+      ],
+      "ascent": -171500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/25.png",
+      "height": 5,
+      "chars": [
+        "ꀚ"
+      ],
+      "ascent": -172500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-exp/fill/26.png",
+      "height": 5,
+      "chars": [
+        "ꀛ"
+      ],
+      "ascent": -173500
+    }
+  ]
+}
