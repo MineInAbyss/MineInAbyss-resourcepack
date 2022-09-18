@@ -25,7 +25,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage1"
+        "model": "mineinabyss:blocks/nature/foliage1"
       }
     },
     {
@@ -39,7 +39,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage2"
+        "model": "mineinabyss:blocks/nature/foliage2"
       }
     },
     {
@@ -53,7 +53,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage3"
+        "model": "mineinabyss:blocks/nature/foliage3"
       }
     },
     {
@@ -67,7 +67,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage4"
+        "model": "mineinabyss:blocks/nature/foliage4"
       }
     },
     {
@@ -81,7 +81,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage5"
+        "model": "mineinabyss:blocks/nature/foliage5"
       }
     },
     {
@@ -95,7 +95,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage6"
+        "model": "mineinabyss:blocks/nature/foliage6"
       }
     },
     {
@@ -109,7 +109,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage7"
+        "model": "mineinabyss:blocks/nature/foliage7"
       }
     },
     {
@@ -123,7 +123,7 @@
         "attached": "false"
       },
       "apply": {
-        "model": "mineinabyss:block/nature/foliage8"
+        "model": "mineinabyss:blocks/nature/foliage8"
       }
     },
     {
