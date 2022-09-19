@@ -9,17 +9,8 @@
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/redw.png",
+      "file": "happyhud:font/vanilla-exp/text/nonlatin-european.png",
       "height": 9,
-      "chars": [
-        ""
-      ],
-      "ascent": -176500
-    },
-    {
-      "type": "bitmap",
-      "file": "happyhud:font/action-bar/nonlatin-european.png",
-      "height": 8,
       "chars": [
         "¡‰­·₴≠¿×ØÞһðøþΑΒ",
         "ΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣ",
@@ -89,12 +80,12 @@
         "₦₩₫₭₮₰₱₲₳₵₶₷₸₹₺₻",
         "₼₿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -176500
+      "ascent": -149500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/accented.png",
-      "height": 12,
+      "file": "happyhud:font/vanilla-exp/text/accented.png",
+      "height": 13,
       "chars": [
         "ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏ",
         "ÐÑÒÓÔÕÖÙÚÛÜÝàáâã",
@@ -172,12 +163,12 @@
         "ᶋᶌᶍꟆᶎᶏᶐᶒᶓᶔᶕᶖᶗᶘᶙᶚ",
         "ẚ⅒⅘₨₯\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -176500
+      "ascent": -149500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/action-bar/ascii.png",
-      "height": 8,
+      "file": "happyhud:font/vanilla-exp/text/ascii.png",
+      "height": 9,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -196,7 +187,7 @@
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
         "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
       ],
-      "ascent": -176500
+      "ascent": -149500
     }
   ]
 }
