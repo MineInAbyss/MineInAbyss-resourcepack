@@ -7,7 +7,7 @@
       "chars": [
         "ꀀ"
       ],
-      "ascent": -86500
+      "ascent": -88500
     },
     {
       "type": "bitmap",
@@ -16,7 +16,7 @@
       "chars": [
         "ꀁ"
       ],
-      "ascent": -87500
+      "ascent": -89500
     },
     {
       "type": "bitmap",
@@ -25,7 +25,7 @@
       "chars": [
         "ꀂ"
       ],
-      "ascent": -88500
+      "ascent": -90500
     },
     {
       "type": "bitmap",
@@ -34,7 +34,7 @@
       "chars": [
         "ꀃ"
       ],
-      "ascent": -89500
+      "ascent": -91500
     },
     {
       "type": "bitmap",
@@ -43,7 +43,7 @@
       "chars": [
         "ꀄ"
       ],
-      "ascent": -90500
+      "ascent": -92500
     },
     {
       "type": "bitmap",
@@ -52,7 +52,7 @@
       "chars": [
         "ꀅ"
       ],
-      "ascent": -91500
+      "ascent": -93500
     },
     {
       "type": "bitmap",
@@ -61,7 +61,7 @@
       "chars": [
         "ꀆ"
       ],
-      "ascent": -92500
+      "ascent": -94500
     },
     {
       "type": "bitmap",
@@ -70,7 +70,7 @@
       "chars": [
         "ꀇ"
       ],
-      "ascent": -93500
+      "ascent": -95500
     },
     {
       "type": "bitmap",
@@ -79,7 +79,7 @@
       "chars": [
         "ꀈ"
       ],
-      "ascent": -94500
+      "ascent": -96500
     },
     {
       "type": "bitmap",
@@ -88,7 +88,7 @@
       "chars": [
         "ꀉ"
       ],
-      "ascent": -95500
+      "ascent": -97500
     },
     {
       "type": "bitmap",
@@ -97,7 +97,7 @@
       "chars": [
         "ꀊ"
       ],
-      "ascent": -96500
+      "ascent": -98500
     },
     {
       "type": "bitmap",
@@ -106,7 +106,7 @@
       "chars": [
         "ꀋ"
       ],
-      "ascent": -97500
+      "ascent": -99500
     },
     {
       "type": "bitmap",
@@ -115,7 +115,7 @@
       "chars": [
         "ꀌ"
       ],
-      "ascent": -98500
+      "ascent": -100500
     },
     {
       "type": "bitmap",
@@ -124,7 +124,7 @@
       "chars": [
         "ꀍ"
       ],
-      "ascent": -107500
+      "ascent": -109500
     },
     {
       "type": "bitmap",
@@ -133,7 +133,7 @@
       "chars": [
         "ꀎ"
       ],
-      "ascent": -100500
+      "ascent": -102500
     },
     {
       "type": "bitmap",
@@ -142,7 +142,7 @@
       "chars": [
         "ꀏ"
       ],
-      "ascent": -108500
+      "ascent": -110500
     },
     {
       "type": "bitmap",
@@ -151,7 +151,7 @@
       "chars": [
         "ꀐ"
       ],
-      "ascent": -109500
+      "ascent": -111500
     },
     {
       "type": "bitmap",
@@ -160,7 +160,7 @@
       "chars": [
         "ꀑ"
       ],
-      "ascent": -110500
+      "ascent": -112500
     },
     {
       "type": "bitmap",
@@ -169,7 +169,7 @@
       "chars": [
         "ꀒ"
       ],
-      "ascent": -111500
+      "ascent": -113500
     },
     {
       "type": "bitmap",
@@ -178,7 +178,7 @@
       "chars": [
         "ꀓ"
       ],
-      "ascent": -112500
+      "ascent": -114500
     },
     {
       "type": "bitmap",
@@ -187,7 +187,7 @@
       "chars": [
         "ꀔ"
       ],
-      "ascent": -113500
+      "ascent": -115500
     },
     {
       "type": "bitmap",
@@ -196,7 +196,7 @@
       "chars": [
         "ꀕ"
       ],
-      "ascent": -114500
+      "ascent": -116500
     }
   ]
 }

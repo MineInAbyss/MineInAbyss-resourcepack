@@ -9,7 +9,25 @@
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/vanilla-exp/text/nonlatin-european.png",
+      "file": "happyhud:font/mineinabyss-orthcoins/text/orthcoin.png",
+      "height": 10,
+      "chars": [
+        ""
+      ],
+      "ascent": -54500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-orthcoins/text/mittytoken.png",
+      "height": 12,
+      "chars": [
+        ""
+      ],
+      "ascent": -54500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-orthcoins/text/nonlatin-european.png",
       "height": 9,
       "chars": [
         "¡‰­·₴≠¿×ØÞһðøþΑΒ",
@@ -80,11 +98,11 @@
         "₦₩₫₭₮₰₱₲₳₵₶₷₸₹₺₻",
         "₼₿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -151500
+      "ascent": -54500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/vanilla-exp/text/accented.png",
+      "file": "happyhud:font/mineinabyss-orthcoins/text/accented.png",
       "height": 13,
       "chars": [
         "ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏ",
@@ -163,11 +181,11 @@
         "ᶋᶌᶍꟆᶎᶏᶐᶒᶓᶔᶕᶖᶗᶘᶙᶚ",
         "ẚ⅒⅘₨₯\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
       ],
-      "ascent": -151500
+      "ascent": -54500
     },
     {
       "type": "bitmap",
-      "file": "happyhud:font/vanilla-exp/text/ascii.png",
+      "file": "happyhud:font/mineinabyss-orthcoins/text/ascii.png",
       "height": 9,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
@@ -187,7 +205,7 @@
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
         "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
       ],
-      "ascent": -151500
+      "ascent": -54500
     }
   ]
 }
