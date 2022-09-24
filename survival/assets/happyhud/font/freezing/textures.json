@@ -151,7 +151,7 @@
       "chars": [
         "ꀐ"
       ],
-      "ascent": -138500
+      "ascent": -142500
     },
     {
       "type": "bitmap",
@@ -160,7 +160,7 @@
       "chars": [
         "ꀑ"
       ],
-      "ascent": -139500
+      "ascent": -143500
     },
     {
       "type": "bitmap",
@@ -178,7 +178,7 @@
       "chars": [
         "ꀓ"
       ],
-      "ascent": -140500
+      "ascent": -144500
     },
     {
       "type": "bitmap",
@@ -187,7 +187,7 @@
       "chars": [
         "ꀔ"
       ],
-      "ascent": -141500
+      "ascent": -145500
     },
     {
       "type": "bitmap",
@@ -196,7 +196,7 @@
       "chars": [
         "ꀕ"
       ],
-      "ascent": -142500
+      "ascent": -146500
     }
   ]
 }

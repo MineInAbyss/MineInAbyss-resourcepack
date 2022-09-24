@@ -7,7 +7,7 @@
       "chars": [
         "ꀀ"
       ],
-      "ascent": -54500
+      "ascent": -56500
     },
     {
       "type": "bitmap",
@@ -16,7 +16,7 @@
       "chars": [
         "ꀁ"
       ],
-      "ascent": -55500
+      "ascent": -57500
     },
     {
       "type": "bitmap",
@@ -25,7 +25,7 @@
       "chars": [
         "ꀂ"
       ],
-      "ascent": -56500
+      "ascent": -58500
     },
     {
       "type": "bitmap",
@@ -34,7 +34,7 @@
       "chars": [
         "ꀃ"
       ],
-      "ascent": -57500
+      "ascent": -59500
     },
     {
       "type": "bitmap",
@@ -43,7 +43,7 @@
       "chars": [
         "ꀄ"
       ],
-      "ascent": -58500
+      "ascent": -60500
     },
     {
       "type": "bitmap",
@@ -52,7 +52,7 @@
       "chars": [
         "ꀅ"
       ],
-      "ascent": -59500
+      "ascent": -61500
     },
     {
       "type": "bitmap",
@@ -61,7 +61,7 @@
       "chars": [
         "ꀆ"
       ],
-      "ascent": -60500
+      "ascent": -62500
     },
     {
       "type": "bitmap",
@@ -70,7 +70,7 @@
       "chars": [
         "ꀇ"
       ],
-      "ascent": -61500
+      "ascent": -63500
     },
     {
       "type": "bitmap",
@@ -79,7 +79,7 @@
       "chars": [
         "ꀈ"
       ],
-      "ascent": -62500
+      "ascent": -64500
     },
     {
       "type": "bitmap",
@@ -88,7 +88,7 @@
       "chars": [
         "ꀉ"
       ],
-      "ascent": -63500
+      "ascent": -65500
     },
     {
       "type": "bitmap",
@@ -97,7 +97,7 @@
       "chars": [
         "ꀊ"
       ],
-      "ascent": -64500
+      "ascent": -66500
     },
     {
       "type": "bitmap",
@@ -106,7 +106,7 @@
       "chars": [
         "ꀋ"
       ],
-      "ascent": -54500
+      "ascent": -56500
     }
   ]
 }
