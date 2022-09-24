@@ -1,0 +1,112 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/outline.png",
+      "height": 60,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -54500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/icon.png",
+      "height": 85,
+      "chars": [
+        "ꀁ"
+      ],
+      "ascent": -55500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/1.png",
+      "height": 6,
+      "chars": [
+        "ꀂ"
+      ],
+      "ascent": -56500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/2.png",
+      "height": 6,
+      "chars": [
+        "ꀃ"
+      ],
+      "ascent": -57500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/3.png",
+      "height": 6,
+      "chars": [
+        "ꀄ"
+      ],
+      "ascent": -58500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/4.png",
+      "height": 6,
+      "chars": [
+        "ꀅ"
+      ],
+      "ascent": -59500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/5.png",
+      "height": 6,
+      "chars": [
+        "ꀆ"
+      ],
+      "ascent": -60500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/6.png",
+      "height": 6,
+      "chars": [
+        "ꀇ"
+      ],
+      "ascent": -61500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/7.png",
+      "height": 6,
+      "chars": [
+        "ꀈ"
+      ],
+      "ascent": -62500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/8.png",
+      "height": 6,
+      "chars": [
+        "ꀉ"
+      ],
+      "ascent": -63500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/9.png",
+      "height": 6,
+      "chars": [
+        "ꀊ"
+      ],
+      "ascent": -64500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/vanilla-air/fill/10.png",
+      "height": 6,
+      "chars": [
+        "ꀋ"
+      ],
+      "ascent": -54500
+    }
+  ]
+}

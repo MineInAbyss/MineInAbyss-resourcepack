@@ -1,0 +1,202 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/outline.png",
+      "height": 5,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -1500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/icon.png",
+      "height": 10,
+      "chars": [
+        "ꀁ"
+      ],
+      "ascent": -2500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/1.png",
+      "height": 5,
+      "chars": [
+        "ꀂ"
+      ],
+      "ascent": -1500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/2.png",
+      "height": 5,
+      "chars": [
+        "ꀃ"
+      ],
+      "ascent": -3500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/3.png",
+      "height": 5,
+      "chars": [
+        "ꀄ"
+      ],
+      "ascent": -4500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/4.png",
+      "height": 5,
+      "chars": [
+        "ꀅ"
+      ],
+      "ascent": -5500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/5.png",
+      "height": 5,
+      "chars": [
+        "ꀆ"
+      ],
+      "ascent": -6500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/6.png",
+      "height": 5,
+      "chars": [
+        "ꀇ"
+      ],
+      "ascent": -7500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/7.png",
+      "height": 5,
+      "chars": [
+        "ꀈ"
+      ],
+      "ascent": -8500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/8.png",
+      "height": 5,
+      "chars": [
+        "ꀉ"
+      ],
+      "ascent": -9500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/9.png",
+      "height": 5,
+      "chars": [
+        "ꀊ"
+      ],
+      "ascent": -10500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/10.png",
+      "height": 5,
+      "chars": [
+        "ꀋ"
+      ],
+      "ascent": -11500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/11.png",
+      "height": 5,
+      "chars": [
+        "ꀌ"
+      ],
+      "ascent": -12500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/12.png",
+      "height": 5,
+      "chars": [
+        "ꀍ"
+      ],
+      "ascent": -13500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/13.png",
+      "height": 5,
+      "chars": [
+        "ꀎ"
+      ],
+      "ascent": -14500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/14.png",
+      "height": 5,
+      "chars": [
+        "ꀏ"
+      ],
+      "ascent": -15500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/15.png",
+      "height": 9,
+      "chars": [
+        "ꀐ"
+      ],
+      "ascent": -138500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/16.png",
+      "height": 10,
+      "chars": [
+        "ꀑ"
+      ],
+      "ascent": -139500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/17.png",
+      "height": 5,
+      "chars": [
+        "ꀒ"
+      ],
+      "ascent": -18500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/18.png",
+      "height": 8,
+      "chars": [
+        "ꀓ"
+      ],
+      "ascent": -140500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/19.png",
+      "height": 12,
+      "chars": [
+        "ꀔ"
+      ],
+      "ascent": -141500
+    },
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/effect-freezing/fill/20.png",
+      "height": 9,
+      "chars": [
+        "ꀕ"
+      ],
+      "ascent": -142500
+    }
+  ]
+}

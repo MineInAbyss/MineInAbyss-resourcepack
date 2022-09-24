@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "happyhud:font/mineinabyss-depth/icon.png",
+      "height": 15,
+      "chars": [
+        "ꀀ"
+      ],
+      "ascent": -136500
+    }
+  ]
+}
