@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"5": "characters/marulk/marulk_pouch",
-		"6": "characters/marulk/marulk_hat"
+		"5": "mineinabyss:cosmetics/marulk/pouch",
+		"6": "mineinabyss:cosmetics/marulk/hat"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "characters/reg/reg_part1",
-		"particle": "characters/reg/reg_part1"
+		"0": "mineinabyss:cosmetics/reg/part1",
+		"particle": "mineinabyss:cosmetics/reg/part1"
 	},
 	"elements": [
 		{

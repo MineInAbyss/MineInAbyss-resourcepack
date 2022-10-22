@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "characters/prushka/prushka_hat_1",
-		"5": "characters/prushka/prushka_hat_2"
+		"4": "mineinabyss:cosmetics/prushka/hat_1",
+		"5": "mineinabyss:cosmetics/prushka/hat_2"
 	},
 	"elements": [
 		{
