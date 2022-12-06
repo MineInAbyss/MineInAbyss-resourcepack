@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "": [
-      { "model": "mineinabyss:blocks/eternal_fortune/eternal_fortune", "weight": 4 },
-      { "model": "mineinabyss:blocks/eternal_fortune/eternal_fortune3" },
-      { "model": "mineinabyss:blocks/eternal_fortune/eternal_fortune8" }
-    ]
-  }
-}

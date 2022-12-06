@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "mineinabyss:blocks/building/cut_diorite_pillar",
+    "end": "mineinabyss:blocks/building/cut_diorite_pillar_top"
+  }
+}

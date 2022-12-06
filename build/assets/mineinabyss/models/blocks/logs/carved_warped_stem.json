@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "mineinabyss:blocks/logs/carved_warped_stem",
+    "end": "mineinabyss:blocks/logs/carved_warped_stem_top"
+  }
+}
