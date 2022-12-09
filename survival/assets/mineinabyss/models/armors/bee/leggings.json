@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "mineinabyss:armors/bee/leggings",
-    "layer1": "mineinabyss:armors/bee/leggings"
-  }
-}

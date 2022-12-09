@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "w11shes_furniture_pack/dark_cupboard_open",
+	"textures": {
+		"0": "hmcmodels:furniture/w11shes_furniture_pack/light_cupboard"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [16, 0, -43.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

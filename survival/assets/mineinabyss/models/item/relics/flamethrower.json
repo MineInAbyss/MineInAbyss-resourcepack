@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "mineinabyss:relics/flamethrower",
-		"particle": "mineinabyss:relics/flamethrower"
+		"0": "mineinabyss:item/relics/flamethrower",
+		"particle": "mineinabyss:item/relics/flamethrower"
 	},
 	"elements": [
 		{

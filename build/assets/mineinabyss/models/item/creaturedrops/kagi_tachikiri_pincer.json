@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:creaturedrops/kagi_tachikiri_pincer"
+		"layer0": "mineinabyss:item/creaturedrops/kagi_tachikiri_pincer"
 	}
 }

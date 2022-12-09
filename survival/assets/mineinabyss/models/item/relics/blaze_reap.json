@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:relics/blaze_reap",
-		"particle": "mineinabyss:relics/blaze_reap"
+		"0": "mineinabyss:item/relics/blaze_reap",
+		"particle": "mineinabyss:item/relics/blaze_reap"
 	},
 	"elements": [
 		{

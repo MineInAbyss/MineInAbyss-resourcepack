@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:creaturedrops/dosetori_wingflap"
+		"layer0": "mineinabyss:item/creaturedrops/dosetori_wingflap"
 	}
 }

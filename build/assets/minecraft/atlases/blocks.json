@@ -1,0 +1,25 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "furniture",
+            "prefix": "furniture/"
+        },
+        {
+            "type": "directory",
+            "source": "block",
+            "prefix": "block/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        }
+    ]
+}
+

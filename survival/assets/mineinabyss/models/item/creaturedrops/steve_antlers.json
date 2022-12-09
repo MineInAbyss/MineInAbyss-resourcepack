@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mineinabyss:creaturedrops/steve_antlers"
+    "layer0": "mineinabyss:item/creaturedrops/steve_antlers"
   }
 }

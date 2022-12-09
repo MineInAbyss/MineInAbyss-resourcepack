@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "mineinabyss:cosmetics/nanachi/hair",
-		"4": "mineinabyss:cosmetics/nanachi/parts",
-		"5": "mineinabyss:cosmetics/nanachi/base",
-		"6": "mineinabyss:cosmetics/nanachi/beginning",
-		"7": "mineinabyss:cosmetics/nanachi/fur",
-		"particle": "mineinabyss:cosmetics/nanachi/parts"
+		"3": "mineinabyss:item/cosmetics/nanachi/hair",
+		"4": "mineinabyss:item/cosmetics/nanachi/parts",
+		"5": "mineinabyss:item/cosmetics/nanachi/base",
+		"6": "mineinabyss:item/cosmetics/nanachi/beginning",
+		"7": "mineinabyss:item/cosmetics/nanachi/fur",
+		"particle": "mineinabyss:item/cosmetics/nanachi/parts"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:other/statue_base",
-		"1": "mineinabyss:other/statue",
-		"particle": "mineinabyss:other/statue_base"
+		"0": "mineinabyss:item/other/statue_base",
+		"1": "mineinabyss:item/other/statue",
+		"particle": "mineinabyss:item/other/statue_base"
 	},
 	"elements": [
 		{

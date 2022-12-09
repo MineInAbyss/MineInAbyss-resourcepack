@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "mineinabyss:blocks/ores/charcoal_sand_ore"
-    }
-}

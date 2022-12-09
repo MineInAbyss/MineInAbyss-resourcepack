@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "side": "mineinabyss:blocks/logs/carved_birch_log",
-    "end": "mineinabyss:blocks/logs/carved_birch_log_top"
-  }
-}

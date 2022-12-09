@@ -1,6 +1,6 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer0":"mineinabyss:creaturedrops/okibo_leather"
+    "layer0":"mineinabyss:item/creaturedrops/okibo_leather"
   }
 }

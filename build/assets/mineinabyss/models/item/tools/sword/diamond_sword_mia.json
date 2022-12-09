@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:tools/diamond_tools_mia",
-		"particle": "mineinabyss:tools/diamond_tools_mia"
+		"0": "mineinabyss:item/tools/diamond_tools_mia",
+		"particle": "mineinabyss:item/tools/diamond_tools_mia"
 	},
 	"elements": [
 		{

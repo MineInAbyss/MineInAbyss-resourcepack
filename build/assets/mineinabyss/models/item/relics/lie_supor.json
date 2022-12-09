@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [3, 12],
 	"textures": {
-		"0": "mineinabyss:relics/lie_supor",
-		"particle": "mineinabyss:relics/lie_supor"
+		"0": "mineinabyss:item/relics/lie_supor",
+		"particle": "mineinabyss:item/relics/lie_supor"
 	},
 	"elements": [
 		{

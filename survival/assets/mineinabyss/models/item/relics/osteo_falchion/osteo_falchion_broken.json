@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "mineinabyss:relics/osteo_falchion/osteo_falchion_broken"
+		"3": "mineinabyss:item/relics/osteo_falchion/osteo_falchion_broken"
 	},
 	"elements": [
 		{

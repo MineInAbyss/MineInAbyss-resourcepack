@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "mineinabyss:blocks/nature/foliage1",
-    "particle": "mineinabyss:blocks/nature/foliage1"
-  }
-}

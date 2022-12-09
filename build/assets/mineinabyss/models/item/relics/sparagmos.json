@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:equipment/incinerator",
-		"particle": "mineinabyss:equipment/incinerator"
+		"0": "mineinabyss:item/equipment/incinerator",
+		"particle": "mineinabyss:item/equipment/incinerator"
 	},
 	"elements": [
 		{
