@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:tools/explosive_arrow",
-		"particle": "mineinabyss:tools/explosive_arrow"
+		"0": "mineinabyss:item/tools/explosive_arrow",
+		"particle": "mineinabyss:item/tools/explosive_arrow"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:other/air_pattern",
-		"particle": "mineinabyss:other/air_pattern"
+		"0": "mineinabyss:item/other/air_pattern",
+		"particle": "mineinabyss:item/other/air_pattern"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [16, 48],
 	"textures": {
-		"0": "mineinabyss:relics/sonic_stone",
-		"particle": "mineinabyss:relics/sonic_stone"
+		"0": "mineinabyss:item/relics/sonic_stone",
+		"particle": "mineinabyss:item/relics/sonic_stone"
 	},
 	"elements": [
 		{

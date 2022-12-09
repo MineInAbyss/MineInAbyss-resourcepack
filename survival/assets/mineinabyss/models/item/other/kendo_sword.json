@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:other/kendo_sword",
-		"particle": "mineinabyss:other/kendo_sword"
+		"0": "mineinabyss:item/other/kendo_sword",
+		"particle": "mineinabyss:item/other/kendo_sword"
 	},
 	"elements": [
 		{

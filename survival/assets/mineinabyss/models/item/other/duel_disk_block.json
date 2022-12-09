@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:other/duel_disk_1",
-		"particle": "mineinabyss:other/duel_disk_1"
+		"0": "mineinabyss:item/other/duel_disk_1",
+		"particle": "mineinabyss:item/other/duel_disk_1"
 	},
 	"elements": [
 		{

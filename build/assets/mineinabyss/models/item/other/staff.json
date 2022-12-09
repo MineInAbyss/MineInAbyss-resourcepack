@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:other/staff_shaft",
-		"1": "mineinabyss:other/staff_stone",
-		"particle": "mineinabyss:other/staff_shaft"
+		"0": "mineinabyss:item/other/staff_shaft",
+		"1": "mineinabyss:item/other/staff_stone",
+		"particle": "mineinabyss:item/other/staff_shaft"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:relics/whistle/red_whistle"
+		"0": "mineinabyss:item/relics/whistle/red_whistle"
 	},
 	"elements": [
 		{

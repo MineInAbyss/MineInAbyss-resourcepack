@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:cosmetics/lyza/head",
-		"5": "mineinabyss:cosmetics/lyza/feather"
+		"0": "mineinabyss:item/cosmetics/lyza/head",
+		"5": "mineinabyss:item/cosmetics/lyza/feather"
 	},
 	"elements": [
 		{

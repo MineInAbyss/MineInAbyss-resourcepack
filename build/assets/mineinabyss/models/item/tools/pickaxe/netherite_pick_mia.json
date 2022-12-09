@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "mineinabyss:tools/wood_tools",
-		"5": "mineinabyss:tools/netherite_tools",
-		"particle": "mineinabyss:tools/netherite_tools"
+		"4": "mineinabyss:item/tools/wood_tools",
+		"5": "mineinabyss:item/tools/netherite_tools",
+		"particle": "mineinabyss:item/tools/netherite_tools"
 	},
 	"elements": [
 		{

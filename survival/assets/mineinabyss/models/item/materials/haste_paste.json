@@ -1,6 +1,6 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer0":"mineinabyss:materials/haste_paste"
+    "layer0":"mineinabyss:item/materials/haste_paste"
   }
 }

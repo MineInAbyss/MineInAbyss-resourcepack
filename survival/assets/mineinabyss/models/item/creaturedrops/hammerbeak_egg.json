@@ -1,6 +1,6 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer0":"mineinabyss:creaturedrops/hammerbeak_egg"
+    "layer0":"mineinabyss:item/creaturedrops/hammerbeak_egg"
   }
 }

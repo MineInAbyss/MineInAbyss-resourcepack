@@ -5,7 +5,7 @@
     "layer1": "item/leather_helmet_overlay"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:armors/copper/helmet" },
-    {  "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:armors/bee/helmet" }
+    { "predicate": { "custom_model_data": 1 }, "model": "mineinabyss:item/armors/copper/helmet" },
+    {  "predicate": { "custom_model_data": 2 }, "model": "mineinabyss:item/armors/bee/helmet" }
   ]
 }

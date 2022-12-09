@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:creaturedrops/virinsipede_horn"
+		"layer0": "mineinabyss:item/creaturedrops/virinsipede_horn"
 	}
 }

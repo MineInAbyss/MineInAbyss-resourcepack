@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:equipment/hook_base",
-		"1": "mineinabyss:equipment/hook",
-		"1_0": "mineinabyss:equipment/climbingrig",
-		"particle": "mineinabyss:equipment/climbingrig"
+		"0": "mineinabyss:item/equipment/hook_base",
+		"1": "mineinabyss:item/equipment/hook",
+		"1_0": "mineinabyss:item/equipment/climbingrig",
+		"particle": "mineinabyss:item/equipment/climbingrig"
 	},
 	"elements": [
 		{

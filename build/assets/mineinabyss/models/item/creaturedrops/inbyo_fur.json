@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:creaturedrops/inbyo_fur"
+		"layer0": "mineinabyss:item/creaturedrops/inbyo_fur"
 	}
 }

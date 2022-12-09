@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:creaturedrops/urikouri_antenna"
+		"layer0": "mineinabyss:item/creaturedrops/urikouri_antenna"
 	}
 }

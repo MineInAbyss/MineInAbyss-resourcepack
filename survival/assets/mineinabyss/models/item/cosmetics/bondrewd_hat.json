@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mineinabyss:cosmetics/bondrewd/head",
-		"9": "mineinabyss:cosmetics/bondrewd/accessories",
-		"particle": "mineinabyss:cosmetics/bondrewd/head"
+		"0": "mineinabyss:item/cosmetics/bondrewd/head",
+		"9": "mineinabyss:item/cosmetics/bondrewd/accessories",
+		"particle": "mineinabyss:item/cosmetics/bondrewd/head"
 	},
 	"elements": [
 		{

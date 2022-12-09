@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [16, 99],
 	"textures": {
-		"0": "mineinabyss:relics/flash_cannon",
-		"particle": "mineinabyss:relics/flash_cannon"
+		"0": "mineinabyss:item/relics/flash_cannon",
+		"particle": "mineinabyss:item/relics/flash_cannon"
 	},
 	"elements": [
 		{

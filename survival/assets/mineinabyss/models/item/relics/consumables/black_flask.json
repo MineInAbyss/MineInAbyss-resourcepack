@@ -1,7 +1,7 @@
 {
   "parent":"item/generated",
   "textures":{
-    "layer1":"mineinabyss:relics/consumables/black_flask",
-    "layer0":"mineinabyss:relics/consumables/black_flask"
+    "layer1":"mineinabyss:item/relics/consumables/black_flask",
+    "layer0":"mineinabyss:item/relics/consumables/black_flask"
   }
 }

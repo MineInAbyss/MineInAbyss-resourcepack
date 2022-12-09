@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"11": "mineinabyss:cosmetics/habo/hat"
+		"11": "mineinabyss:item/cosmetics/habo/hat"
 	},
 	"elements": [
 		{

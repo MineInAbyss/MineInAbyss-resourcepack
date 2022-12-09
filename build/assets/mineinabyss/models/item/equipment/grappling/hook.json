@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "mineinabyss:equipment/hook_base",
-    "1": "mineinabyss:equipment/hook",
-    "particle": "mineinabyss:equipment/hook_base"
+    "0": "mineinabyss:item/equipment/hook_base",
+    "1": "mineinabyss:item/equipment/hook",
+    "particle": "mineinabyss:item/equipment/hook_base"
   },
   "elements": [
     {

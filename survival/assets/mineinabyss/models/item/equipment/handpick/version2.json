@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:equipment/handle_dark",
-		"1": "mineinabyss:equipment/head_bright",
-		"2": "mineinabyss:equipment/wood",
-		"particle": "mineinabyss:equipment/handle_dark"
+		"0": "mineinabyss:item/equipment/handle_dark",
+		"1": "mineinabyss:item/equipment/head_bright",
+		"2": "mineinabyss:item/equipment/wood",
+		"particle": "mineinabyss:item/equipment/handle_dark"
 	},
 	"elements": [
 		{

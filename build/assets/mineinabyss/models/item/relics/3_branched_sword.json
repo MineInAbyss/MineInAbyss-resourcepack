@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:relics/3_branched_sword",
-		"particle": "mineinabyss:relics/3_branched_sword"
+		"0": "mineinabyss:item/relics/3_branched_sword",
+		"particle": "mineinabyss:item/relics/3_branched_sword"
 	},
 	"elements": [
 		{

@@ -286,12 +286,12 @@
 	},
 	"equipment.backpack.open": {
 		"sounds": [
-			"mineinabyss:equipment/backpack/open"
+			"mineinabyss:item/equipment/backpack/open"
 		]
 	},
 	"equipment.backpack.close": {
 		"sounds": [
-			"mineinabyss:equipment/backpack/close"
+			"mineinabyss:item/equipment/backpack/close"
 		]
 	},
 	"music.custom.noteblock.deepinabyss": {

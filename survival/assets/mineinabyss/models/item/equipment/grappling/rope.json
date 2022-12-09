@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1_0": "mineinabyss:equipment/climbingrig",
-		"particle": "mineinabyss:equipment/climbingrig"
+		"1_0": "mineinabyss:item/equipment/climbingrig",
+		"particle": "mineinabyss:item/equipment/climbingrig"
 	},
 	"elements": [
 		{

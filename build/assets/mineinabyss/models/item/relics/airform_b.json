@@ -1,6 +1,6 @@
 {
 	"parent":"item/generated",
 	"textures":{
-		"layer0":"mineinabyss:relics/airform_b"
+		"layer0":"mineinabyss:item/relics/airform_b"
 	}
 }

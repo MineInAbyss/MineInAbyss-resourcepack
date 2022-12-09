@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:relics/star_compass/10"
+		"layer0": "mineinabyss:item/relics/star_compass/10"
 	}
 }

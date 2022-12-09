@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "mineinabyss:creaturedrops/uibuta_tooth"
+    "layer0": "mineinabyss:item/creaturedrops/uibuta_tooth"
   }
 }

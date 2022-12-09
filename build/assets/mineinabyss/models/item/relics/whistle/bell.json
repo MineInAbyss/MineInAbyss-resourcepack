@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:relics/whistle/bell",
-		"2": "mineinabyss:relics/whistle/bell_end",
-		"3": "mineinabyss:relics/whistle/bell_top",
-		"4": "mineinabyss:relics/whistle/bell_bottom",
-		"particle": "mineinabyss:relics/whistle/bell"
+		"0": "mineinabyss:item/relics/whistle/bell",
+		"2": "mineinabyss:item/relics/whistle/bell_end",
+		"3": "mineinabyss:item/relics/whistle/bell_top",
+		"4": "mineinabyss:item/relics/whistle/bell_bottom",
+		"particle": "mineinabyss:item/relics/whistle/bell"
 	},
 	"elements": [
 		{

@@ -1,4 +1,7 @@
 {
+  "itemGroup.morecreativetabs.blocky_block_tab": "Blocky Blocks",
+  "itemGroup.morecreativetabs.blocky_wire_tab": "Blocky Plants",
+  "itemGroup.morecreativetabs.blocky_furniture_tab": "Blocky Furniture",
   "language.region": "Orth",
   "gui.recipebook.moreRecipes": "§7Right Click for more",
   "gui.recipebook.toggleRecipes.all": "§cShowing all",
