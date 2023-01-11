@@ -43,6 +43,17 @@
     { "predicate": {"custom_model_data": 125}, "model": "mineinabyss:item/relics/star_compass/star_compass"},
     { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"},
 
+    {"predicate": {"custom_model_data": 500}, "model": "hmcwraps:wrappers/unwrapper"},
+    {"predicate": {"custom_model_data": 501}, "model": "hmcwraps:wrappers/sword_wrapper_icon"},
+    {"predicate": {"custom_model_data": 502}, "model": "hmcwraps:wrappers/shield_wrapper_icon"},
+    {"predicate": {"custom_model_data": 503}, "model": "hmcwraps:wrappers/shovel_wrapper_icon"},
+    {"predicate": {"custom_model_data": 504}, "model": "hmcwraps:wrappers/pickaxe_wrapper_icon"},
+    {"predicate": {"custom_model_data": 505}, "model": "hmcwraps:wrappers/fishing_rod_wrapper_icon"},
+    {"predicate": {"custom_model_data": 506}, "model": "hmcwraps:wrappers/hoe_wrapper_icon"},
+    {"predicate": {"custom_model_data": 507}, "model": "hmcwraps:wrappers/axe_wrapper_icon"},
+    {"predicate": {"custom_model_data": 508}, "model": "hmcwraps:wrappers/bow_wrapper_icon"},
+    {"predicate": {"custom_model_data": 509}, "model": "hmcwraps:wrappers/trident_wrapper_icon"},
+
     {"predicate": {"custom_model_data": 1000}, "model": "mineinabyss:furniture/stone_bench"},
     {"predicate": {"custom_model_data": 1001}, "model": "mineinabyss:furniture/sunny_wood_chair"},
     {"predicate": {"custom_model_data": 1002}, "model": "hmcmodels:furniture/bamboo_furniture/bamboo_drawer"},

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "nazarick:entity/albedo",
-		"particle": "nazarick:entity/albedo"
+		"0": "nazarick:npc/albedo",
+		"particle": "nazarick:npc/albedo"
 	},
 	"elements": [
 		{

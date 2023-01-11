@@ -17,8 +17,18 @@
         },
         {
             "type": "directory",
+            "source": "wrappers",
+            "prefix": "wrappers/"
+        },
+        {
+            "type": "directory",
             "source": "entity",
             "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "npc",
+            "prefix": "npc/"
         }
     ]
 }

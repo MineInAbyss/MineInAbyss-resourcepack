@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "hmcwraps:wrappers/trident_wrapper_icon"
+    }
+  }
