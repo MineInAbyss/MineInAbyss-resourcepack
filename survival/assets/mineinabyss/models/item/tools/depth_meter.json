@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "mineinabyss:item/tools/depth_meter"
-	}
-}

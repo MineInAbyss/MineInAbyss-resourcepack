@@ -1,9 +1,0 @@
-{
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/nautilus_shell"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/abyssal_snail_shell"}
-	]
-}
