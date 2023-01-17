@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:item/equipment/helmet main",
+		"0": "mineinabyss:item/equipment/helmet_main",
 		"1": "mineinabyss:item/equipment/handle_paper",
-		"2": "mineinabyss:item/equipment/texture3",
-		"particle": "mineinabyss:item/equipment/helmet main"
+		"2": "mineinabyss:item/equipment/helmet_lamp",
+		"particle": "mineinabyss:item/equipment/helmet_main"
 	},
 	"elements": [
 		{
