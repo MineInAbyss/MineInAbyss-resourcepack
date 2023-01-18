@@ -2,11 +2,6 @@
   "sources": [
     {
       "type": "directory",
-      "source": "item",
-      "prefix": "item/"
-    },
-    {
-      "type": "directory",
       "source": "painting",
       "prefix": "painting/"
     },
@@ -24,11 +19,6 @@
       "type": "directory",
       "source": "ui",
       "prefix": "ui/"
-    },
-    {
-      "type": "directory",
-      "source": "entity",
-      "prefix": "entity/"
     },
     {
       "type": "directory",
@@ -52,11 +42,6 @@
     },
     {
       "type": "directory",
-      "source": "block",
-      "prefix": "block/"
-    },
-    {
-      "type": "directory",
       "source": "mob_effect",
       "prefix": "mob_effect/"
     },
@@ -72,8 +57,8 @@
     },
     {
       "type": "directory",
-      "source": "entity",
-      "prefix": "entity/"
+      "source": "mobs",
+      "prefix": "mobs/"
     },
     {
       "type": "directory",
@@ -81,18 +66,9 @@
       "prefix": "npc/"
     },
     {
-      "type": "filter",
-      "namespace": "realms"
-    },
-    {
-      "type": "filter",
-      "namespace": "minecraft",
-      "path": "gui"
-    },
-    {
-      "type": "filter",
-      "namespace": "minecraft",
-      "path": "font"
+      "type": "directory",
+      "source": "relics",
+      "prefix": "relics/"
     }
   ]
 }
