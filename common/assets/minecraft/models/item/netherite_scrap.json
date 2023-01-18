@@ -5,7 +5,6 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/stingerhead_scale"},
-		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/stingerhead_scale2"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/stingerhead_scale"}
 	]
 }
