@@ -29,6 +29,20 @@
             "type": "directory",
             "source": "npc",
             "prefix": "npc/"
+        },
+        {
+            "type": "filter",
+            "namespace": "realms"
+        },
+        {
+            "type": "filter",
+            "namespace": "minecraft",
+            "path": "gui"
+        },
+        {
+            "type": "filter",
+            "namespace": "minecraft",
+            "path": "font"
         }
     ]
 }

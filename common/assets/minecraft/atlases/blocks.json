@@ -1,1 +1,98 @@
-{"sources":[{"type":"directory","source":"item","prefix":"item/"},{"type":"directory","source":"painting","prefix":"painting/"},{"type":"directory","source":"font","prefix":"font/"},{"type":"directory","source":"emotes","prefix":"emotes/"},{"type":"directory","source":"ui","prefix":"ui/"},{"type":"directory","source":"entity","prefix":"entity/"},{"type":"directory","source":"gui","prefix":"gui/"},{"type":"directory","source":"whistles","prefix":"whistles/"},{"type":"directory","source":"models","prefix":"models/"},{"type":"directory","source":"environment","prefix":"environment/"},{"type":"directory","source":"block","prefix":"block/"},{"type":"directory","source":"mob_effect","prefix":"mob_effect/"},{"type":"directory","source":"misc","prefix":"misc/"},{"type": "directory",  "source": "wrappers", "prefix": "wrappers/"}, {"type": "directory", "source": "entity", "prefix": "entity/"}, {"type": "directory", "source": "npc", "prefix": "npc/"}]}
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
+      "source": "painting",
+      "prefix": "painting/"
+    },
+    {
+      "type": "directory",
+      "source": "font",
+      "prefix": "font/"
+    },
+    {
+      "type": "directory",
+      "source": "emotes",
+      "prefix": "emotes/"
+    },
+    {
+      "type": "directory",
+      "source": "ui",
+      "prefix": "ui/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+      "type": "directory",
+      "source": "gui",
+      "prefix": "gui/"
+    },
+    {
+      "type": "directory",
+      "source": "whistles",
+      "prefix": "whistles/"
+    },
+    {
+      "type": "directory",
+      "source": "models",
+      "prefix": "models/"
+    },
+    {
+      "type": "directory",
+      "source": "environment",
+      "prefix": "environment/"
+    },
+    {
+      "type": "directory",
+      "source": "block",
+      "prefix": "block/"
+    },
+    {
+      "type": "directory",
+      "source": "mob_effect",
+      "prefix": "mob_effect/"
+    },
+    {
+      "type": "directory",
+      "source": "misc",
+      "prefix": "misc/"
+    },
+    {
+      "type": "directory",
+      "source": "wrappers",
+      "prefix": "wrappers/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+      "type": "directory",
+      "source": "npc",
+      "prefix": "npc/"
+    },
+    {
+      "type": "filter",
+      "namespace": "realms"
+    },
+    {
+      "type": "filter",
+      "namespace": "minecraft",
+      "path": "gui"
+    },
+    {
+      "type": "filter",
+      "namespace": "minecraft",
+      "path": "font"
+    }
+  ]
+}

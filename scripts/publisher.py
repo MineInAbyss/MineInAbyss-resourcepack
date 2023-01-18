@@ -23,12 +23,7 @@ def minify(file_name: str):
     return json.dumps(json_data, separators=(',', ":"))  # Compact JSON structure
 
 
-def isdir(z, name):
-    return any(x.startswith("%s/" % name.replace("/")) for x in z.namelist())
-
-
 def compileFilesIntoZips(root_folder, zipFolder):
-    print(zipFolder.namelist())
     for root, dirs, files in os.walk(root_dir / root_folder):
         for file in files:
             if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
