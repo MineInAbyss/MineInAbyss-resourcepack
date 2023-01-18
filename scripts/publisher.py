@@ -59,9 +59,14 @@ print("Create zip file for build and add minified json into it")
 zipB = zipfile.ZipFile(output_dir / "MineInAbyss-Build-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
 compileFilesIntoZips("build/", zipB)
 
+print("Create zip file for dev and add minified json into it")
+zipD = zipfile.ZipFile(output_dir / "MineInAbyss-Dev-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
+compileFilesIntoZips("dev/", zipD)
+
 print("Merge common content into all packs")
 compileFilesIntoZips("common/", zipS)
 compileFilesIntoZips("common/", zipB)
+compileFilesIntoZips("common/", zipD)
 
 print("Edit pack.mcmeta to be the correct version from github actions")
 survivalMcMeta = open(root_dir / 'pack.mcmeta', "rt")
