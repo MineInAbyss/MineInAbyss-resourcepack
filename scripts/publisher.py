@@ -23,7 +23,12 @@ def minify(file_name: str):
     return json.dumps(json_data, separators=(',', ":"))  # Compact JSON structure
 
 
-def compileFilesIntoZips(root_folder, zipFolder, write_folder):
+def isdir(z, name):
+    return any(x.startswith("%s/" % name.replace("/")) for x in z.namelist())
+
+
+def compileFilesIntoZips(root_folder, zipFolder):
+    print(zipFolder.namelist())
     for root, dirs, files in os.walk(root_dir / root_folder):
         for file in files:
             if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
@@ -31,7 +36,9 @@ def compileFilesIntoZips(root_folder, zipFolder, write_folder):
             if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
                 continue
             read_path = Path(root) / file
-            write_path = read_path.relative_to(root_dir / write_folder)
+            write_path = read_path.relative_to(root_dir / root_folder)
+            if str(write_path).replace("\\", "/") in zipFolder.namelist():
+                continue
             if file.endswith(".json"):
                 try:
                     minified = minify(read_path)
@@ -51,15 +58,15 @@ print("Got version: " + version)
 
 print("Create zip file for survival and add minified json into it")
 zipS = zipfile.ZipFile(output_dir / "MineInAbyss-Survival-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
-compileFilesIntoZips("survival/", zipS, "survival/")
+compileFilesIntoZips("survival/", zipS)
 
 print("Create zip file for build and add minified json into it")
 zipB = zipfile.ZipFile(output_dir / "MineInAbyss-Build-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
-compileFilesIntoZips("build/", zipB, "build/")
+compileFilesIntoZips("build/", zipB)
 
 print("Merge common content into all packs")
-compileFilesIntoZips("common/", zipS, "survival/")
-compileFilesIntoZips("common/", zipB, "build/")
+compileFilesIntoZips("common/", zipS)
+compileFilesIntoZips("common/", zipB)
 
 print("Edit pack.mcmeta to be the correct version from github actions")
 survivalMcMeta = open(root_dir / 'pack.mcmeta', "rt")
