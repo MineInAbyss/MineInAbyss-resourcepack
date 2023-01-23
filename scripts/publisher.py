@@ -12,17 +12,36 @@ abspath = os.path.abspath(__file__)
 dname = os.path.dirname(abspath)
 os.chdir(dname)
 
-#from hit_texture_generator import hit_gen_dir, root_dir, output_dir
+# from hit_texture_generator import hit_gen_dir, root_dir, output_dir
 root_dir = Path('../')
 output_dir = root_dir / 'out/'
-hit_gen_dir = output_dir / 'hit_gen'
-mob_models = 'survival/assets/minecraft/models/creatures'
-textures = 'survival/assets/minecraft/textures/'
+
 
 def minify(file_name: str):
-    file_data = open(file_name, "r", 1, encoding = "utf8").read()  # store file info in variable
+    file_data = open(file_name, "r", 1, encoding="utf8").read()  # store file info in variable
     json_data = json.loads(file_data)  # store in json structure
     return json.dumps(json_data, separators=(',', ":"))  # Compact JSON structure
+
+
+def compileFilesIntoZips(root_folder, zipFolder):
+    for root, dirs, files in os.walk(root_dir / root_folder):
+        for file in files:
+            if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
+                continue
+            if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
+                continue
+            read_path = Path(root) / file
+            write_path = read_path.relative_to(root_dir / root_folder)
+            if str(write_path).replace("\\", "/") in zipFolder.namelist():
+                continue
+            if file.endswith(".json"):
+                try:
+                    minified = minify(read_path)
+                    zipFolder.writestr(str(write_path), str(minified))
+                    continue
+                except (UnicodeDecodeError, JSONDecodeError):
+                    print(f'Could not minify {write_path}, using original instead. Is it valid JSON?')
+            zipFolder.write(read_path, write_path)
 
 
 version_file = root_dir / 'version/version.txt'
@@ -34,49 +53,20 @@ print("Got version: " + version)
 
 print("Create zip file for survival and add minified json into it")
 zipS = zipfile.ZipFile(output_dir / "MineInAbyss-Survival-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
-for root, dirs, files in os.walk(root_dir / "survival/"):
-    for file in files:
-        if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
-            continue
-        if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
-            continue
-        read_path = Path(root) / file
-        write_path = read_path.relative_to(root_dir / "survival")
-        if file.endswith(".json"):
-            try:
-                minified = minify(read_path)
-                zipS.writestr(str(write_path), str(minified))
-                continue
-            except (UnicodeDecodeError, JSONDecodeError):
-                print(f'Could not minify {write_path}, using original instead. Is it valid JSON?')
-        zipS.write(read_path, write_path)
-
-print("Add hit models & textures to the zip")
-for root, dirs, files in os.walk(hit_gen_dir):
-    for file in files:
-        read_path = Path(root) / file
-        write_path = read_path.relative_to(hit_gen_dir)
-        zipS.write(read_path, write_path)
+compileFilesIntoZips("survival/", zipS)
 
 print("Create zip file for build and add minified json into it")
 zipB = zipfile.ZipFile(output_dir / "MineInAbyss-Build-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
-for root, dirs, files in os.walk(root_dir / "build/"):
-    for file in files:
-        if file.endswith(".ini") or file.endswith(".py") or file.endswith(".zip"):
-            continue
-        if root.__contains__("excluded") or (root.__contains__("mob") and root.__contains__("frames")):
-            continue
-        read_path = Path(root) / file
-        write_path = read_path.relative_to(root_dir / "build")
-        if file.endswith(".json"):
-            try:
-                minified = minify(read_path)
-                zipB.writestr(str(write_path), str(minified))
-                continue
-            except (UnicodeDecodeError, JSONDecodeError):
-                print(f'Could not minify {write_path}, using original instead. Is it valid JSON?')
-        zipB.write(read_path, write_path)
+compileFilesIntoZips("build/", zipB)
 
+print("Create zip file for dev and add minified json into it")
+zipD = zipfile.ZipFile(output_dir / "MineInAbyss-Dev-Resourcepack.zip", 'w', zipfile.ZIP_DEFLATED)
+compileFilesIntoZips("dev/", zipD)
+
+print("Merge common content into all packs")
+compileFilesIntoZips("common/", zipS)
+compileFilesIntoZips("common/", zipB)
+compileFilesIntoZips("common/", zipD)
 
 print("Edit pack.mcmeta to be the correct version from github actions")
 survivalMcMeta = open(root_dir / 'pack.mcmeta', "rt")

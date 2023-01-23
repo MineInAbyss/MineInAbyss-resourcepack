@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "mineinabyss:item/armors/copper/chestplate",
-    "layer1": "mineinabyss:item/armors/copper/chestplate"
-  }
-}

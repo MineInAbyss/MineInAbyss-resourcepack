@@ -1,6 +1,0 @@
-{
-  "parent": "mineinabyss:item/tools/sword/gold_dagger_mia",
-  "textures": {
-    "layer0": "minecraft:item/golden_sword"
-  }
-}

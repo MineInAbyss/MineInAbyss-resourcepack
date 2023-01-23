@@ -1,0 +1,22 @@
+{
+  "parent": "mineinabyss:item/tools/hoe/stone_hoe_mia",
+  "textures": {
+    "layer0": "item/stone_hoe"
+  },
+
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/tools/sickle/stone_sickle"},
+    { "predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/cosmetics/bondrewd_hat"},
+    { "predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/cosmetics/habo_hat"},
+    { "predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/cosmetics/lyza_hat"},
+    { "predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/cosmetics/marulk_hat"},
+    { "predicate": {"custom_model_data": 6}, "model": "mineinabyss:item/cosmetics/nanachi_hat"},
+    { "predicate": {"custom_model_data": 7}, "model": "mineinabyss:item/cosmetics/ozen_hat"},
+    { "predicate": {"custom_model_data": 8}, "model": "mineinabyss:item/cosmetics/prushka_hat"},
+    { "predicate": {"custom_model_data": 9}, "model": "mineinabyss:item/cosmetics/reg_hat"},
+    { "predicate": {"custom_model_data": 10}, "model": "mineinabyss:item/other/menacing"},
+    { "predicate": {"custom_model_data": 11}, "model": "nazarick:item/albedo_horns"},
+    { "predicate": {"custom_model_data": 12}, "model": "mineinabyss:item/cosmetics/benner_cosplay"},
+    { "predicate": {"custom_model_data": 13}, "model": "mineinabyss:item/cosmetics/faputa_hat"}
+  ]
+}

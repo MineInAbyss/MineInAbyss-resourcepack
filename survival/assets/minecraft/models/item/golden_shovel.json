@@ -1,6 +1,0 @@
-{
-  "parent": "mineinabyss:item/tools/shovel/gold_shovel_mia",
-  "textures": {
-    "layer0": "minecraft:item/golden_shovel"
-  }
-}

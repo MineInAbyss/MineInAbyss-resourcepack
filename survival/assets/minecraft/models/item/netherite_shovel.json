@@ -1,6 +1,0 @@
-{
-  "parent": "mineinabyss:item/tools/shovel/netherite_shovel_mia",
-  "textures": {
-    "layer0": "minecraft:item/netherite_shovel"
-  }
-}
