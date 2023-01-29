@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/cosmetics/painter_menu.png",
+      "file": "cosmetics:other/painter_menu.png",
       "ascent": 13,
       "height": 256,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/cosmetics/cosmetics_main.png",
+      "file": "cosmetics:other/cosmetics_main.png",
       "ascent": 13,
       "height": 256,
       "chars": [
@@ -20,11 +20,20 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/cosmetics/cosmetics_menu.png",
+      "file": "cosmetics:other/cosmetics_menu.png",
       "ascent": 13,
       "height": 256,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cosmetics:other/wardrobe_transition.png",
+      "ascent": 50,
+      "height": 256,
+      "chars": [
+        ""
       ]
     }
   ]

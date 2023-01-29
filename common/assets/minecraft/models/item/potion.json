@@ -24,6 +24,7 @@
     { "predicate": {"custom_model_data": 211}, "model": "cosmetics:hats/menacing"},
     { "predicate": {"custom_model_data": 212}, "model": "cosmetics:hats/benner_cosplay"},
     { "predicate": {"custom_model_data": 216}, "model": "cosmetics:hats/deadmau5_helmet"},
+    { "predicate": {"custom_model_data": 217}, "model": "cosmetics:hats/mining_helmet"},
     { "predicate": {"custom_model_data": 1000}, "model": "cosmetics:other/paintbrush"}
   ]
 }

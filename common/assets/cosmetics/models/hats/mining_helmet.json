@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "cosmetics:hats/miner_cap",
-		"particle": "cosmetics:hats/miner_cap"
+		"0": "cosmetics:hats/mining_helmet",
+		"particle": "cosmetics:hats/mining_helmet"
 	},
 	"elements": [
 		{
