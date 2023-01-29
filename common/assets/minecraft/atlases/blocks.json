@@ -31,6 +31,26 @@
       "prefix": "relics/"
     },
     {
+      "type": "directory",
+      "source": "cosmetics",
+      "prefix": "cosmetics/"
+    },
+    {
+      "type": "directory",
+      "source": "hats",
+      "prefix": "hats/"
+    },
+    {
+      "type": "directory",
+      "source": "backpacks",
+      "prefix": "backpacks/"
+    },
+    {
+      "type": "directory",
+      "source": "other",
+      "prefix": "other/"
+    },
+    {
       "type": "filter",
       "pattern": {
         "path": "ui/"

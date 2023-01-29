@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "mineinabyss:item/cosmetics/paintbrush"
+		"3": "cosmetics:other/paintbrush"
 	},
 	"elements": [
 		{

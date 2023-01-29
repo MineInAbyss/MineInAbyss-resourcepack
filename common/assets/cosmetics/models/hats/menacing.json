@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:item/other/menacing",
-		"particle": "mineinabyss:item/other/menacing"
+		"0": "cosmetics:hats/menacing",
+		"particle": "cosmetics:hats/menacing"
 	},
 	"elements": [
 		{

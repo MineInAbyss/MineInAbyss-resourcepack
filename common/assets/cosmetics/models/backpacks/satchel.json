@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "mineinabyss:item/equipment/backpack/satchel",
-		"particle": "mineinabyss:item/equipment/backpack/satchel"
+		"0": "cosmetics:backpacks/satchel",
+		"particle": "cosmetics:backpacks/satchel"
 	},
 	"elements": [
 		{
