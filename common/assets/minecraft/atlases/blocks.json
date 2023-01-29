@@ -2,21 +2,6 @@
   "sources": [
     {
       "type": "directory",
-      "source": "ui",
-      "prefix": "ui/"
-    },
-    {
-      "type": "directory",
-      "source": "whistles",
-      "prefix": "whistles/"
-    },
-    {
-      "type": "directory",
-      "source": "misc",
-      "prefix": "misc/"
-    },
-    {
-      "type": "directory",
       "source": "wrappers",
       "prefix": "wrappers/"
     },
@@ -44,6 +29,19 @@
       "type": "directory",
       "source": "relics",
       "prefix": "relics/"
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "path": "ui/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "minecraft",
+        "path": "entity/"
+      }
     }
   ]
 }

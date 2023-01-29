@@ -2,5 +2,9 @@
   "parent": "mineinabyss:item/equipment/backpack/backpack",
   "textures": {
     "6": "mineinabyss:item/equipment/backpack/yellow_backpack"
-  }
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/equipment/backpack/satchel"}
+  ]
 }

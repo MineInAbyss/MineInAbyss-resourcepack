@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/cosmetics/painter_menu.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/cosmetics/cosmetics_main.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:ui/cosmetics/cosmetics_menu.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
