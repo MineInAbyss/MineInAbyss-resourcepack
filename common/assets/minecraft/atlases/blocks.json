@@ -47,6 +47,11 @@
     },
     {
       "type": "directory",
+      "source": "balloons",
+      "prefix": "balloons/"
+    },
+    {
+      "type": "directory",
       "source": "other",
       "prefix": "other/"
     },
