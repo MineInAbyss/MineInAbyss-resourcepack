@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "cosmetics:other/painter_menu.png",
+      "file": "cosmetics:ui/painter_menu.png",
       "ascent": 13,
       "height": 256,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "cosmetics:other/cosmetics_main.png",
+      "file": "cosmetics:ui/cosmetics_main.png",
       "ascent": 13,
       "height": 256,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "cosmetics:other/cosmetics_menu.png",
+      "file": "cosmetics:ui/cosmetics_menu.png",
       "ascent": 13,
       "height": 256,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "cosmetics:other/wardrobe_transition.png",
+      "file": "cosmetics:ui/wardrobe_transition.png",
       "ascent": 50,
       "height": 256,
       "chars": [

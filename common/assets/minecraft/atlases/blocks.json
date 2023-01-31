@@ -59,6 +59,48 @@
       "type": "directory",
       "source": "ui",
       "prefix": "ui/"
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/guilds/menus/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/player_profiles/menus/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/pvp/menus/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/compass/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/roles/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "cosmetics",
+        "path": "ui/"
+      }
     }
   ]
 }
