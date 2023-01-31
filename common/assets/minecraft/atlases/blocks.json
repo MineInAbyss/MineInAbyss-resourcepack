@@ -59,13 +59,6 @@
       "type": "directory",
       "source": "ui",
       "prefix": "ui/"
-    },
-    {
-      "type": "filter",
-      "pattern": {
-        "namespace": "minecraft",
-        "path": "entity/"
-      }
     }
   ]
 }
