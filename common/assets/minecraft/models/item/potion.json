@@ -11,6 +11,8 @@
     { "predicate": {"custom_model_data": 101}, "model": "cosmetics:backpacks/satchel"},
     { "predicate": {"custom_model_data": 102}, "model": "cosmetics:backpacks/miner_backpack"},
     { "predicate": {"custom_model_data": 103}, "model": "cosmetics:backpacks/neritantan_backpack"},
+    { "predicate": {"custom_model_data": 104}, "model": "cosmetics:backpacks/camper_backpack"},
+    { "predicate": {"custom_model_data": 105}, "model": "cosmetics:backpacks/generic_backpack"},
 
     { "predicate": {"custom_model_data": 201}, "model": "mineinabyss:item/cosmetics/bondrewd_hat"},
     { "predicate": {"custom_model_data": 202}, "model": "mineinabyss:item/cosmetics/faputa_hat"},
