@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/food/standard_food/valentines_chocolates",
-		"particle": "item/food/standard_food/valentines_chocolates"
+		"0": "mineinabyss:item/food/standard_food/valentines_chocolates",
+		"particle": "mineinabyss:item/food/standard_food/valentines_chocolates"
 	},
 	"elements": [
 		{
