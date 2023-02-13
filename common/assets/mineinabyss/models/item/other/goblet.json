@@ -1,0 +1,132 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "mineinabyss:item/other/goblet",
+		"particle": "mineinabyss:item/other/goblet"
+	},
+	"elements": [
+		{
+			"name": "base0",
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"faces": {
+				"north": {"uv": [8.5, 0, 12.5, 1], "texture": "#0"},
+				"east": {"uv": [0.5, 0.5, 4.5, 1.5], "texture": "#0"},
+				"south": {"uv": [0.5, 0.5, 4.5, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0.5, 0.5, 4.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "base1",
+			"from": [7, 1, 7],
+			"to": [9, 6, 9],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 7], "texture": "#0"},
+				"east": {"uv": [3, 0.5, 5, 5.5], "texture": "#0"},
+				"south": {"uv": [1.5, 0.5, 3.5, 5.5], "texture": "#0"},
+				"west": {"uv": [6.5, 0.5, 8.5, 5.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "goblet0",
+			"from": [6, 6, 6],
+			"to": [10, 7, 10],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [1.5, 0.5, 5.5, 1.5], "texture": "#0"},
+				"east": {"uv": [4, 0.5, 8, 1.5], "texture": "#0"},
+				"south": {"uv": [5, 0.5, 9, 1.5], "texture": "#0"},
+				"west": {"uv": [4, 0.5, 8, 1.5], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 5, 4.5], "texture": "#0"},
+				"down": {"uv": [2, 4, 6, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "goblet1",
+			"from": [6, 7, 5],
+			"to": [10, 12, 6],
+			"faces": {
+				"north": {"uv": [0.5, 0, 4.5, 5], "texture": "#0"},
+				"east": {"uv": [0.5, 0, 1.5, 5], "texture": "#0"},
+				"south": {"uv": [0.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"west": {"uv": [1, 0, 2, 5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 4.5, 1.5], "texture": "#0"},
+				"down": {"uv": [1, 1, 5, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "goblet2",
+			"from": [6, 7, 10],
+			"to": [10, 12, 11],
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"east": {"uv": [1.5, 0, 2.5, 5], "texture": "#0"},
+				"south": {"uv": [0.5, 0, 4.5, 5], "texture": "#0"},
+				"west": {"uv": [1.5, 0, 2.5, 5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 4.5, 1.5], "texture": "#0"},
+				"down": {"uv": [0.5, 0.5, 4.5, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "goblet3",
+			"from": [5, 7, 6],
+			"to": [6, 12, 10],
+			"faces": {
+				"north": {"uv": [1.5, 0, 2.5, 5], "texture": "#0"},
+				"east": {"uv": [0.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"south": {"uv": [1.5, 0, 2.5, 5], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 4.5, 5], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 2, 4.5], "texture": "#0"},
+				"down": {"uv": [1, 0.5, 2, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "goblet4",
+			"from": [10, 7, 6],
+			"to": [11, 12, 10],
+			"faces": {
+				"north": {"uv": [3.5, 0, 4.5, 5], "texture": "#0"},
+				"east": {"uv": [0.5, 0, 4.5, 5], "texture": "#0"},
+				"south": {"uv": [3, 0, 4, 5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 4.5, 5.5], "texture": "#0"},
+				"up": {"uv": [1.5, 1.5, 2.5, 5.5], "texture": "#0"},
+				"down": {"uv": [1, 0.5, 2, 4.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 0.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 0.75, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [0, 52, 0],
+			"translation": [0, 1.75, 0]
+		},
+		"fixed": {
+			"translation": [0, 1.25, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "model",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "ui",
+      "prefix": "ui/"
+    },
+    {
+      "type": "directory",
+      "source": "whistles",
+      "prefix": "whistles/"
+    },
+    {
+      "type": "directory",
+      "source": "misc",
+      "prefix": "misc/"
+    },
+    {
+      "type": "directory",
+      "source": "wrappers",
+      "prefix": "wrappers/"
+    },
+    {
+      "type": "directory",
+      "source": "mobs",
+      "prefix": "mobs/"
+    },
+    {
+      "type": "directory",
+      "source": "npc",
+      "prefix": "npc/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+      "type": "directory",
+      "source": "characters",
+      "prefix": "characters/"
+    },
+    {
+      "type": "directory",
+      "source": "relics",
+      "prefix": "relics/"
+    }
+  ]
+}

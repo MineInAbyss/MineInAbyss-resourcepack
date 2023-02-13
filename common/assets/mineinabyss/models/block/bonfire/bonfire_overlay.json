@@ -1,0 +1,93 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"5": "mineinabyss:block/bonfire/sticks",
+		"particle": "mineinabyss:item/tools/iron_tools"
+	},
+	"elements": [
+		{
+			"from": [1.25, 5.25, 12.75],
+			"to": [3.25, 27.25, 14.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 19.41667, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 5.5], "texture": "#5"},
+				"east": {"uv": [0.5, 0, 1, 5.5], "texture": "#5"},
+				"south": {"uv": [1, 0, 1.5, 5.5], "texture": "#5"},
+				"west": {"uv": [1.5, 0, 2, 5.5], "texture": "#5"},
+				"up": {"uv": [4.5, 1.5, 4, 1], "texture": "#5"},
+				"down": {"uv": [4.5, 1.5, 4, 2], "texture": "#5"}
+			}
+		},
+		{
+			"from": [12.75, 5.25, 1.25],
+			"to": [14.75, 27.25, 3.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 19.41667, 8]},
+			"faces": {
+				"north": {"uv": [2, 0, 2.5, 5.5], "texture": "#5"},
+				"east": {"uv": [2.5, 0, 3, 5.5], "texture": "#5"},
+				"south": {"uv": [3, 0, 3.5, 5.5], "texture": "#5"},
+				"west": {"uv": [3.5, 0, 4, 5.5], "texture": "#5"},
+				"up": {"uv": [4.5, 2.5, 4, 2], "texture": "#5"},
+				"down": {"uv": [4.5, 2.5, 4, 3], "texture": "#5"}
+			}
+		},
+		{
+			"from": [-0.5, 25.25, 7.5],
+			"to": [16.5, 26.25, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 19.41667, 8]},
+			"faces": {
+				"north": {"uv": [4, 0, 8.25, 0.25], "texture": "#5"},
+				"east": {"uv": [4, 3, 4.25, 3.25], "texture": "#5"},
+				"south": {"uv": [4, 0.25, 8.25, 0.5], "texture": "#5"},
+				"west": {"uv": [4, 3.25, 4.25, 3.5], "texture": "#5"},
+				"up": {"uv": [8.25, 0.75, 4, 0.5], "texture": "#5"},
+				"down": {"uv": [8.25, 0.75, 4, 1], "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 0, 0],
+			"translation": [0, -6, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-180, 0, 0],
+			"translation": [0, -6, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [159, -11, 0],
+			"translation": [1.25, -8.5, 3.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [159, -11, 0],
+			"translation": [1.25, -8.5, 3.5]
+		},
+		"ground": {
+			"rotation": [115, 106, 0],
+			"translation": [0, 0, 6.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [128, 52, -112],
+			"translation": [3, 4, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0, -19.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 7.25, -1.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "sticks",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

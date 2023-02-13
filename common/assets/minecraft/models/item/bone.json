@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/bone"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/dosetori_bone"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/madokajack_bone"},
+    {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/creaturedrops/uibuta_tooth"}
+  ]
+}

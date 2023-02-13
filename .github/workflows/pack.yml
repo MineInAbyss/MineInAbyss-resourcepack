@@ -67,11 +67,16 @@ jobs:
         run: pip install -r scripts/requirements.txt
       - name: Generate hit textures and package
         run: python scripts/publisher.py
-      - name: Upload zip
+      - name: Upload Survival zip
         uses: actions/upload-artifact@v2
         with:
-          name: resourcepack
-          path: out/MineInAbyss-Models.zip
+          name: survival-pack
+          path: out/MineInAbyss-Survival-Resourcepack.zip
+      - name: Upload Build zip
+        uses: actions/upload-artifact@v2
+        with:
+          name: build-pack
+          path: out/MineInAbyss-Build-Resourcepack.zip
   create-release:
     runs-on: ubuntu-latest
     needs: [determine-release-version, generatepack]
@@ -85,10 +90,14 @@ jobs:
         run: |
           version=`cat version/version.txt`
           echo "::set-output name=version::$version"
-      - name: Download Resourcepack
+      - name: Download Survival Resourcepack
         uses: actions/download-artifact@v1
         with:
-          name: resourcepack
+          name: survival-pack
+      - name: Download Build Resourcepack
+        uses: actions/download-artifact@v1
+        with:
+          name: build-pack
       - name: Create GitHub Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
@@ -96,4 +105,6 @@ jobs:
           prerelease: false
           automatic_release_tag: v${{ steps.extract_version.outputs.version }}
           files: |
-            resourcepack/*
+            build-pack/*
+            survival-pack/*
+            

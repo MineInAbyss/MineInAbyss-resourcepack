@@ -1,6 +1,0 @@
-{
-  "parent": "mineinabyss:item/tools/hoe/gold_hoe_mia",
-  "textures": {
-    "layer0": "minecraft:item/golden_hoe"
-  }
-}

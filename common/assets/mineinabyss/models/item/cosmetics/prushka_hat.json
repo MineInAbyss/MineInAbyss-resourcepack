@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "mineinabyss:item/cosmetics/prushka/hat_1",
+		"5": "mineinabyss:item/cosmetics/prushka/hat_2"
+	},
+	"elements": [
+		{
+			"from": [1.5, 1.73581, 5.67456],
+			"to": [14.5, 8.23581, 15.92456],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 7.35416, 7.07848]},
+			"faces": {
+				"north": {"uv": [0, 0, 9, 5], "texture": "#4"},
+				"east": {"uv": [16, 0, 9, 5], "texture": "#4"},
+				"south": {"uv": [0, 11, 9, 16], "texture": "#4"},
+				"west": {"uv": [9, 0, 16, 5], "texture": "#4"},
+				"up": {"uv": [0, 5, 9, 11], "texture": "#4"},
+				"down": {"uv": [0, 0, 9, 6], "rotation": 180, "texture": "#5"}
+			}
+		},
+		{
+			"from": [9, 8.5071, 6.59522],
+			"to": [12.5, 10.5071, 6.60522],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 7.35416, 7.07848]},
+			"faces": {
+				"north": {"uv": [10, 0, 14, 2], "texture": "#5"},
+				"east": {"uv": [0, 8, 1.00937, 10], "texture": "#5"},
+				"south": {"uv": [14, 0, 10, 2], "texture": "#5"},
+				"west": {"uv": [0, 10, 1.00937, 12], "texture": "#5"},
+				"up": {"uv": [0, 10, 3.5, 11.00938], "texture": "#5"},
+				"down": {"uv": [0, 8, 3.5, 9.00938], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.5, 8.5071, 6.59522],
+			"to": [7, 10.5071, 6.60522],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 7.35416, 7.07848]},
+			"faces": {
+				"north": {"uv": [14, 0, 10, 2], "texture": "#5"},
+				"east": {"uv": [0, 8, 1.00937, 10], "texture": "#5"},
+				"south": {"uv": [10, 0, 14, 2], "texture": "#5"},
+				"west": {"uv": [0, 10, 1.00937, 12], "texture": "#5"},
+				"up": {"uv": [0, 10, 3.5, 11.00938], "texture": "#5"},
+				"down": {"uv": [0, 8, 3.5, 9.00938], "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 25, 0],
+			"translation": [-0.5, 2, 1],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 25, 0],
+			"translation": [-0.5, 2, 1],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"rotation": [35, -135, 0],
+			"translation": [1.5, 0.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 7.5, -4.5],
+			"scale": [1.15, 1.15, 1.5]
+		},
+		"fixed": {
+			"rotation": [-31, 0, 0],
+			"translation": [0, 3, -4.5],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
+	"groups": [
+		{
+			"name": "main",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

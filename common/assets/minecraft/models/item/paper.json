@@ -1,0 +1,47 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:ui/invisible_slot_icon"},
+    {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:ui/pvp/pvp_toggle_enabled"},
+    {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:ui/pvp/pvp_toggle_disabled"},
+    {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:ui/guilds/guild_jointype_any"},
+    {"predicate": {"custom_model_data": 5}, "model": "mineinabyss:ui/guilds/guild_jointype_invite"},
+    {"predicate": {"custom_model_data": 6}, "model": "mineinabyss:ui/guilds/guild_jointype_request"},
+    
+    { "predicate": {"custom_model_data": 101}, "model": "mineinabyss:item/relics/boob_stone"},
+    { "predicate": {"custom_model_data": 102}, "model": "mineinabyss:item/relics/blaze_reap"},
+    { "predicate": {"custom_model_data": 103}, "model": "mineinabyss:item/relics/sparagmos"},
+    { "predicate": {"custom_model_data": 104}, "model": "mineinabyss:item/relics/star_compass"},
+    { "predicate": {"custom_model_data": 105}, "model": "mineinabyss:item/relics/zephyr_disk"},
+    { "predicate": {"custom_model_data": 106}, "model": "mineinabyss:item/relics/grim_ripper"},
+    { "predicate": {"custom_model_data": 107}, "model": "mineinabyss:item/relics/sonic_stone"},
+    { "predicate": {"custom_model_data": 108}, "model": "mineinabyss:item/relics/ghost_seek"},
+    { "predicate": {"custom_model_data": 109}, "model": "mineinabyss:item/relics/flamethrower"},
+    { "predicate": {"custom_model_data": 110}, "model": "mineinabyss:item/relics/lie_supor"},
+    { "predicate": {"custom_model_data": 111}, "model": "mineinabyss:item/relics/flash_cannon"},
+    { "predicate": {"custom_model_data": 112}, "model": "mineinabyss:item/relics/tomorrow_signal"},
+    { "predicate": {"custom_model_data": 113}, "model": "mineinabyss:item/relics/bounding_lance"},
+    { "predicate": {"custom_model_data": 114}, "model": "mineinabyss:item/relics/shielding_mask"},
+    { "predicate": {"custom_model_data": 115}, "model": "mineinabyss:item/relics/osteo_falchion/osteo_falchion"},
+    { "predicate": {"custom_model_data": 115, "damaged": 1, "damage":  0.2}, "model": "mineinabyss:item/relics/osteo_falchion/osteo_falchion_damage1"},
+    { "predicate": {"custom_model_data": 115, "damaged": 1, "damage":  0.4}, "model": "mineinabyss:item/relics/osteo_falchion/osteo_falchion_damage2"},
+    { "predicate": {"custom_model_data": 115, "damaged": 1, "damage":  0.7}, "model": "mineinabyss:item/relics/osteo_falchion/osteo_falchion_damage3"},
+    { "predicate": {"custom_model_data": 115, "damaged": 1, "damage":  0.99}, "model": "mineinabyss:item/relics/osteo_falchion/osteo_falchion_broken"},
+    { "predicate": {"custom_model_data": 116}, "model": "mineinabyss:item/relics/airform_b"},
+    { "predicate": {"custom_model_data": 117}, "model": "mineinabyss:item/relics/respiratis"},
+    { "predicate": {"custom_model_data": 118}, "model": "mineinabyss:item/relics/verdau_effax"},
+    { "predicate": {"custom_model_data": 119}, "model": "mineinabyss:item/relics/conterein"},
+    { "predicate": {"custom_model_data": 120}, "model": "mineinabyss:item/relics/moniscelti"},
+    { "predicate": {"custom_model_data": 121}, "model": "mineinabyss:item/relics/saw_arm"},
+    { "predicate": {"custom_model_data": 122}, "model": "mineinabyss:item/relics/3_branched_sword"},
+    { "predicate": {"custom_model_data": 123}, "model": "mineinabyss:item/relics/unheard_bell"},
+    { "predicate": {"custom_model_data": 124}, "model": "mineinabyss:item/relics/star_compass/star_compass_needle"},
+    { "predicate": {"custom_model_data": 125}, "model": "mineinabyss:item/relics/star_compass/star_compass"},
+    { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"},
+    { "predicate": {"custom_model_data": 127}, "model": "mineinabyss:item/materials/haste_paste"}
+  ]
+}
