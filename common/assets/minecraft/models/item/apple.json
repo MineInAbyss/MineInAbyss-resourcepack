@@ -48,6 +48,7 @@
     {"predicate": {"custom_model_data": 119}, "model": "mineinabyss:item/food/creatures/squidfly_brain_cooked"},
     {"predicate": {"custom_model_data": 120}, "model": "mineinabyss:item/creaturedrops/tesuchi_scales"},
     {"predicate": {"custom_model_data": 121}, "model": "mineinabyss:item/creaturedrops/kuongatari_abdomen_cooked"},
+    {"predicate": {"custom_model_data": 150}, "model": "mineinabyss:item/food/standard_food/valentines_chocolates"},
     {"predicate": {"custom_model_data": 1000}, "model": "mineinabyss:item/food/standard_food/idofront_ration"}
   ]
 }
