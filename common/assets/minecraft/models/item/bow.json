@@ -49,6 +49,9 @@
 	{ "predicate": {"custom_model_data": 100 , "pulling": 1 , "pull": 1}, "model": "camelot:item/bow/gate_of_babylon_4"},
 	{ "predicate": {"custom_model_data": 101}, "model": "camelot:item/bow/eyes_of_distortion"},
 	{ "predicate": {"custom_model_data": 101 , "pulling": 1}, "model": "camelot:item/bow/eyes_of_distortion_0"},
-	{ "predicate": {"custom_model_data": 101 , "pulling": 1 , "pull": 1}, "model": "camelot:item/bow/eyes_of_distortion_0"}
- ]
+	{ "predicate": {"custom_model_data": 101 , "pulling": 1 , "pull": 1}, "model": "camelot:item/bow/eyes_of_distortion_0"},
+	{ "predicate": {"custom_model_data": 102}, "model": "mineinabyss:item/tools/bow/heart_bow"},
+	{ "predicate": {"custom_model_data": 102 , "pulling": 1, "pull": 0.50}, "model": "mineinabyss:item/tools/bow/heart_bow_pulling_0"},
+	{ "predicate": {"custom_model_data": 102 , "pulling": 1,"pull": 1.00}, "model": "mineinabyss:item/tools/bow/heart_bow_pulling_1"}
+	]
 }

@@ -7,9 +7,9 @@
 	},
 	"elements": [
 		{
-			"from": [7.5, 10, 0],
-			"to": [8.5, 11, 1],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 10.5, -0.5]},
+			"from": [7.5, 10.5, 0],
+			"to": [8.5, 11.5, 1],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 11, -0.5]},
 			"faces": {
 				"north": {"uv": [3, 11, 3.33333, 11.33333], "texture": "#0"},
 				"east": {"uv": [2.66667, 11, 3, 11.33333], "texture": "#0"},
@@ -20,8 +20,9 @@
 			}
 		},
 		{
-			"from": [8, 10, 0],
-			"to": [8, 11, 5],
+			"from": [8, 10.5, 0],
+			"to": [8, 11.5, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.5, 0]},
 			"faces": {
 				"north": {"uv": [2.33333, 14, 2.33333, 14.33333], "texture": "#0"},
 				"east": {"uv": [0.66667, 14, 2.33333, 14.33333], "texture": "#0"},
@@ -32,8 +33,9 @@
 			}
 		},
 		{
-			"from": [8, 9.5, 5],
-			"to": [8, 11.5, 6],
+			"from": [8, 10, 5],
+			"to": [8, 12, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0.5, 0]},
 			"faces": {
 				"north": {"uv": [1, 12.66667, 1, 13.33333], "texture": "#0"},
 				"east": {"uv": [0.66667, 12.66667, 1, 13.33333], "texture": "#0"},
@@ -44,9 +46,9 @@
 			}
 		},
 		{
-			"from": [7.5, 10, -1],
-			"to": [8.5, 11, 0],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 10.5, -0.5]},
+			"from": [7.5, 10.5, -1],
+			"to": [8.5, 11.5, 0],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 11, -0.5]},
 			"faces": {
 				"north": {"uv": [0.66667, 15.33333, 1, 15.66667], "texture": "#0"},
 				"east": {"uv": [0.33333, 15.33333, 0.66667, 15.66667], "texture": "#0"},
@@ -57,9 +59,9 @@
 			}
 		},
 		{
-			"from": [7.5, 11, -1],
-			"to": [8.5, 12, 0],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 10.5, -0.5]},
+			"from": [7.5, 11.5, -1],
+			"to": [8.5, 12.5, 0],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 11, -0.5]},
 			"faces": {
 				"north": {"uv": [4.33333, 12, 4.66667, 12.33333], "texture": "#0"},
 				"east": {"uv": [4, 12, 4.33333, 12.33333], "texture": "#0"},
@@ -274,15 +276,11 @@
 			"name": "heart_bow",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "heart_arrow",
 					"origin": [8, 10.5, -0.5],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [0, 1, 2, 3, 4]
 				},
 				5,
