@@ -1,274 +1,283 @@
 {
   "providers": [
     {
-      "chars": [
-        "\uF801"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -1,
-      "type": "bitmap"
-    },
-    {
-      "chars": [
-        "\uF802"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -2,
-      "type": "bitmap"
-    },
-    {
-      "chars": [
-        "\uF803"
-      ],
-      "file": "font/null.png",
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": -3,
-      "type": "bitmap"
+      "chars": [
+        "\uF801"
+      ]
     },
     {
-      "chars": [
-        "\uF804"
-      ],
-      "file": "font/null.png",
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": -4,
-      "type": "bitmap"
+      "chars": [
+        "\uF802"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -5,
       "chars": [
-        "\uF805"
-      ],
-      "file": "font/null.png",
+        "\uF803"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -6,
+      "chars": [
+        "\uF804"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": -7,
-      "type": "bitmap"
+      "chars": [
+        "\uF805"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -8,
       "chars": [
         "\uF806"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -8,
-      "type": "bitmap"
+      ]
     },
     {
-      "chars": [
-        "\uF807"
-      ],
-      "file": "font/null.png",
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": -9,
-      "type": "bitmap"
+      "chars": [
+        "\uF807"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -10,
       "chars": [
         "\uF808"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -8,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -18,
       "chars": [
         "\uF809"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -16,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -34,
       "chars": [
         "\uF80A"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -32,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -66,
       "chars": [
         "\uF80B"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -64,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -130,
       "chars": [
         "\uF80C"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -128,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -258,
       "chars": [
         "\uF80D"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -256,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -514,
       "chars": [
         "\uF80E"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -512,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": -1026,
       "chars": [
         "\uF80F"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": -1024,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -65536,
+      "height": -32770,
+      "chars": [
+        "\uF800"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 0,
       "chars": [
         "\uF821"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 1,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF822"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 2,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF823"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 3,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF824"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 4,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF825"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 5,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF826"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 6,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF827"
-      ],
-      "file": "font/null.png",
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
       "ascent": -32768,
       "height": 7,
-      "type": "bitmap"
-    },
-    {
       "chars": [
         "\uF828"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 8,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 15,
       "chars": [
         "\uF829"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 16,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 31,
       "chars": [
         "\uF82A"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 32,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 63,
       "chars": [
         "\uF82B"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 64,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 127,
       "chars": [
         "\uF82C"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 128,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 255,
       "chars": [
         "\uF82D"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 256,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 511,
       "chars": [
         "\uF82E"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 512,
-      "type": "bitmap"
+      ]
     },
     {
+      "type": "bitmap",
+      "file": "space:font/space_split.png",
+      "ascent": -32768,
+      "height": 1023,
       "chars": [
         "\uF82F"
-      ],
-      "file": "font/null.png",
-      "ascent": -32768,
-      "height": 1024,
-      "type": "bitmap"
+      ]
     },
     {
       "type": "bitmap",
