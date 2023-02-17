@@ -2,27 +2,27 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "cosmetics:ui/painter_menu.png",
-      "ascent": 13,
-      "height": 256,
+      "file": "cosmetics:ui/menus/cosmetic_dye_menu.png",
+      "ascent": 15,
+      "height": 224,
       "chars": [
         ""
       ]
     },
     {
       "type": "bitmap",
-      "file": "cosmetics:ui/cosmetics_main.png",
-      "ascent": 13,
-      "height": 256,
+      "file": "cosmetics:ui/menus/cosmetic_main_menu.png",
+      "ascent": 15,
+      "height": 224,
       "chars": [
         ""
       ]
     },
     {
       "type": "bitmap",
-      "file": "cosmetics:ui/cosmetics_menu.png",
-      "ascent": 13,
-      "height": 256,
+      "file": "cosmetics:ui/menus/cosmetic_grid_menu.png",
+      "ascent": 15,
+      "height": 224,
       "chars": [
         ""
       ]
