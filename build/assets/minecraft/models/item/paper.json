@@ -11,7 +11,7 @@
     {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:ui/guilds/guild_jointype_any"},
     {"predicate": {"custom_model_data": 5}, "model": "mineinabyss:ui/guilds/guild_jointype_invite"},
     {"predicate": {"custom_model_data": 6}, "model": "mineinabyss:ui/guilds/guild_jointype_request"},
-    
+
     { "predicate": {"custom_model_data": 101}, "model": "mineinabyss:item/relics/boob_stone"},
     { "predicate": {"custom_model_data": 102}, "model": "mineinabyss:item/relics/blaze_reap"},
     { "predicate": {"custom_model_data": 103}, "model": "mineinabyss:item/relics/sparagmos"},
@@ -42,6 +42,7 @@
     { "predicate": {"custom_model_data": 124}, "model": "mineinabyss:item/relics/star_compass/star_compass_needle"},
     { "predicate": {"custom_model_data": 125}, "model": "mineinabyss:item/relics/star_compass/star_compass"},
     { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"},
+    { "predicate": {"custom_model_data": 127}, "model": "mineinabyss:item/materials/haste_paste"},
 
     {"predicate": {"custom_model_data": 500}, "model": "hmcwraps:wrappers/unwrapper"},
     {"predicate": {"custom_model_data": 501}, "model": "hmcwraps:wrappers/sword_wrapper_icon"},
@@ -106,6 +107,13 @@
     {"predicate": {"custom_model_data": 2032}, "model": "minecraft:block/chiseled_bookshelf_empty"},
     {"predicate": {"custom_model_data": 2033}, "model": "minecraft:block/chiseled_bookshelf_full"},
     {"predicate": {"custom_model_data": 2034}, "model": "mineinabyss:block/building/cut_diorite_pillar"},
+
+    {"predicate": {"custom_model_data": 2035}, "model": "minecraft:block/cherry_sapling"},
+    {"predicate": {"custom_model_data": 2036}, "model": "minecraft:block/cherry_planks"},
+    {"predicate": {"custom_model_data": 2037}, "model": "minecraft:block/cherry_log"},
+    {"predicate": {"custom_model_data": 2038}, "model": "minecraft:block/cherry_wood"},
+    {"predicate": {"custom_model_data": 2039}, "model": "minecraft:block/stripped_cherry_log"},
+    {"predicate": {"custom_model_data": 2040}, "model": "minecraft:block/stripped_cherry_wood"},
 
     {"predicate": {"custom_model_data": 3001}, "model": "mineinabyss:block/nature/foliage1"},
     {"predicate": {"custom_model_data": 3002}, "model": "mineinabyss:block/nature/foliage2"},
