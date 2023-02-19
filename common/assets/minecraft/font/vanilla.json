@@ -53,15 +53,6 @@
       "chars": [
         ""
       ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/container/overrides/anvil.png",
-      "ascent": 13,
-      "height": 256,
-      "chars": [
-        ""
-      ]
     }
   ]
 }
