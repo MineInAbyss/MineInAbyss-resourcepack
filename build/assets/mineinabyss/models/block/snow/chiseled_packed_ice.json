@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mineinabyss:block/snow/chiseled_packed_ice"
+  }
+}

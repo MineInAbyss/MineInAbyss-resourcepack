@@ -114,6 +114,18 @@
     {"predicate": {"custom_model_data": 2039}, "model": "minecraft:block/stripped_cherry_log"},
     {"predicate": {"custom_model_data": 2040}, "model": "minecraft:block/stripped_cherry_wood"},
 
+    {"predicate": {"custom_model_data": 2041}, "model": "mineinabyss:block/snow/chiseled_packed_ice"},
+    {"predicate": {"custom_model_data": 2042}, "model": "mineinabyss:block/snow/cryosol"},
+    {"predicate": {"custom_model_data": 2043}, "model": "mineinabyss:block/snow/ice_bricks"},
+    {"predicate": {"custom_model_data": 2044}, "model": "mineinabyss:block/snow/ice_pillar"},
+    {"predicate": {"custom_model_data": 2045}, "model": "mineinabyss:block/snow/packed_ice_bricks"},
+    {"predicate": {"custom_model_data": 2046}, "model": "mineinabyss:block/snow/packed_ice_pillar"},
+    {"predicate": {"custom_model_data": 2047}, "model": "mineinabyss:block/snow/perma_frost"},
+    {"predicate": {"custom_model_data": 2048}, "model": "mineinabyss:block/snow/polished_packed_ice"},
+    {"predicate": {"custom_model_data": 2049}, "model": "mineinabyss:block/snow/snow_bricks"},
+    {"predicate": {"custom_model_data": 2050}, "model": "mineinabyss:block/snow/snow_pillar"},
+    {"predicate": {"custom_model_data": 2051}, "model": "mineinabyss:block/snow/snow_tiles"},
+
     {"predicate": {"custom_model_data": 3001}, "model": "mineinabyss:block/nature/foliage1"},
     {"predicate": {"custom_model_data": 3002}, "model": "mineinabyss:block/nature/foliage2"},
     {"predicate": {"custom_model_data": 3003}, "model": "mineinabyss:block/nature/foliage3"},
