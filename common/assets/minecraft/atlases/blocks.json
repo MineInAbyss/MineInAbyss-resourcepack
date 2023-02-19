@@ -61,6 +61,11 @@
       "prefix": "ui/"
     },
     {
+      "type": "directory",
+      "source": "furniture",
+      "prefix": "furniture/"
+    },
+    {
       "type": "filter",
       "pattern": {
         "namespace": "mineinabyss",
