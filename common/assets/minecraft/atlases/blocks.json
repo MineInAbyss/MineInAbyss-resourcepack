@@ -2,21 +2,6 @@
   "sources": [
     {
       "type": "directory",
-      "source": "ui",
-      "prefix": "ui/"
-    },
-    {
-      "type": "directory",
-      "source": "whistles",
-      "prefix": "whistles/"
-    },
-    {
-      "type": "directory",
-      "source": "misc",
-      "prefix": "misc/"
-    },
-    {
-      "type": "directory",
       "source": "wrappers",
       "prefix": "wrappers/"
     },
@@ -44,6 +29,83 @@
       "type": "directory",
       "source": "relics",
       "prefix": "relics/"
+    },
+    {
+      "type": "directory",
+      "source": "cosmetics",
+      "prefix": "cosmetics/"
+    },
+    {
+      "type": "directory",
+      "source": "hats",
+      "prefix": "hats/"
+    },
+    {
+      "type": "directory",
+      "source": "backpacks",
+      "prefix": "backpacks/"
+    },
+    {
+      "type": "directory",
+      "source": "balloons",
+      "prefix": "balloons/"
+    },
+    {
+      "type": "directory",
+      "source": "other",
+      "prefix": "other/"
+    },
+    {
+      "type": "directory",
+      "source": "ui",
+      "prefix": "ui/"
+    },
+    {
+      "type": "directory",
+      "source": "furniture",
+      "prefix": "furniture/"
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/guilds/menus/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/player_profiles/menus/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/pvp/menus/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/compass/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "mineinabyss",
+        "path": "ui/roles/"
+      }
+    },
+    {
+      "type": "filter",
+      "pattern": {
+        "namespace": "cosmetics",
+        "path": "ui/"
+      }
     }
   ]
 }

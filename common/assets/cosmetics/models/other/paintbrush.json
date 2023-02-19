@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "cosmetics:other/paintbrush"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 7],
+			"to": [16, 8, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 8], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#3"},
+				"south": {"uv": [0, 8, 8, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#3"},
+				"up": {"uv": [8, 0, 0, 0], "texture": "#3"},
+				"down": {"uv": [8, 0, 0, 0], "texture": "#3"}
+			}
+		},
+		{
+			"from": [8, 0, 6.91],
+			"to": [16, 8, 7.01],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 8], "texture": "#3", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 8], "texture": "#3"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#3", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 8], "texture": "#3"},
+				"up": {"uv": [8, 0, 0, 0], "texture": "#3"},
+				"down": {"uv": [8, 0, 0, 0], "texture": "#3"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-8, 8, 80],
+			"scale": [2, 2, 1]
+		}
+	}
+}

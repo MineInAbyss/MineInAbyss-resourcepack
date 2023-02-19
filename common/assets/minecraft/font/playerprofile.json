@@ -26,7 +26,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/player_profiles/player_profile_armor_visible.png",
+      "file": "mineinabyss:ui/player_profiles/menus/player_profile_armor_visible.png",
       "ascent": 15,
       "height": 224,
       "chars": [
@@ -35,7 +35,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/player_profiles/player_profile_patreon_armor_visible.png",
+      "file": "mineinabyss:ui/player_profiles/menus/player_profile_patreon_armor_visible.png",
       "ascent": 15,
       "height": 224,
       "chars": [
@@ -44,7 +44,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/player_profiles/player_profile_armor_hidden.png",
+      "file": "mineinabyss:ui/player_profiles/menus/player_profile_armor_hidden.png",
       "ascent": 15,
       "height": 224,
       "chars": [
@@ -53,7 +53,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/player_profiles/player_profile_patreon_armor_hidden.png",
+      "file": "mineinabyss:ui/player_profiles/menus/player_profile_patreon_armor_hidden.png",
       "ascent": 15,
       "height": 224,
       "chars": [

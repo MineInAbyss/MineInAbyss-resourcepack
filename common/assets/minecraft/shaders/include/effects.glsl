@@ -20,8 +20,8 @@ EFFECT(252, 252, 0) {
 EFFECT(252, 252, 1) {
     vec4 particleLayer1 = sfx_particles(
         surface,
-        ivec2(1, 305),            // top left corner of the particle in the texture
-        ivec2(14, 14),            // size of the particle in the texture
+        ivec2(1792, 512),            // top left corner of the particle in the texture
+        ivec2(64, 64),            // size of the particle in the texture
         1.5,                    // size the particle should be ingame
         vec2(0.0, -1.5),        // movementspeed of the particle in x and y direction
         60.0,                   // rotation
@@ -34,8 +34,8 @@ EFFECT(252, 252, 1) {
 
     vec4 particleLayer2 = sfx_particles(
         surface,
-        ivec2(1, 305),            // top left corner of the particle in the texture
-        ivec2(14, 14),            // size of the particle in the texture
+        ivec2(1792, 512),            // top left corner of the particle in the texture
+        ivec2(64, 64),            // size of the particle in the texture
         2.0,                    // size the particle should be ingame
         vec2(0.0, -1.5),        // movementspeed of the particle in x and y direction
         45.0,                   // rotation
@@ -48,9 +48,9 @@ EFFECT(252, 252, 1) {
 
     vec4 particleLayer3 = sfx_particles(
         surface,
-        ivec2(1, 305),            // top left corner of the particle in the texture
-        ivec2(14, 14),            // size of the particle in the texture
-        2.5,                    // size the particle should be ingame
+        ivec2(1792, 512),            // top left corner of the particle in the texture
+        ivec2(64,64),            // size of the particle in the texture
+        5.5,                    // size the particle should be ingame
         vec2(0.0, -1.5),        // movementspeed of the particle in x and y direction
         30.0,                   // rotation
         0.5,                    // rotation speed

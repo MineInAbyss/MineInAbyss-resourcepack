@@ -6,6 +6,31 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/relics/consumables/black_flask"},
-    { "predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/relics/consumables/life_jar"}
+    { "predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/relics/consumables/life_jar"},
+
+    { "predicate": {"custom_model_data": 101}, "model": "cosmetics:backpacks/satchel"},
+    { "predicate": {"custom_model_data": 102}, "model": "cosmetics:backpacks/miner_backpack"},
+    { "predicate": {"custom_model_data": 103}, "model": "cosmetics:backpacks/neritantan_backpack"},
+    { "predicate": {"custom_model_data": 104}, "model": "cosmetics:backpacks/camper_backpack"},
+    { "predicate": {"custom_model_data": 105}, "model": "cosmetics:backpacks/generic_backpack"},
+
+    { "predicate": {"custom_model_data": 201}, "model": "mineinabyss:item/cosmetics/bondrewd_hat"},
+    { "predicate": {"custom_model_data": 202}, "model": "mineinabyss:item/cosmetics/faputa_hat"},
+    { "predicate": {"custom_model_data": 203}, "model": "mineinabyss:item/cosmetics/habo_hat"},
+    { "predicate": {"custom_model_data": 204}, "model": "mineinabyss:item/cosmetics/lyza_hat"},
+    { "predicate": {"custom_model_data": 205}, "model": "mineinabyss:item/cosmetics/marulk_hat"},
+    { "predicate": {"custom_model_data": 206}, "model": "mineinabyss:item/cosmetics/nanachi_hat"},
+    { "predicate": {"custom_model_data": 207}, "model": "mineinabyss:item/cosmetics/ozen_hat"},
+    { "predicate": {"custom_model_data": 208}, "model": "mineinabyss:item/cosmetics/prushka_hat"},
+    { "predicate": {"custom_model_data": 209}, "model": "mineinabyss:item/cosmetics/reg_hat"},
+    { "predicate": {"custom_model_data": 210}, "model": "nazarick:item/albedo_horns"},
+    { "predicate": {"custom_model_data": 211}, "model": "cosmetics:hats/menacing"},
+    { "predicate": {"custom_model_data": 212}, "model": "cosmetics:hats/benner_cosplay"},
+    { "predicate": {"custom_model_data": 216}, "model": "cosmetics:hats/deadmau5_helmet"},
+    { "predicate": {"custom_model_data": 217}, "model": "cosmetics:hats/mining_helmet"},
+
+    { "predicate": {"custom_model_data": 301}, "model": "cosmetics:balloons/neritantan_balloon"},
+
+    { "predicate": {"custom_model_data": 1000}, "model": "cosmetics:other/paintbrush"}
   ]
 }

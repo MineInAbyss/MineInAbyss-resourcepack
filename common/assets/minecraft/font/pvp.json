@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/pvp/pvp_menu.png",
+      "file": "mineinabyss:ui/pvp/menus/pvp_menu.png",
       "ascent": 23,
       "height": 196,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "mineinabyss:ui/pvp/pvp_menu_toggle.png",
+      "file": "mineinabyss:ui/pvp/menus/pvp_menu_toggle.png",
       "ascent": 23,
       "height": 196,
       "chars": [
