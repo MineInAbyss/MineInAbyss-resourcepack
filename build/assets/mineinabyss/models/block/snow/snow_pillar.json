@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "side": "mineinabyss:block/snow/snow_pillar",
+    "end": "mineinabyss:block/snow/snow_pillar_cap"
+  }
+}
