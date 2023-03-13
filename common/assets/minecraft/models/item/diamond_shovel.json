@@ -5,13 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":  1}, "model": "mineinabyss:item/equipment/grappling/hook"},
-    {"predicate": {"custom_model_data":  2}, "model": "mineinabyss:item/equipment/grappling/hook_w_rope"},
-    {"predicate": {"custom_model_data":  3}, "model": "mineinabyss:item/equipment/grappling/rope"},
-    { "predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/equipment/handpick/version1"},
-    { "predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/equipment/handpick/version2"},
-    { "predicate": {"custom_model_data": 6}, "model": "mineinabyss:item/equipment/handpick/version3"},
-    { "predicate": {"custom_model_data": 7}, "model": "mineinabyss:item/other/hook"},
     { "predicate": {"custom_model_data": 8}, "model": "mineinabyss:item/other/staff"},
     { "predicate": {"custom_model_data": 9}, "model": "mineinabyss:item/other/statue"},
     { "predicate": {"custom_model_data": 10}, "model": "mineinabyss:item/other/goblet"},
