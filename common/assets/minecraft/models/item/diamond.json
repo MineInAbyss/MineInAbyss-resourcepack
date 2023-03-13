@@ -13,7 +13,6 @@
 		{"predicate": {"custom_model_data": 6}, "model": "mineinabyss:item/materials/curse_steel_ingot"},
 		{"predicate": {"custom_model_data": 7}, "model": "mineinabyss:item/materials/charcoal_sand_raw"},
 		{"predicate": {"custom_model_data": 8}, "model": "mineinabyss:item/materials/charcoal_sand_ingot"},
-		{"predicate": {"custom_model_data": 9}, "model": "mineinabyss:item/materials/iceburst_stone"},
-		{"predicate": {"custom_model_data": 10}, "model": "mineinabyss:item/materials/heat_stone"}
+		{"predicate": {"custom_model_data": 9}, "model": "mineinabyss:item/materials/iceburst_stone"}
 	]
 }

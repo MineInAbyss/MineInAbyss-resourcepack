@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
+	"texture_size": [19, 17],
 	"textures": {
 		"layer0": "mineinabyss:item/mitty_token"
 	},

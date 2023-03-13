@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
+	"texture_size": [12, 12],
 	"textures": {
 		"layer0": "mineinabyss:ui/guilds/guild_jointype_request_button"
 	},

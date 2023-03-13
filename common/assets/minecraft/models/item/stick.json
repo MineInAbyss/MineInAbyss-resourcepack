@@ -26,7 +26,6 @@
     { "predicate": {"custom_model_data": 100}, "model": "nazarick:item/3f"},
     { "predicate": {"custom_model_data": 101}, "model": "nazarick:item/ainz_axe"},
     { "predicate": {"custom_model_data": 102}, "model": "nazarick:item/ainz_staff"},
-    { "predicate": {"custom_model_data": 103}, "model": "nazarick:entity/albedo_mob_model"},
     { "predicate": {"custom_model_data": 104}, "model": "nazarick:item/decapitation_fang"},
     { "predicate": {"custom_model_data": 105}, "model": "nazarick:item/demi_claw"},
     { "predicate": {"custom_model_data": 106}, "model":"nazarick:item/god_slaying_emperor_blade"},
