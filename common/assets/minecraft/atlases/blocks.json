@@ -46,6 +46,10 @@
     },
     {
       "type": "single",
+      "resource": "cosmetics:other/mannequin"
+    },
+    {
+      "type": "single",
       "resource": "mineinabyss:ui/invisible_slot_icon"
     },
     {
