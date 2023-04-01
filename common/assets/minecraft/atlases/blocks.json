@@ -1,756 +1,572 @@
 {
-  "sources": [
-    {
-      "type": "single",
-      "resource": "cosmetics:backpacks/camper_backpack"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:backpacks/generic_backpack"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:backpacks/miner_backpack"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:backpacks/neritantan_backpack"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:backpacks/satchel"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:balloons/neritantan_balloon"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:hats/benner_cosplay"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:hats/deadmau5_helmet"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:hats/menacing"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:hats/mining_helmet"
-    },
-    {
-      "type": "single",
-      "resource": "cosmetics:other/paintbrush"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:ui/invisible_slot_icon"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:ui/guilds/guild_jointype_any_button"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:ui/guilds/guild_jointype_invite_button"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:ui/guilds/guild_jointype_request_button"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:ui/pvp/pvp_toggle_disabled"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:ui/pvp/pvp_toggle_enabled"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/abyssal_snail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/amakagame"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/ashimite/leg"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/ashimite/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/ashimite/head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/belaf"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/belchero"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/beniguma/beniguma_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/beniguma/beniguma"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/beniguma/beniguma_move1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/billabonk/legs"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/billabonk/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_neck"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_arms"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_legs"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_body_overlay"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_arms_overlay"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_legs_overlay"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/accessories_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/whistle"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/bondrewd/bondrewd_legs_overlay_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:relics/bounding_lance"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/chimokami/chimokami_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/chimokami/chimokami_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/chimokami/chimokami_tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/chimokami/chimokami_leg_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/corpse_weeper/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/corpse_weeper/leg"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/corpse_weeper/wings_flying"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/cyatoria/rear"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/cyatoria/head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/cyatoria/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/cyatoria/wing1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/demonfish/demonfish_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/demonfish/demonfish_body_1_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/demonfish/demonfish_fin_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/demonfish/demonfish_body_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/demonfish/demonfish_fin_2_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/demonfish/demonfish_fin_3"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/dosetori/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/dosetori/head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/dosetori/tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/dosetori/wing"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/dosetori/wing_static"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/edusan"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/faputa"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/fuwagi/fuwagi_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/fuwagi/fuwagi_ears_legs"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/fuwagi/fuwagi_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/fuwagi/fuwagi_tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/gaburoon"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/guildmaster"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/habo"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hamashirama/hamashirama"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hamashirama/hamashirama_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hammerbeak/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hammerbeak/wings_fly"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hashofu/wing"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hashofu/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hashofu/tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hisomukuro/hisomukuro"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/hisomukuro/hisomukuro_fin"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/inbyo"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/jiruo"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kagi_tachikiri"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kakatsumuri/kakatsumuri"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kakatsumuri/kakatsumuri_glow"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kazura"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/kiyui"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kuongatari/kuongatari_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kuongatari/kuongatari_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kuongatari/kuongatari_wing"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kuongatari/kuongatari_leg"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kuongatari/kuongatari_tail_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/kuongatari/kuongatari_tail_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/laffi"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/lyza"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/madokajack/mouth"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/madokajack/wing"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/madokajack/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/makihige/head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/makihige/shell"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/makihige/tenticle"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/marulk"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/mio"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/moogie"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/nanachi/nanachi_base"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/nanachi/nanachi_parts"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/nanachi/nanachi_hat_front"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/nanachi/nanachi_tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/nat"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/neritantan/tail"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/neritantan/face_and_legs"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/neritantan/face"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/neritantan/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_body_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_body_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_body_3"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_saddle"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_mouth"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_ext"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/okibo/okibo_pouch"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/onitsuchi/legs"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/onitsuchi/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/onitsuchi/wings_fly"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/orbpiercer"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_head_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_head_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_head_3"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_head_4"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_mouth_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_tail_1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_3"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_4"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_5"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_6"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_7"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_8"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_tail_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_body_10"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:entity/mobs/ottobas/ottobas_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/ozen"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/ozen_despair"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/prushka"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/reg/reg_part1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/reg/reg_part2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/riko/rikopart1"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/riko/rikopart2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/riko/red_whistle"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/rinsipede"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/rohana"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/sakuranbo"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/shiggy"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/shroombear/shroombear_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/shroombear/shroombear_body_2"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/shroombear/shroombear_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/shroombear/shroombear_mouth"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/shroombear/water_mushroom"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/shroombear/shroombear_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/silkfang"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/simred"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/spiralsquid"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/splitjaw"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/squidfly/wings_fly"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/squidfly/tenticle"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/squidfly/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/stingerhead"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/tepaste"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/tesuchi/tesuchi_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/tesuchi/tesuchi_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/titanjaw/body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/titanjaw/head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/titanjaw/legs_move"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/torka"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/uibuta/uibuta_head"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/uibuta/uibuta_body"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/uibuta/uibuta_legs"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:relics/unheard_bell"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:mobs/virinsipede"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/vueko/vueko"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/vueko/vueko_restraints"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/wazukyan"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:blocks/windmill"
-    },
-    {
-      "type": "single",
-      "resource": "mineinabyss:characters/yelme"
-    },
-    {
-      "type": "single",
-      "resource": "nazarick:entity/albedo"
-    }
-  ]
+    "sources": [
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/camper_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/generic_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/miner_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/neritantan_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/satchel"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:balloons/neritantan_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/benner_cosplay"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/deadmau5_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/menacing"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/mining_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:other/mannequin"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:other/paintbrush"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:relics/bounding_lance"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/invisible_slot_icon"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_any_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_invite_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_request_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/pvp/pvp_toggle_disabled"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/pvp/pvp_toggle_enabled"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/abyssal_snail"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/amakagame"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ashimite"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/belaf"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/belchero"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/beniguma"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/billabonk"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_head"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_legs_overlay"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/accessories_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_arms_overlay"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_body_overlay"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_neck"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_tail"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/whistle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_legs"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_arms"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_legs_overlay_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/chimokami"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/corpse_weeper/body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/corpse_weeper/leg"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/corpse_weeper/wings_flying"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/cyatoria"
+        },
+        {
+            "type": "single",
+            "resource": "nazarick:entity/deathknight"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/demonfish"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/dosetori"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/edusan"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/faputa"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/fuwagi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/gaburoon"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/guildmaster"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/habo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hamashirama/hamashirama"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hamashirama/hamashirama_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hammerbeak"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hashofu"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hisomukuro/hisomukuro"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hisomukuro/hisomukuro_fin"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/inbyo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/jiruo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kagi_tachikiri"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kakatsumuri"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kazura"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/kiyui"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kuongatari"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/laffi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/lyza"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/madokajack"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/makihige"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/marulk"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/mio"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/moogie"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_base"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_parts"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_hat_front"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_tail"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nat"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/neritantan"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_body_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_body_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_body_3"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_saddle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_mouth"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_head"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_ext"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_pouch"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/onitsuchi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/orbpiercer"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_3"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_4"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_mouth_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_tail_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_3"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_4"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_5"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_6"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_7"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_8"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_tail_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_10"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_move"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/ozen"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/ozen_despair"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/prushka"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/reg/reg_part1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/reg/reg_part2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/riko/rikopart1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/riko/rikopart2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/riko/red_whistle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/rinsipede"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/rohana"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/sakuranbo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/shiggy"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/water_mushroom"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_move"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_mouth"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_head"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_body_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/silkfang"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/simred"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/spiralsquid"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/splitjaw"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/squidfly/wings_fly"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/squidfly/tenticle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/squidfly/body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/stingerhead"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/tepaste"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/tesuchi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/titanjaw"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/torka"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/uibuta"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/virinsipede"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/vueko/vueko"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/vueko/vueko_restraints"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/wazukyan"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/yelme"
+        },
+        {
+            "type": "single",
+            "resource": "nazarick:entity/albedo"
+        }
+    ]
 }
