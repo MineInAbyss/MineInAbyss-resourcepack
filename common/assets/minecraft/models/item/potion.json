@@ -31,6 +31,7 @@
 
     { "predicate": {"custom_model_data": 301}, "model": "cosmetics:balloons/neritantan_balloon"},
 
-    { "predicate": {"custom_model_data": 1000}, "model": "cosmetics:other/paintbrush"}
+    { "predicate": {"custom_model_data": 1000}, "model": "cosmetics:other/paintbrush"},
+    { "predicate": {"custom_model_data": 1001}, "model": "cosmetics:other/mannequin"}
   ]
 }
