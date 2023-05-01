@@ -82,8 +82,6 @@ jobs:
         with:
           name: dev-pack
           path: out/MineInAbyss-Dev-Resourcepack.zip
-  squash-pack:
-
   create-release:
     runs-on: ubuntu-latest
     needs: [determine-release-version, generatepack]
