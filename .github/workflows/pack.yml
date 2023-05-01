@@ -77,6 +77,13 @@ jobs:
         with:
           name: build-pack
           path: out/MineInAbyss-Build-Resourcepack.zip
+      - name: Upload Dev zip
+        uses: actions/upload-artifact@v2
+        with:
+          name: dev-pack
+          path: out/MineInAbyss-Dev-Resourcepack.zip
+  squash-pack:
+
   create-release:
     runs-on: ubuntu-latest
     needs: [determine-release-version, generatepack]
@@ -98,6 +105,10 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: build-pack
+      - name: Download Dev Resourcepack
+        uses: actions/download-artifact@v1
+        with:
+          name: dev-pack
       - name: Create GitHub Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
@@ -107,4 +118,5 @@ jobs:
           files: |
             build-pack/*
             survival-pack/*
+            dev-pack/*
             
