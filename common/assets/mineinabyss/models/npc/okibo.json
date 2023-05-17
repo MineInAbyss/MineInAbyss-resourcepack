@@ -499,8 +499,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -20, 0],
-			"scale": [3, 3, 3]
+			"translation": [0, -28, 0],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
