@@ -3,5 +3,7 @@
   "textures": {
     "cross": "mineinabyss:block/nature/foliage8",
     "particle": "mineinabyss:block/nature/foliage8"
-  }
+  },
+  "gui_light": "front",
+  "display": {}
 }

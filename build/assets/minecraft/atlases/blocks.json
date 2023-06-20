@@ -1,0 +1,2068 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_bench"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_flower"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_mirror"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_plant"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_rack"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_side_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/bamboo_furniture/bamboo_wind_chimes"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/black_bishop"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/black_king"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/black_knight"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/black_pawn"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/black_queen"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/black_rook"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/white_bishop"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/white_king"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/white_knight"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/white_pawn"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/white_queen"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/chess_furniture/white_rook"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_adorned_vase"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_bar_counter_end_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_bar_counter_end_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_bar_counter_middle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_bar_counter_turn"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_big_leaf"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_chandelier"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_china_cabinet"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_fern"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_hall_carpet_end"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_hall_carpet_middle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_hall_carpet_stair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_hall_carpet_turn"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_key_storage"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_key_storage_full"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_luggage_cart"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_luggage_cart_full"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_rope_pole"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_roses"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/service_bell"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/classic_hotel_pack/classic_hotel_vase"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/acacia_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/banner_1_triangle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/banner_1_mid"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/banner_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/banner_3"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/barrel"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/birch_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/broken_barrel"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/bronze_coin"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/cabinet"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/cabinet_with_potions"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/crimson_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/dark_oak_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/gold_coin"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/jungle_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/mangrove_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/oak_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/silver_coin"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/skull"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/spruce_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/decorations_plusplus/stones_1"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/decorations_plusplus/stones_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/decorations_plusplus/warped_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/decorations_plusplus/weapon_stand_empty"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/decorations_plusplus/weapon_stand_with_weapons"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_bench"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_big_couch"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_big_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_couch"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_stool"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dungeon_decorations/caged_skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dungeon_decorations/candle_holder"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dungeon_decorations/candle_holder_wall"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dungeon_decorations/day_marks"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/dungeon_decorations/dungeon_banner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/dungeon_banner"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_banner_ripped"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/dungeon_banner_ripped"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_cage"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/dungeon_cage"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_pot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/dungeon_pot"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_pots"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_triangle_banner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/dungeon_triangle_banner"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/dungeon_triangle_banner_ripped"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/dungeon_triangle_banner_ripped"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/metal_bars_stacked_copper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/metal_bars_stacked_copper"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/metal_bars_stacked_gold"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/metal_bars_stacked_gold"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/metal_bars_stacked_iron"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/metal_bars_stacked_iron"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/metal_bars_stacked_netherite"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/practice_target"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/skeleton"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/tombstone"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/tombstone_big"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/tombstone_big"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/wall_fountain"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/wall_key"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/wall_shackle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dungeon_decorations/wall_shackle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations/wall_shackle_bone"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/cell_door_closed"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/cell_door_open"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/cell_wall"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/cell_wall_turn_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/cell_wall_turn_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_books"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_bookshelf_broken"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_bookshelf_empty"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_bookshelf_full"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_fence"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_fence_tall"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_gate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_spikes"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_tomb"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_tomb_cloth"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/dungeon_decorations_2/dungeon_tomb_open"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/ceiling_brazier"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/gargoyle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:goth_furniture_v2/gargoyle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_bed"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_bookshelf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:goth_furniture_v2/goth_bookshelf"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_bookshelf_filled"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_fancy_bed"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_mirror"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:goth_furniture_v2/goth_mirror"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_painting_4"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_painting_5"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/goth_statue"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:goth_furniture_v2/goth_statue"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/goth_furniture_v2/fire_bowl"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/big_candle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/big_candles"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/brain"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/eyes"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/halloween_pumpkin"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halloween_ritual_furniture/halloween_pumpkin"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/halloween_pumpkin_carved"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halloween_ritual_furniture/halloween_pumpkin_carved"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/lungs"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halloween_ritual_furniture/lungs"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/ritual_circle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halloween_ritual_furniture/ritual_circle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/zombie_arm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halloween_ritual_furniture/zombie_arm"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/halloween_ritual_furniture/zombie_arm_ground"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halloween_ritual_furniture/zombie_arm_ground"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/candelabrum"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/chandelier"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/chandelier"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/cobweb_1"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/cobweb_1"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/cobweb_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/covered_armchair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/covered_chair"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/covered_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/covered_couch"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/covered_couch"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/covered_dinner_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/covered_dinner_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/covered_side_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/covered_side_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/creepy_painting"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/window_boards"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/window_boards"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/haunted_house/window_boards_tall"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:haunted_house/window_boards_tall"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/anime_poster_1"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/anime_poster_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/bamboo_vase"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/bonsai"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/dango_plushie"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/daruma"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_art_1"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_art_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_ceiling_lamp"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_crate"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_floor_lamp"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_folding_screen"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_key"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_lower_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_screen"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_tall_lamp"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/japanese_tea_set"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/kimono_decoration"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/ofuro"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/teru_teru_bozu"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:japanese_furniture/teru_teru_bozu"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/japanese_furniture/zabuton"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_big_potion"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_card"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_cards"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_card_tower"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_cash_register"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_crystal_ball"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_display_pillow"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_hourglass"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_potion_stand"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/furniture/magic_store/magic_store_wall_cloth"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/magic_store/magic_store_wand"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/magic_store/magic_store_wand_box"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/magic_store/magic_store_wand_boxes"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/magic_store/magic_store_wand_on_box"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/office_furniture/computer"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/office_furniture/computer_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:office_furniture/fan"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:office_furniture/fan_on"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/office_furniture/lamp_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/office_furniture/nightstand"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/office_furniture/office_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_big_table_end"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_big_table_midle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_big_table_midle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_dinner_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_book_holder"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_book_holder_book"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_cabinet_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_counter_cabinet_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_cabinet_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_counter_cabinet_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_counter_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_middle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_middle_shelf"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_open_bottom_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_counter_open_bottom_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_open_cabinet_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_open_cabinet_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_open_top_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_counter_open_top_drawer"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_turn"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_turn_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_counter_turn_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_end_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_end_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_end_shelf_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_end_shelf_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_keg"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_oven"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pan"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_pan"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_apple"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_apple"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_beetroot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_beetroot"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_melon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_melon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_potato"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_potato"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_salmon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_salmon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_panel_wheat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_panel_wheat"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pan_closed"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pan_full"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_pot"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pot_closed"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pot_full"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pot_open"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_pot_stacked"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_recipe_book"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_recipe_book"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_top_cabinet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_top_cabinet"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_top_cabinet_door_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_top_cabinet_door_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_top_cabinet_door_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_top_cabinet_door_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_top_cabinet_open_door_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_top_cabinet_open_door_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_top_cabinet_open_door_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_top_cabinet_open_door_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_kitchen_top_cabinet_shelf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_kitchen_top_cabinet_shelf"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_shelf_end_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_shelf_end_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_shelf_end_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_shelf_end_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_shelf_middle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_shelf_middle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_shelf_turn_left"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_shelf_turn_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_shelf_turn_right"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_shelf_turn_right"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/rustic_kitchen/rustic_stool"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:rustic_kitchen/rustic_stool"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_big_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_deco_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_deco"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_lamp"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_shelf"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_stool"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_vase"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/sculk_furniture/sculk_vase_2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/golden_creeper_trophy"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_bar_stool"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_bar_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_big_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_cactus_pot"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_ceiling_fan"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_clock"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_daisy_pot"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_lamp"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_lights"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_painting"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_plant"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_plant2"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_plant3"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_shelf"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_sofa_corner"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_sofa_footstool"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_sofa_left"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_sofa_middle"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_stool"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_table_lamp"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/snights_modern_furniture/modern_tv"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/aloe_vera"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/dripping_flower"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/generic_flower"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/lavender"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/snake_plant"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/sunflower"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/tall_grass"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/vase_amphora"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/vase_calyx_krater"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/vase_loutrophoros"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/vase_pelike"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/vase_volute_krater"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/vases_and_plants/vase_wall"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:w11shes_furniture_pack/armchair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/w11shes_furniture_pack/dark_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/w11shes_furniture_pack/dark_cupboard"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:w11shes_furniture_pack/dark_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/w11shes_furniture_pack/dark_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:w11shes_furniture_pack/double_dark_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/w11shes_furniture_pack/double_dark_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:w11shes_furniture_pack/double_light_table"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:w11shes_furniture_pack/light_chair"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/w11shes_furniture_pack/light_cupboard"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:w11shes_furniture_pack/light_table"
+        },
+        {
+            "type": "single",
+            "resource": "hmcmodels:furniture/w11shes_furniture_pack/sofa"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/axe_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/bow_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/fishing_rod_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/hoe_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/pickaxe_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/shield_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/shovel_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/sword_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/trident_wrapper_icon"
+        },
+        {
+            "type": "single",
+            "resource": "hmcwraps:wrappers/unwrapper"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:furniture/stone_bench"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:furniture/sunny_wood_chair"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/camper_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/generic_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/miner_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/neritantan_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/satchel"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:balloons/neritantan_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/benner_cosplay"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/deadmau5_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/menacing"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/mining_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:other/mannequin"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:other/paintbrush"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:relics/bounding_lance"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/invisible_slot_icon"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_any_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_invite_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_request_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/pvp/pvp_toggle_disabled"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/pvp/pvp_toggle_enabled"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/abyssal_snail"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/amakagame"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ashimite"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/belaf"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/belchero"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/beniguma"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/billabonk"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_head"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_legs_overlay"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/accessories_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_arms_overlay"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_body_overlay"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_neck"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_tail"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/whistle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_legs"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_arms"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/bondrewd/bondrewd_legs_overlay_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/chimokami"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/corpse_weeper/body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/corpse_weeper/leg"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/corpse_weeper/wings_flying"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/cyatoria"
+        },
+        {
+            "type": "single",
+            "resource": "nazarick:entity/deathknight"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/demonfish"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/dosetori"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/edusan"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/faputa"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/fuwagi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/gaburoon"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/guildmaster"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/habo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hamashirama/hamashirama"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hamashirama/hamashirama_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hammerbeak"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hashofu"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hisomukuro/hisomukuro"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/hisomukuro/hisomukuro_fin"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/inbyo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/jiruo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kagi_tachikiri"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kakatsumuri"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kazura"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/kiyui"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/kuongatari"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/laffi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/lyza"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/madokajack"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/makihige"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/marulk"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/mio"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/moogie"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_base"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_parts"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_hat_front"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nanachi/nanachi_tail"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/nat"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/neritantan"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_body_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_body_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_body_3"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_saddle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_mouth"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_head"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_ext"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo/okibo_pouch"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/onitsuchi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/orbpiercer"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_3"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_head_4"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_mouth_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_tail_1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_3"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_4"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_5"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_6"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_7"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_8"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_tail_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_body_10"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/ottobas/ottobas_move"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/ozen"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/ozen_despair"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/prushka"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/reg/reg_part1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/reg/reg_part2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/riko/rikopart1"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/riko/rikopart2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/riko/red_whistle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/rinsipede"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/rohana"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/sakuranbo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/shiggy"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/water_mushroom"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_move"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_mouth"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_head"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_body_2"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/shroombear/shroombear_body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/silkfang"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/simred"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/spiralsquid"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/splitjaw"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/squidfly/wings_fly"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/squidfly/tenticle"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/squidfly/body"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/stingerhead"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/tepaste"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/tesuchi"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/titanjaw"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/torka"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/uibuta"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/virinsipede"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/vueko/vueko"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/vueko/vueko_restraints"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/wazukyan"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:character/yelme"
+        },
+        {
+            "type": "single",
+            "resource": "nazarick:entity/albedo"
+        }
+    ]
+}
