@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/barrier"
+    },
+    "type=double": {
+      "model": "minecraft:block/barrier"
+    },
+    "type=top": {
+      "model": "minecraft:block/barrier"
+    }
+  }
+}
