@@ -56,7 +56,8 @@
         { "predicate": {"custom_model_data":4,"blocking":1},"model":"mineinabyss:item/relics/spined_targe/spined_targe_blocking"},
         { "predicate": {"custom_model_data":4, "blocking":1,"damaged":1, "damage":0.2},"model":"mineinabyss:item/relics/spined_targe/spined_targe_damage1"},
         { "predicate": {"custom_model_data":4,"blocking":1,"damaged":1, "damage":0.5},"model":"mineinabyss:item/relics/spined_targe/spined_targe_damage2"},
-        { "predicate": {"custom_model_data":4,"blocking":1,"damaged":1, "damage":0.8},"model":"mineinabyss:item/relics/spined_targe/spined_targe_damage3"}
-
+        { "predicate": {"custom_model_data":4,"blocking":1,"damaged":1, "damage":0.8},"model":"mineinabyss:item/relics/spined_targe/spined_targe_damage3"},
+        { "predicate": {"custom_model_data":5},"model":"mineinabyss:item/relics/scaled_umbrella/scaled_umbrella_closed"},
+        { "predicate": {"custom_model_data":5,"blocking":1},"model":"mineinabyss:item/relics/scaled_umbrella/scaled_umbrella_open"}
     ]
 }
