@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_big_couch",
-		"particle": "hmcmodels:furniture/furniture/dreamy_outdoors/dreamy_big_couch"
+		"1": "hmcmodels:furniture/dreamy_outdoors/dreamy_big_couch",
+		"particle": "hmcmodels:furniture/dreamy_outdoors/dreamy_big_couch"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "hmcmodels:furniture/furniture/dungeon_decorations/candle_holder_wall"
+		"3": "hmcmodels:furniture/dungeon_decorations/candle_holder_wall"
 	},
 	"elements": [
 		{

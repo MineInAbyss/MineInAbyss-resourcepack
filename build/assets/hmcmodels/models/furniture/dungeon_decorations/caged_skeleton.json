@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/dungeon_decorations/caged_skeleton"
+		"2": "hmcmodels:furniture/dungeon_decorations/caged_skeleton"
 	},
 	"elements": [
 		{
@@ -294,24 +294,18 @@
 			"name": "head",
 			"origin": [0, 24, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [8]
 		},
 		{
 			"name": "body",
 			"origin": [0, 24, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [9, 10, 11, 12, 13]
 		},
 		{
 			"name": "left_arm",
 			"origin": [5, 22, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"shade": false,
 			"children": [14]
 		},
@@ -319,16 +313,12 @@
 			"name": "right_arm",
 			"origin": [-5, 22, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [15]
 		},
 		{
 			"name": "left_leg",
 			"origin": [2, 12, 0.1],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"shade": false,
 			"children": []
 		},
@@ -336,8 +326,6 @@
 			"name": "right_leg",
 			"origin": [-2, 12, 0.1],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [16, 17]
 		}
 	]

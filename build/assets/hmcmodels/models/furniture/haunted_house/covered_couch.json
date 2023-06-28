@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/haunted_house/covered_couch",
+		"2": "hmcmodels:furniture/haunted_house/covered_couch",
 		"particle": "haunted_house/covered_couch"
 	},
 	"elements": [

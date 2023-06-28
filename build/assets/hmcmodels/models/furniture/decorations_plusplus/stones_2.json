@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/decorations_plusplus/stones_2"
+		"2": "hmcmodels:furniture/decorations_plusplus/stones_2"
 	},
 	"elements": [
 		{
@@ -108,8 +108,6 @@
 			"name": "stone",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4]
 		}
 	]

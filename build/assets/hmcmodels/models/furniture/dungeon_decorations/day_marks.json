@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "hmcmodels:furniture/furniture/dungeon_decorations/day_marks"
+		"1": "hmcmodels:furniture/dungeon_decorations/day_marks"
 	},
 	"elements": [
 		{

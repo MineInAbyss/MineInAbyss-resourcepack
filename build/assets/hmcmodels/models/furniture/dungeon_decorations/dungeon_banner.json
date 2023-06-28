@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/dungeon_decorations/dungeon_banner",
-		"particle": "hmcmodels:furniture/furniture/dungeon_decorations/dungeon_banner"
+		"2": "hmcmodels:furniture/dungeon_decorations/dungeon_banner",
+		"particle": "hmcmodels:furniture/dungeon_decorations/dungeon_banner"
 	},
 	"elements": [
 		{
@@ -312,8 +312,6 @@
 			"name": "tint",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [12, 13, 14, 15, 16, 17, 18, 19, 20]
 		}
 	]

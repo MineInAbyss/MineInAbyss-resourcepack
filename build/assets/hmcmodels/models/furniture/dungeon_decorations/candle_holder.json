@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "hmcmodels:furniture/furniture/dungeon_decorations/candle_holder",
-		"particle": "hmcmodels:furniture/furniture/dungeon_decorations/candle_holder"
+		"1": "hmcmodels:furniture/dungeon_decorations/candle_holder",
+		"particle": "hmcmodels:furniture/dungeon_decorations/candle_holder"
 	},
 	"elements": [
 		{

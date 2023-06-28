@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "goth_furniture_v2/goth_statue",
+		"1": "hmcmodels:furniture/goth_furniture_v2/goth_statue",
 		"3": "hmcmodels:furniture/goth_furniture_v2/fire_bowl",
-		"particle": "goth_furniture_v2/goth_statue"
+		"particle": "hmcmodels:furniture/goth_furniture_v2/goth_statue"
 	},
 	"elements": [
 		{
@@ -342,15 +342,11 @@
 			"name": "Torso",
 			"origin": [0, 30, -0.8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "Arm_left",
 					"origin": [-6.6, 37, -0.8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [
 						0,
 						1,
@@ -358,24 +354,18 @@
 							"name": "Forearm_left",
 							"origin": [-18.4, 21.6, -0.8],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": [
 								2,
 								{
 									"name": "Thumb_left",
 									"origin": [-12, 10.8, -0.8],
 									"color": 0,
-									"nbt": "{}",
-									"armAnimationEnabled": false,
 									"children": [3]
 								},
 								{
 									"name": "Fingers_left",
 									"origin": [-18.8, 10.8, -4.8],
 									"color": 0,
-									"nbt": "{}",
-									"armAnimationEnabled": false,
 									"children": [4]
 								}
 							]
@@ -386,8 +376,6 @@
 					"name": "Arm_left",
 					"origin": [-6.6, 37, -0.8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [
 						5,
 						6,
@@ -395,24 +383,18 @@
 							"name": "Forearm_left",
 							"origin": [-18.4, 21.6, -0.8],
 							"color": 0,
-							"nbt": "{}",
-							"armAnimationEnabled": false,
 							"children": [
 								7,
 								{
 									"name": "Thumb_left",
 									"origin": [-12, 10.8, -0.8],
 									"color": 0,
-									"nbt": "{}",
-									"armAnimationEnabled": false,
 									"children": [8]
 								},
 								{
 									"name": "Fingers_left",
 									"origin": [-18.8, 10.8, -4.8],
 									"color": 0,
-									"nbt": "{}",
-									"armAnimationEnabled": false,
 									"children": [9]
 								}
 							]
@@ -425,8 +407,6 @@
 					"name": "Head",
 					"origin": [0, 29.2, -0.8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [12, 13]
 				}
 			]
@@ -435,24 +415,18 @@
 			"name": "Legs",
 			"origin": [0, 22.66667, -0.8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				14,
 				{
 					"name": "Leg_left",
 					"origin": [-3.2, 13.2, -0.8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [15]
 				},
 				{
 					"name": "Leg_left",
 					"origin": [-3.2, 13.2, -0.8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [16]
 				}
 			]
