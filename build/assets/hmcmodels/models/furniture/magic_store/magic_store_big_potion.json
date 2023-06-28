@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/magic_store/magic_store_big_potion"
+		"2": "hmcmodels:furniture/magic_store/magic_store_big_potion"
 	},
 	"elements": [
 		{
@@ -150,8 +150,6 @@
 			"name": "group",
 			"origin": [11, 3, 5.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": []
 		}
 	]

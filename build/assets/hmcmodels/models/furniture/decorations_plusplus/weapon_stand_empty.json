@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/decorations_plusplus/weapon_stand_empty"
+		"2": "hmcmodels:furniture/decorations_plusplus/weapon_stand_empty"
 	},
 	"elements": [
 		{
@@ -213,31 +213,23 @@
 			"name": "weapon stand",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [16, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [0, 1, 2]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [3, 4, 5, 6, 7]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [8, 9, 10, 11, 12]
 				}
 			]

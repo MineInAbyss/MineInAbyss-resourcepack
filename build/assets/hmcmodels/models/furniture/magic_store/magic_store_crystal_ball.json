@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "hmcmodels:furniture/furniture/magic_store/magic_store_crystal_ball"
+		"1": "hmcmodels:furniture/magic_store/magic_store_crystal_ball"
 	},
 	"elements": [
 		{

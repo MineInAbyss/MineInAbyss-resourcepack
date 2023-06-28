@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hmcmodels:furniture/furniture/magic_store/magic_store_card",
-		"particle": "hmcmodels:furniture/furniture/magic_store/magic_store_card"
+		"0": "hmcmodels:furniture/magic_store/magic_store_card",
+		"particle": "hmcmodels:furniture/magic_store/magic_store_card"
 	},
 	"elements": [
 		{

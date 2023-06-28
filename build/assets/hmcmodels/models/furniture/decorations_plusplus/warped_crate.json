@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"8": "hmcmodels:furniture/furniture/decorations_plusplus/warped_crate"
+		"8": "hmcmodels:furniture/decorations_plusplus/warped_crate"
 	},
 	"elements": [
 		{
@@ -211,8 +211,6 @@
 			"name": "group",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 		}
 	]

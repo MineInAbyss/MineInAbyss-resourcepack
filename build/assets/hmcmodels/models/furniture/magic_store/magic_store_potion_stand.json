@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/magic_store/magic_store_potion_stand"
+		"2": "hmcmodels:furniture/magic_store/magic_store_potion_stand"
 	},
 	"elements": [
 		{
@@ -568,8 +568,6 @@
 			"name": "group",
 			"origin": [11, 3, 5.5],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
 		},
 		39

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "hmcmodels:furniture/furniture/decorations_plusplus/weapon_stand_with_weapons",
-		"particle": "hmcmodels:furniture/furniture/decorations_plusplus/weapon_stand_with_weapons"
+		"1": "hmcmodels:furniture/decorations_plusplus/weapon_stand_with_weapons",
+		"particle": "hmcmodels:furniture/decorations_plusplus/weapon_stand_with_weapons"
 	},
 	"elements": [
 		{
@@ -370,31 +370,23 @@
 			"name": "weapon stand",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [16, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [0, 1, 2]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [3, 4, 5, 6, 7]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [8, 9, 10, 11, 12]
 				}
 			]
@@ -403,23 +395,17 @@
 			"name": "weapons",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "group",
 					"origin": [6, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [13, 14, 15, 16, 17, 18]
 				},
 				{
 					"name": "group",
 					"origin": [6, 0, 0],
 					"color": 0,
-					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [19, 20, 21, 22, 23, 24]
 				}
 			]

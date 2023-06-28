@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "hmcmodels:furniture/furniture/haunted_house/window_boards_tall",
+		"2": "hmcmodels:furniture/haunted_house/window_boards_tall",
 		"particle": "haunted_house/window_boards_tall"
 	},
 	"elements": [
