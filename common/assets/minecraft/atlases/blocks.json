@@ -314,6 +314,10 @@
         },
         {
             "type": "single",
+            "resource": "mineinabyss:mobs/okibo"
+        },
+        {
+            "type": "single",
             "resource": "mineinabyss:mobs/okibo/okibo_body_1"
         },
         {
