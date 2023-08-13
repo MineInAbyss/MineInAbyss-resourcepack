@@ -41,7 +41,6 @@
     { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"},
     { "predicate": {"custom_model_data": 127}, "model": "mineinabyss:item/materials/haste_paste"},
 
-    { "predicate": {"custom_model_data": 200}, "model": "mineinabyss:npc/okibo"},
-    { "predicate": {"custom_model_data": 201}, "model": "mineinabyss:npc/okibo_cart"}
+    { "predicate": {"custom_model_data": 200}, "model": "mineinabyss:npc/okibo"}
   ]
 }
