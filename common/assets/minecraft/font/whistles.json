@@ -206,6 +206,24 @@
       "chars": [
           ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:whistles/marblew.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "mineinabyss:whistles/lamew.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
