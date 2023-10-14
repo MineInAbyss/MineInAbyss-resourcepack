@@ -294,14 +294,19 @@
 			"mineinabyss:item/equipment/backpack/close"
 		]
 	},
-	"music.custom.noteblock.deepinabyss": {
+	"music.custom.orth.deep_in_abyss": {
 		"sounds": [
-			"mineinabyss:music/noteblock/deep_in_abyss"
+			"mineinabyss:music/orth/deep_in_abyss"
 		]
 	},
-	"music.custom.noteblock.orthwaltz": {
+	"music.custom.orth.orth_waltz": {
 		"sounds": [
-			"mineinabyss:music/noteblock/orth_waltz"
+			"mineinabyss:music/orth/orth_waltz"
+		]
+	},
+	"music.custom.layer5.beneath_the_ice": {
+		"sounds": [
+			"mineinabyss:music/layer5/beneath_the_ice"
 		]
 	}
 }
