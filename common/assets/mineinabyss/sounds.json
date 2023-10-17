@@ -293,20 +293,5 @@
 		"sounds": [
 			"mineinabyss:item/equipment/backpack/close"
 		]
-	},
-	"music.custom.orth.deep_in_abyss": {
-		"sounds": [
-			"mineinabyss:music/orth/deep_in_abyss"
-		]
-	},
-	"music.custom.orth.orth_waltz": {
-		"sounds": [
-			"mineinabyss:music/orth/orth_waltz"
-		]
-	},
-	"music.custom.layer5.beneath_the_ice": {
-		"sounds": [
-			"mineinabyss:music/layer5/beneath_the_ice"
-		]
 	}
 }
