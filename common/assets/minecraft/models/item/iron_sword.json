@@ -1,5 +1,5 @@
 {
-  "parent": "mineinabyss:item/tools/sword/iron_dagger_mia",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "minecraft:item/iron_sword"
   }

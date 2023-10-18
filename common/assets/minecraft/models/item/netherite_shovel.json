@@ -1,5 +1,5 @@
 {
-  "parent": "mineinabyss:item/tools/shovel/netherite_shovel_mia",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "minecraft:item/netherite_shovel"
   }

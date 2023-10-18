@@ -1,5 +1,5 @@
 {
- "parent": "mineinabyss:item/tools/sword/netherite_dagger_mia",
+ "parent": "item/handheld",
  "textures": {
   "layer0": "item/netherite_sword"
  },
