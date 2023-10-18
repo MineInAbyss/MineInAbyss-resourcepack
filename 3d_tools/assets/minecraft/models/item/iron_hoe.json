@@ -1,0 +1,9 @@
+{
+  "parent": "mineinabyss:item/tools/hoe/iron_hoe_mia",
+  "textures": {
+    "layer0": "minecraft:item/iron_hoe"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/tools/sickle/iron_sickle"}
+  ]
+}

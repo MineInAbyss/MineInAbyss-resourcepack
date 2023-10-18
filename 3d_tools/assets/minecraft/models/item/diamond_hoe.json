@@ -1,0 +1,9 @@
+{
+	"parent": "mineinabyss:item/tools/hoe/diamond_hoe_mia",
+	"textures": {
+		"layer0": "item/diamond_hoe"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/tools/sickle/diamond_sickle"}
+	]
+}

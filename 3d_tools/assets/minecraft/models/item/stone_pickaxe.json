@@ -1,0 +1,6 @@
+{
+  "parent": "mineinabyss:item/tools/pickaxe/stone_pick_mia",
+  "textures": {
+    "layer0": "minecraft:item/stone_pickaxe"
+  }
+}
