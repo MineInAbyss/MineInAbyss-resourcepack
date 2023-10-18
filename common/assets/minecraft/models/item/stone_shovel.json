@@ -1,5 +1,5 @@
 {
-  "parent": "mineinabyss:item/tools/shovel/stone_shovel_mia",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "item/stone_shovel"
   },

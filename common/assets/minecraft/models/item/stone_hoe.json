@@ -1,5 +1,5 @@
 {
-  "parent": "mineinabyss:item/tools/hoe/stone_hoe_mia",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "item/stone_hoe"
   },

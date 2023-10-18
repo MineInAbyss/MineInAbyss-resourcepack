@@ -1,6 +1,6 @@
 
 {
- "parent": "mineinabyss:item/tools/hoe/netherite_hoe_mia",
+ "parent": "item/handheld",
  "textures": {
   "layer0": "item/netherite_hoe"
  },

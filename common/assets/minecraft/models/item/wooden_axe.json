@@ -1,5 +1,5 @@
 {
-  "parent": "mineinabyss:item/tools/axe/wood_axe_mia",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "minecraft:item/wooden_axe"
   }
