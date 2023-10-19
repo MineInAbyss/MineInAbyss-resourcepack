@@ -293,15 +293,5 @@
 		"sounds": [
 			"mineinabyss:item/equipment/backpack/close"
 		]
-	},
-	"music.custom.noteblock.deepinabyss": {
-		"sounds": [
-			"mineinabyss:music/noteblock/deep_in_abyss"
-		]
-	},
-	"music.custom.noteblock.orthwaltz": {
-		"sounds": [
-			"mineinabyss:music/noteblock/orth_waltz"
-		]
 	}
 }
