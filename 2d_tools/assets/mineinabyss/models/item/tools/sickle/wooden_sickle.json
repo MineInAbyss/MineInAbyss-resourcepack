@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "mineinabyss:item/tools/wooden_sickle"
+	}
+}
