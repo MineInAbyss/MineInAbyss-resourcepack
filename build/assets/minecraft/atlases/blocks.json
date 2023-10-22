@@ -1,0 +1,16 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "mineinabyss:furniture/noticeboard_okibo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:furniture/stone_bench"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:furniture/sunny_wood_chair"
+        }
+    ]
+}
