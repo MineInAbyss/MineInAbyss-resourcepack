@@ -1,0 +1,88 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/camper_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/generic_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/miner_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/neritantan_backpack"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:backpacks/satchel"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:balloons/neritantan_balloon"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/benner_cosplay"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/deadmau5_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/menacing"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/mining_helmet"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:other/mannequin"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:other/paintbrush"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:relics/bounding_lance"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/invisible_slot_icon"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_any_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_invite_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/guilds/guild_jointype_request_button"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/pvp/pvp_toggle_disabled"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:ui/pvp/pvp_toggle_enabled"
+        },
+        {
+            "type": "single",
+            "resource": "nazarick:entity/albedo"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:relics/scaled_umbrella"
+        }
+    ]
+}
