@@ -87,6 +87,9 @@
     {"predicate": {"custom_model_data": 1029}, "model": "hmcmodels:furniture/sculk_furniture/sculk_table"},
     {"predicate": {"custom_model_data": 1030}, "model": "hmcmodels:furniture/sculk_furniture/sculk_vase"},
     {"predicate": {"custom_model_data": 1031}, "model": "hmcmodels:furniture/sculk_furniture/sculk_vase_2"},
+    {"predicate": {"custom_model_data": 1032}, "model": "mineinabyss:furniture/noticeboard_okibo"},
+
+    
 
     {"predicate": {"custom_model_data": 2000}, "model": "minecraft:block/note_block"},
     {"predicate": {"custom_model_data": 2001}, "model": "mineinabyss:block/ores/charcoal_sand_ore"},
