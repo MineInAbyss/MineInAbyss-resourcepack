@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "hmcwraps:wrappers/shovel_wrapper_icon"
-    }
-  }
