@@ -2,18 +2,6 @@
     "sources": [
         {
             "type": "single",
-            "resource": "cosmetics:backpacks/camper_backpack"
-        },
-        {
-            "type": "single",
-            "resource": "cosmetics:backpacks/generic_backpack"
-        },
-        {
-            "type": "single",
-            "resource": "cosmetics:backpacks/miner_backpack"
-        },
-        {
-            "type": "single",
             "resource": "cosmetics:backpacks/neritantan_backpack"
         },
         {
@@ -30,19 +18,7 @@
         },
         {
             "type": "single",
-            "resource": "cosmetics:hats/deadmau5_helmet"
-        },
-        {
-            "type": "single",
             "resource": "cosmetics:hats/menacing"
-        },
-        {
-            "type": "single",
-            "resource": "cosmetics:hats/mining_helmet"
-        },
-        {
-            "type": "single",
-            "resource": "cosmetics:other/mannequin"
         },
         {
             "type": "single",
@@ -83,6 +59,10 @@
         {
             "type": "single",
             "resource": "mineinabyss:relics/scaled_umbrella"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:mobs/okibo"
         }
     ]
 }
