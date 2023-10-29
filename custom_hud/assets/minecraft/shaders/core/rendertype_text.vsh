@@ -200,7 +200,7 @@ void main() {
                 layer = 1;
                 break;
             case 129:
-                xOffset = int(guiSize.x * (-100.0/100))+34;
+                xOffset = int(guiSize.x * (-100.0/100))+26;
                 yOffset = int(guiSize.y * (0.0/100))+104;
                 layer = 1;
                 break;
