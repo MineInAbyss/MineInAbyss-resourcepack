@@ -210,18 +210,18 @@ void main() {
                 layer = 1;
                 break;
             case 131:
-                xOffset = int(guiSize.x * (-50.0/100))+52;
-                yOffset = int(guiSize.y * (0.0/100))+54;
+                xOffset = int(guiSize.x * (-50.0/100))+53;
+                yOffset = int(guiSize.y * (0.0/100))+53;
                 layer = 1;
                 break;
             case 132:
-                xOffset = int(guiSize.x * (-50.0/100))+110;
-                yOffset = int(guiSize.y * (0.0/100))+31;
+                xOffset = int(guiSize.x * (-50.0/100))+108;
+                yOffset = int(guiSize.y * (0.0/100))+43;
                 layer = 1;
                 break;
             case 133:
-                xOffset = int(guiSize.x * (-50.0/100))+123;
-                yOffset = int(guiSize.y * (0.0/100))+31;
+                xOffset = int(guiSize.x * (-50.0/100))+118;
+                yOffset = int(guiSize.y * (0.0/100))+43;
                 layer = 1;
                 break;
             case 134:
@@ -260,63 +260,63 @@ void main() {
                 layer = 2;
                 break;
             case 141:
-                xOffset = int(guiSize.x * (-50.0/100))+120;
-                yOffset = int(guiSize.y * (0.0/100))+26;
+                xOffset = int(guiSize.x * (-50.0/100))+119;
+                yOffset = int(guiSize.y * (0.0/100))+24;
                 layer = 1;
                 break;
             case 142:
-                xOffset = int(guiSize.x * (-50.0/100))+120;
-                yOffset = int(guiSize.y * (0.0/100))+27;
+                xOffset = int(guiSize.x * (-50.0/100))+119;
+                yOffset = int(guiSize.y * (0.0/100))+25;
                 layer = 1;
                 break;
             case 143:
-                xOffset = int(guiSize.x * (-50.0/100))+120;
-                yOffset = int(guiSize.y * (0.0/100))+24;
+                xOffset = int(guiSize.x * (-50.0/100))+119;
+                yOffset = int(guiSize.y * (0.0/100))+22;
                 layer = 1;
                 break;
             case 144:
                 xOffset = int(guiSize.x * (-50.0/100))+120;
-                yOffset = int(guiSize.y * (0.0/100))+12;
+                yOffset = int(guiSize.y * (0.0/100))+11;
                 layer = 1;
                 break;
             case 145:
                 xOffset = int(guiSize.x * (-50.0/100))+120;
-                yOffset = int(guiSize.y * (0.0/100))+13;
+                yOffset = int(guiSize.y * (0.0/100))+12;
                 layer = 1;
                 break;
             case 146:
                 xOffset = int(guiSize.x * (-50.0/100))+120;
-                yOffset = int(guiSize.y * (0.0/100))+10;
+                yOffset = int(guiSize.y * (0.0/100))+9;
                 layer = 1;
                 break;
             case 147:
-                xOffset = int(guiSize.x * (-50.0/100))+95;
-                yOffset = int(guiSize.y * (0.0/100))+26;
+                xOffset = int(guiSize.x * (-50.0/100))+94;
+                yOffset = int(guiSize.y * (0.0/100))+24;
                 layer = 1;
                 break;
             case 148:
-                xOffset = int(guiSize.x * (-50.0/100))+95;
-                yOffset = int(guiSize.y * (0.0/100))+27;
+                xOffset = int(guiSize.x * (-50.0/100))+94;
+                yOffset = int(guiSize.y * (0.0/100))+25;
                 layer = 1;
                 break;
             case 149:
-                xOffset = int(guiSize.x * (-50.0/100))+95;
-                yOffset = int(guiSize.y * (0.0/100))+24;
+                xOffset = int(guiSize.x * (-50.0/100))+94;
+                yOffset = int(guiSize.y * (0.0/100))+22;
                 layer = 1;
                 break;
             case 150:
                 xOffset = int(guiSize.x * (-50.0/100))+95;
-                yOffset = int(guiSize.y * (0.0/100))+12;
+                yOffset = int(guiSize.y * (0.0/100))+11;
                 layer = 1;
                 break;
             case 151:
                 xOffset = int(guiSize.x * (-50.0/100))+95;
-                yOffset = int(guiSize.y * (0.0/100))+13;
+                yOffset = int(guiSize.y * (0.0/100))+12;
                 layer = 1;
                 break;
             case 152:
                 xOffset = int(guiSize.x * (-50.0/100))+95;
-                yOffset = int(guiSize.y * (0.0/100))+10;
+                yOffset = int(guiSize.y * (0.0/100))+9;
                 layer = 1;
                 break;
             case 153:
@@ -436,30 +436,170 @@ void main() {
                 break;
             case 176:
                 xOffset = int(guiSize.x * (-100.0/100))+20;
-                yOffset = int(guiSize.y * (0.0/100))+83;
+                yOffset = int(guiSize.y * (0.0/100))+29;
                 layer = 2;
                 break;
             case 177:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+35;
+                layer = 2;
+                break;
+            case 178:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+41;
+                layer = 2;
+                break;
+            case 179:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+47;
+                layer = 2;
+                break;
+            case 180:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+53;
+                layer = 2;
+                break;
+            case 181:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+59;
+                layer = 2;
+                break;
+            case 182:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+65;
+                layer = 2;
+                break;
+            case 183:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+71;
+                layer = 2;
+                break;
+            case 184:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+77;
+                layer = 2;
+                break;
+            case 185:
+                xOffset = int(guiSize.x * (-100.0/100))+20;
+                yOffset = int(guiSize.y * (0.0/100))+83;
+                layer = 2;
+                break;
+            case 186:
                 xOffset = int(guiSize.x * (-100.0/100))+10;
                 yOffset = int(guiSize.y * (0.0/100))+102;
                 layer = 1;
                 break;
-            case 178:
-                xOffset = int(guiSize.x * (-100.0/100))+3;
+            case 187:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+26;
+                layer = 2;
+                break;
+            case 188:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+29;
+                layer = 2;
+                break;
+            case 189:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+32;
+                layer = 2;
+                break;
+            case 190:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+35;
+                layer = 2;
+                break;
+            case 191:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+38;
+                layer = 2;
+                break;
+            case 192:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+41;
+                layer = 2;
+                break;
+            case 193:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+44;
+                layer = 2;
+                break;
+            case 194:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+47;
+                layer = 2;
+                break;
+            case 195:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+50;
+                layer = 2;
+                break;
+            case 196:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+53;
+                layer = 2;
+                break;
+            case 197:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+56;
+                layer = 2;
+                break;
+            case 198:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+59;
+                layer = 2;
+                break;
+            case 199:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+62;
+                layer = 2;
+                break;
+            case 200:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+65;
+                layer = 2;
+                break;
+            case 201:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+68;
+                layer = 2;
+                break;
+            case 202:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+71;
+                layer = 2;
+                break;
+            case 203:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+74;
+                layer = 2;
+                break;
+            case 204:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+77;
+                layer = 2;
+                break;
+            case 205:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
+                yOffset = int(guiSize.y * (0.0/100))+80;
+                layer = 2;
+                break;
+            case 206:
+                xOffset = int(guiSize.x * (-100.0/100))+8;
                 yOffset = int(guiSize.y * (0.0/100))+83;
                 layer = 2;
                 break;
-            case 179:
+            case 207:
                 xOffset = int(guiSize.x * (-50.0/100))-2;
                 yOffset = int(guiSize.y * (0.0/100))+32;
                 layer = 1;
                 break;
-            case 180:
+            case 208:
                 xOffset = int(guiSize.x * (-50.0/100))-182;
                 yOffset = int(guiSize.y * (0.0/100))+38;
                 layer = 2;
                 break;
-            case 181:
+            case 209:
                 xOffset = int(guiSize.x * (-50.0/100))-8;
                 yOffset = int(guiSize.y * (0.0/100))+29;
                 layer = 3;
