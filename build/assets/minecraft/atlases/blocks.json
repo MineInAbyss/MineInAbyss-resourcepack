@@ -11,6 +11,10 @@
         {
             "type": "single",
             "resource": "mineinabyss:furniture/sunny_wood_chair"
+        },
+        {
+            "type": "single",
+            "resource": "mineinabyss:furniture/grave"
         }
     ]
 }
