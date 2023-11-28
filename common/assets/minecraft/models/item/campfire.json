@@ -5,6 +5,8 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:block/bonfire/bonfire_icon"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:block/bonfire/bonfire_unlit"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:block/bonfire/bonfire_lit"},
+		{"predicate": {"custom_model_data": 3}, "model": "mineinabyss:block/bonfire/bonfire_self_lit"}
 	]
 }
