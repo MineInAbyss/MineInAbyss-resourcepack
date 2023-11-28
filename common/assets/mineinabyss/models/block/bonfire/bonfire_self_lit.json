@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"3": "block/soul_campfire_fire",
-		"4": "mineinabyss:campfire_log",
-		"5": "mineinabyss:sticks",
+		"4": "mineinabyss:block/bonfire/campfire_log",
+		"5": "mineinabyss:block/bonfire/sticks",
 		"particle": "block/soul_campfire_fire"
 	},
 	"elements": [
