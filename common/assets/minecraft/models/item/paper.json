@@ -40,6 +40,7 @@
     { "predicate": {"custom_model_data": 125}, "model": "mineinabyss:item/relics/star_compass/star_compass"},
     { "predicate": {"custom_model_data": 126}, "model": "mineinabyss:item/tools/depth_meter"},
     { "predicate": {"custom_model_data": 127}, "model": "mineinabyss:item/materials/haste_paste"},
+    { "predicate": {"custom_model_data": 128}, "model": "mineinabyss:item/materials/blank_template_rune"},
 
     { "predicate": {"custom_model_data": 200}, "model": "mineinabyss:npc/okibo"}
   ]
