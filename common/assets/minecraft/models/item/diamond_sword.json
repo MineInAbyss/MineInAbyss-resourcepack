@@ -5,31 +5,8 @@
 	},
 
 	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "camelot:item/sword/arondight"},
-		{ "predicate": {"custom_model_data": 2}, "model": "camelot:item/sword/clarent"},
-		{ "predicate": {"custom_model_data": 3}, "model": "camelot:item/sword/excalibur"},
-		{ "predicate": {"custom_model_data": 4}, "model": "camelot:item/sword/galatine"},
-		{ "predicate": {"custom_model_data": 5}, "model": "camelot:item/sword/hassan_sword"},
-		{ "predicate": {"custom_model_data": 6}, "model": "camelot:item/sword/steel_sword"},
-		{ "predicate": {"custom_model_data": 7}, "model": "camelot:item/weapon/brynhildr_spear"},
-		{ "predicate": {"custom_model_data": 9}, "model": "camelot:item/weapon/marthas_cross"},
-		{ "predicate": {"custom_model_data": 10}, "model": "camelot:item/weapon/nitocris_staff"},
-		{ "predicate": {"custom_model_data": 11}, "model": "camelot:item/weapon/ozy_staff"},
-		{ "predicate": {"custom_model_data": 12}, "model": "camelot:item/weapon/photon_ray"},
-		{ "predicate": {"custom_model_data": 13}, "model": "camelot:item/weapon/rhongomyniad"},
-	 	{ "predicate": {"custom_model_data": 14}, "model":"camelot:item/sword/excalibur_alter"},
-		{ "predicate": {"custom_model_data": 15}, "model": "camelot:item/other/bediviere_effect"},
-		{ "predicate": {"custom_model_data": 16}, "model": "camelot:item/other/holy_grail"},
-		{ "predicate": {"custom_model_data": 17}, "model": "camelot:item/other/not_so_holy_grail"},
-		{ "predicate": {"custom_model_data": 18}, "model": "camelot:item/other/nursery_rhyme"},
-		{ "predicate": {"custom_model_data": 19}, "model": "camelot:item/other/shuten_bowl"},
-		{ "predicate": {"custom_model_data": 20}, "model": "camelot:item/other/shuten_sakazuki"},
-		{ "predicate": {"custom_model_data": 100}, "model": "nazarick:item/3f"},
-		{ "predicate": {"custom_model_data": 102}, "model": "nazarick:item/ainz_staff"},
-		{ "predicate": {"custom_model_data": 104}, "model": "nazarick:item/demi_claw"},
-		{ "predicate": {"custom_model_data": 105}, "model":"nazarick:item/god_slaying_emperor_blade"},
-		{ "predicate": {"custom_model_data": 106}, "model":"nazarick:item/mare_staff"},
-		{ "predicate": {"custom_model_data": 107}, "model":"nazarick:item/ring"},
-		{ "predicate": {"custom_model_data": 108}, "model":"nazarick:item/shalltear_lance"}
+		{ "predicate": {"custom_model_data": 1}, "model": "packy:item/tools/2d_sword"},
+		{ "predicate": {"custom_model_data": 2}, "model": "packy:item/tools/3d_sword"},
+		{ "predicate": {"custom_model_data": 3}, "model": "packy:item/tools/vanilla_sword"}
 	]
 }
