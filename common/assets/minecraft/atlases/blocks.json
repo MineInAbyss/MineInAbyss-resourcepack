@@ -14,10 +14,6 @@
         },
         {
             "type": "single",
-            "resource": "cosmetics:hats/benner_cosplay"
-        },
-        {
-            "type": "single",
             "resource": "cosmetics:hats/menacing"
         },
         {
@@ -51,10 +47,6 @@
         {
             "type": "single",
             "resource": "mineinabyss:ui/pvp/pvp_toggle_enabled"
-        },
-        {
-            "type": "single",
-            "resource": "nazarick:entity/albedo"
         },
         {
             "type": "single",

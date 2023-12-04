@@ -5,7 +5,6 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data":  3}, "model": "mineinabyss:item/other/coal_pebble"},
-		{"predicate": {"custom_model_data":100}, "model": "camelot:item/sword/hassan_knife"}
+		{"predicate": {"custom_model_data":  3}, "model": "mineinabyss:item/other/coal_pebble"}
 	]
 }

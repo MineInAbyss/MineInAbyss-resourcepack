@@ -21,9 +21,7 @@
     { "predicate": {"custom_model_data": 207}, "model": "mineinabyss:item/cosmetics/ozen_hat"},
     { "predicate": {"custom_model_data": 208}, "model": "mineinabyss:item/cosmetics/prushka_hat"},
     { "predicate": {"custom_model_data": 209}, "model": "mineinabyss:item/cosmetics/reg_hat"},
-    { "predicate": {"custom_model_data": 210}, "model": "nazarick:item/albedo_horns"},
     { "predicate": {"custom_model_data": 211}, "model": "cosmetics:hats/menacing"},
-    { "predicate": {"custom_model_data": 212}, "model": "cosmetics:hats/benner_cosplay"},
 
     { "predicate": {"custom_model_data": 301}, "model": "cosmetics:balloons/neritantan_balloon"},
 
