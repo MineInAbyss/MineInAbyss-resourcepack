@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/tools/iron_tools",
-		"particle": "item/tools/iron_tools"
+		"2": "item/iron_tools",
+		"particle": "item/iron_tools"
 	},
 	"elements": [
 		{

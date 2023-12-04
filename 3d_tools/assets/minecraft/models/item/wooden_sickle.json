@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:item/tools/wood_tools",
-		"particle": "mineinabyss:item/tools/wood_tools"
+		"0": "mineinabyss:item/wood_tools",
+		"particle": "mineinabyss:item/wood_tools"
 	},
 	"elements": [
 		{

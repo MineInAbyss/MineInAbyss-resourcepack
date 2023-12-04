@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/tools/gold_tools",
-		"particle": "item/tools/gold_tools"
+		"1": "item/gold_tools",
+		"particle": "item/gold_tools"
 	},
 	"overrides": [
 		{ "predicate": {"custom_model_data": 1}, "model": "item/golden_sickle"}

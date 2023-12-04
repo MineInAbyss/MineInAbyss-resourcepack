@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/tools/netherite_tools",
-		"particle": "item/tools/netherite_tools"
+		"1": "item/netherite_tools",
+		"particle": "item/netherite_tools"
 	},
 	"elements": [
 		{
