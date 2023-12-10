@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mineinabyss:item/gold_tools",
-		"particle": "mineinabyss:item/gold_tools"
+		"0": "item/gold_tools",
+		"particle": "item/gold_tools"
 	},
 	"elements": [
 		{
