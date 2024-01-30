@@ -9,6 +9,9 @@
     {"predicate": {"custom_model_data": 1001}, "model": "mineinabyss:furniture/sunny_wood_chair"},
     {"predicate": {"custom_model_data": 1032}, "model": "mineinabyss:furniture/noticeboard_okibo"},
     {"predicate": {"custom_model_data": 1033}, "model": "mineinabyss:furniture/grave"},
+    {"predicate": {"custom_model_data": 1034}, "model": "mineinabyss:block/bonfire/bonfire_unlit"},
+    {"predicate": {"custom_model_data": 1035}, "model": "mineinabyss:block/bonfire/bonfire_lit"},
+    {"predicate": {"custom_model_data": 1036}, "model": "mineinabyss:block/bonfire/bonfire_self_lit"},
 
     {"predicate": {"custom_model_data": 2000}, "model": "minecraft:block/note_block"},
     {"predicate": {"custom_model_data": 2001}, "model": "mineinabyss:block/ores/charcoal_sand_ore"},
