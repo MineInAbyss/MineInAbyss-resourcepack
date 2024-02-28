@@ -21,12 +21,6 @@
     { "predicate": {"custom_model_data": 203}, "model": "mineinabyss:item/relics/whistle/moon_whistle"},
     { "predicate": {"custom_model_data": 204}, "model": "mineinabyss:item/relics/whistle/black_whistle"},
     { "predicate": {"custom_model_data": 205}, "model": "mineinabyss:item/relics/whistle/white_whistle"},
-    { "predicate": {"custom_model_data": 210}, "model": "mineinabyss:item/relics/whistle/bell_fp"},
-    { "predicate": {"custom_model_data": 211}, "model": "mineinabyss:item/relics/whistle/red_whistle_fp"},
-    { "predicate": {"custom_model_data": 212}, "model": "mineinabyss:item/relics/whistle/blue_whistle_fp"},
-    { "predicate": {"custom_model_data": 213}, "model": "mineinabyss:item/relics/whistle/moon_whistle_fp"},
-    { "predicate": {"custom_model_data": 214}, "model": "mineinabyss:item/relics/whistle/black_whistle_fp"},
-    { "predicate": {"custom_model_data": 215}, "model": "mineinabyss:item/relics/whistle/white_whistle_fp"},
 
     { "predicate": {"custom_model_data": 301}, "model": "mineinabyss:item/cosmetics/bondrewd_hat"},
     { "predicate": {"custom_model_data": 302}, "model": "mineinabyss:item/cosmetics/faputa_hat"},
