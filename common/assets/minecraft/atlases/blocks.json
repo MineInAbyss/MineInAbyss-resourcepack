@@ -1,6 +1,11 @@
 {
     "sources": [
         {
+            "type": "directory",
+            "source": "backpacks/default_backpack",
+            "prefix": "backpacks/default_backpack/"
+        },
+        {
             "type": "single",
             "resource": "cosmetics:backpacks/neritantan_backpack"
         },
