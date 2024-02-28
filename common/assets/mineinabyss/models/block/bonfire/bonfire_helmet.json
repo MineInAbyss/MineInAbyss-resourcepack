@@ -5,7 +5,7 @@
 		"1": "mineinabyss:item/tools/iron_tools",
 		"3": "mineinabyss:block/bonfire/meat",
 		"5": "mineinabyss:block/bonfire/sticks",
-		"6": "mineinabyss:item/equipment/backpack/yellow_backpack",
+		"6": "cosmetics:backpacks/default_backpack/yellow_backpack",
 		"7": "mineinabyss:block/bonfire/helmet",
 		"particle": "mineinabyss:item/tools/iron_tools"
 	},
