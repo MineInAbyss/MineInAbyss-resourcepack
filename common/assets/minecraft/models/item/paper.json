@@ -42,6 +42,13 @@
     { "predicate": {"custom_model_data": 127}, "model": "mineinabyss:item/materials/haste_paste"},
     { "predicate": {"custom_model_data": 128}, "model": "mineinabyss:item/materials/blank_template_rune"},
 
-    { "predicate": {"custom_model_data": 200}, "model": "mineinabyss:npc/okibo"}
+    { "predicate": {"custom_model_data": 200}, "model": "mineinabyss:npc/okibo"},
+
+    { "predicate": {"custom_model_data": 300}, "model": "mineinabyss:item/relics/whistle/bell"},
+    { "predicate": {"custom_model_data": 301}, "model": "mineinabyss:item/relics/whistle/red_whistle"},
+    { "predicate": {"custom_model_data": 302}, "model": "mineinabyss:item/relics/whistle/blue_whistle"},
+    { "predicate": {"custom_model_data": 303}, "model": "mineinabyss:item/relics/whistle/moon_whistle"},
+    { "predicate": {"custom_model_data": 304}, "model": "mineinabyss:item/relics/whistle/black_whistle"},
+    { "predicate": {"custom_model_data": 305}, "model": "mineinabyss:item/relics/whistle/white_whistle"}
   ]
 }
