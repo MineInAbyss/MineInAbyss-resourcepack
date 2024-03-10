@@ -32,6 +32,10 @@
     { "predicate": {"custom_model_data": 308}, "model": "mineinabyss:item/cosmetics/prushka_hat"},
     { "predicate": {"custom_model_data": 309}, "model": "mineinabyss:item/cosmetics/reg_hat"},
     { "predicate": {"custom_model_data": 311}, "model": "cosmetics:hats/menacing"},
+    { "predicate": {"custom_model_data": 313}, "model": "cosmetics:hats/goggles"},
+    { "predicate": {"custom_model_data": 314}, "model": "cosmetics:hats/double_flower"},
+    { "predicate": {"custom_model_data": 315}, "model": "cosmetics:hats/side_flower"},
+
 
     { "predicate": {"custom_model_data": 401}, "model": "cosmetics:balloons/neritantan_balloon"},
 
