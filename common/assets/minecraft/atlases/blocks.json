@@ -23,6 +23,14 @@
         },
         {
             "type": "single",
+            "resource": "cosmetics:hats/flowercosmetic"
+        },
+        {
+            "type": "single",
+            "resource": "cosmetics:hats/gogglescosmetic"
+        },
+        {
+            "type": "single",
             "resource": "cosmetics:other/paintbrush"
         },
         {
