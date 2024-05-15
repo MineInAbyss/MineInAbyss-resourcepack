@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+
+  "overrides": [
+    { "predicate": {"custom_model_data": 300}, "model": "mineinabyss:item/tools/sickle/wooden_sickle"},
+    { "predicate": {"custom_model_data": 301}, "model": "mineinabyss:item/tools/sickle/stone_sickle"},
+    { "predicate": {"custom_model_data": 302}, "model": "mineinabyss:item/tools/sickle/iron_sickle"},
+    { "predicate": {"custom_model_data": 303}, "model": "mineinabyss:item/tools/sickle/golden_sickle"},
+    { "predicate": {"custom_model_data": 304}, "model": "mineinabyss:item/tools/sickle/diamond_sickle"},
+    { "predicate": {"custom_model_data": 305}, "model": "mineinabyss:item/tools/sickle/netherite_sickle"}
+  ]
+}
