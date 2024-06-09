@@ -18,6 +18,7 @@
     "spectatorMenu.team_teleport":"§9传送至§3队伍成员",
     "spectatorMenu.team_teleport.prompt":"§9传送至选择的队伍",
     "spectatorMenu.root.prompt":"§9按下按键选择命令,再次按下来使用它",
+    "chat.type.text": "%s%s",
     "chat.type.advancement.task":"§7%s §b取得了进度 §b%s",
     "chat.type.advancement.challenge":"§7%s §b完成了挑战 %s",
     "chat.type.advancement.goal":"§7%s §b达成了目标 %s",
