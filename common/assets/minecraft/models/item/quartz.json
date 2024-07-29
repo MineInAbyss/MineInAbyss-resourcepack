@@ -5,6 +5,7 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/orb_piercer_spike"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/orb_piercer_spike"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/hagamizukin_tooth"}
 	]
 }

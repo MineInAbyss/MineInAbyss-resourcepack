@@ -66,6 +66,7 @@
     {"predicate": {"custom_model_data": 319}, "model": "mineinabyss:item/food/creatures/squidfly_brain_raw"},
     {"predicate": {"custom_model_data": 320}, "model": "mineinabyss:item/food/creatures/tesuchi_tail"},
     {"predicate": {"custom_model_data": 321}, "model": "mineinabyss:item/creaturedrops/kuongatari_abdomen"},
+    {"predicate": {"custom_model_data": 322}, "model": "mineinabyss:item/food/creatures/hagamizukin_raw"},
 
     {"predicate": {"custom_model_data": 401}, "model": "mineinabyss:item/food/creatures/inbyo_meat_cooked"},
     {"predicate": {"custom_model_data": 402}, "model": "mineinabyss:item/food/creatures/uibuta_meat_cooked"},
@@ -88,6 +89,9 @@
     {"predicate": {"custom_model_data": 419}, "model": "mineinabyss:item/food/creatures/squidfly_brain_cooked"},
     {"predicate": {"custom_model_data": 420}, "model": "mineinabyss:item/creaturedrops/tesuchi_scales"},
     {"predicate": {"custom_model_data": 421}, "model": "mineinabyss:item/creaturedrops/kuongatari_abdomen_cooked"},
+    {"predicate": {"custom_model_data": 422}, "model": "mineinabyss:item/food/creatures/hagamizukin_raw"},
+
+
     {"predicate": {"custom_model_data": 501}, "model": "mineinabyss:item/food/standard_food/idofront_ration"}
   ]
 }
