@@ -5,6 +5,7 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/sakuranbo_dust"}
+		{"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/sakuranbo_dust"},
+		{"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/swarmshocker_Charged_Powder"}
 	]
 }

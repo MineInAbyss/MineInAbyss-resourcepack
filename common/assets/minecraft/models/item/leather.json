@@ -8,6 +8,7 @@
     {"predicate": {"custom_model_data": 1}, "model": "mineinabyss:item/creaturedrops/makihige_tentacle"},
     {"predicate": {"custom_model_data": 2}, "model": "mineinabyss:item/creaturedrops/dosetori_wingflap"},
     {"predicate": {"custom_model_data": 3}, "model": "mineinabyss:item/creaturedrops/urikouri_wing"},
-    {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/creaturedrops/okibo_leather"}
+    {"predicate": {"custom_model_data": 4}, "model": "mineinabyss:item/creaturedrops/okibo_leather"},
+    {"predicate": {"custom_model_data": 5}, "model": "mineinabyss:item/creaturedrops/daikonchu_wing"}
   ]
 }

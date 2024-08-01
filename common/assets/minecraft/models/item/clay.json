@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/clay"
+    "layer0": "item/clay_ball"
   },
 
   "overrides": [
