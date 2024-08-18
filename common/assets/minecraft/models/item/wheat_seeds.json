@@ -1,7 +1,7 @@
 {
-	"parent": "item/generated",
+	"parent": "block/wheat_seeds",
 	"textures": {
-		"layer0": "item/wheat_seeds"
+		"layer0": "block/wheat_seeds"
 	},
 
 	"overrides": [
