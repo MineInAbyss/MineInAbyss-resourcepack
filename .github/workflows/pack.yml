@@ -46,7 +46,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download release version artifact
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: version
       - name: Setup Python
@@ -79,7 +79,7 @@ jobs:
     needs: [determine-release-version, generatepack]
     steps:
       - name: Download release version artifact
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: version
       - shell: bash
@@ -88,15 +88,15 @@ jobs:
           version=`cat version/version.txt`
           echo "::set-output name=version::$version"
       - name: Download Survival Resourcepack
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: survival-pack
       - name: Download Build Resourcepack
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: build-pack
       - name: Download Dev Resourcepack
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v4.1.7
         with:
           name: dev-pack
       - name: Create GitHub Release
