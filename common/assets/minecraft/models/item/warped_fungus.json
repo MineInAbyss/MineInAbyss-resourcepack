@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "mineinabyss:item/creaturedrops/parasitic_watershroom"
+		"layer0": "mineinabyss:item/creature_drops/parasitic_watershrooms"
 	}
 }

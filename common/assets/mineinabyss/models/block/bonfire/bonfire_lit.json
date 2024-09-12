@@ -6,7 +6,7 @@
 		"2": "block/campfire_fire",
 		"4": "mineinabyss:block/bonfire/campfire_log",
 		"5": "mineinabyss:block/bonfire/sticks",
-		"particle": "block/block/campfire_fire"
+		"particle": "block/campfire_fire"
 	},
 	"elements": [
 		{
