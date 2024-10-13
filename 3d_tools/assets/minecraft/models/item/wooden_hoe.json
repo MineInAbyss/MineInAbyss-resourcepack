@@ -5,7 +5,13 @@
 		"particle": "item/wood_tools"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/wooden_sickle"}
+		{ "predicate": {"custom_model_data": 1}, "model": "item/wooden_sickle"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/stone_sickle"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/iron_sickle"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/golden_sickle"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/diamond_sickle"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/netherite_sickle"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/charcoal_sand_sickle"}
 	],
 	"elements": [
 		{

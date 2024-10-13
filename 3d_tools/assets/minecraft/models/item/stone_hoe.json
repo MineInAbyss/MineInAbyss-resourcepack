@@ -4,9 +4,6 @@
 		"0": "item/stone_tools",
 		"particle": "item/stone_tools"
 	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/stone_sickle"}
-	],
 	"elements": [
 		{
 			"from": [6.925, -16, 5.45],

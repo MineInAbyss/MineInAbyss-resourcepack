@@ -4,9 +4,6 @@
 		"0": "item/diamond_tools",
 		"particle": "item/diamond_tools"
 	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/diamond_sickle"}
-	],
 	"elements": [
 		{
 			"from": [7.45, -1.0956, 2.38572],

@@ -5,9 +5,6 @@
 		"1": "item/wood_tools",
 		"particle": "item/netherite_tools"
 	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/netherite_sickle"}
-	],
 	"elements": [
 		{
 			"from": [7, 25.25, 1],

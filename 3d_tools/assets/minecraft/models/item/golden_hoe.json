@@ -4,9 +4,6 @@
 		"1": "item/gold_tools",
 		"particle": "item/gold_tools"
 	},
-	"overrides": [
-		{ "predicate": {"custom_model_data": 1}, "model": "item/golden_sickle"}
-	],
 	"elements": [
 		{
 			"from": [7, -10.25, 6],
