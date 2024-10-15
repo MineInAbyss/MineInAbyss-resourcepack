@@ -12,6 +12,10 @@
     {"predicate": {"custom_model_data": 1034}, "model": "mineinabyss:block/bonfire/bonfire_unlit"},
     {"predicate": {"custom_model_data": 1035}, "model": "mineinabyss:block/bonfire/bonfire_lit"},
     {"predicate": {"custom_model_data": 1036}, "model": "mineinabyss:block/bonfire/bonfire_self_lit"},
+    {"predicate": {"custom_model_data": 1037}, "model": "mineinabyss:block/bonfire/bonfire_1"},
+    {"predicate": {"custom_model_data": 1038}, "model": "mineinabyss:block/bonfire/bonfire_2"},
+    {"predicate": {"custom_model_data": 1039}, "model": "mineinabyss:block/bonfire/bonfire_3"},
+    {"predicate": {"custom_model_data": 1040}, "model": "mineinabyss:block/bonfire/bonfire_4"},
 
     {"predicate": {"custom_model_data": 2000}, "model": "minecraft:block/note_block"},
     {"predicate": {"custom_model_data": 2001}, "model": "mineinabyss:block/ores/charcoal_sand_ore"},
