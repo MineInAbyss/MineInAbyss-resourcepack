@@ -4,5 +4,5 @@
 		"0": "mineinabyss:item/relics/whistle/black_whistle",
 		"particle": "mineinabyss:item/relics/whistle/black_whistle"
 	},
-	"parent": "mineinabyss:item/relics/whistle/whistle"
+	"parent": "mineinabyss:item/relics/whistle/whistle_fp"
 }
